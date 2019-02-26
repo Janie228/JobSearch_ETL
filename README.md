@@ -10,3 +10,12 @@ Mongo &amp; Web Scraping                                                        
 * Load the formatted job employment data to MongoDB job database
 * Select the desired columns from MongoDB and read back to dataframe for analysis
 * Save result dataset into excel sheet in Output directory
+
+## Jobs_Munging.ipynb File display the process with classes JLFileMgr.py, JLScraper.py, & JLParser.py
+MongoDB Job_DB
+
+![Jobs.JPG](Images/Jobs.JPG)
+
+![JEmployment.JPG](Images/Employment.JPG)
+
+![Population.JPG](Images/Population.JPG)
