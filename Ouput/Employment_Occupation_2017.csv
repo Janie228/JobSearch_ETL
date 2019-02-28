@@ -1,0 +1,1189 @@
+,Hr_Mean_Wage,Jobs_1000,Occupation,State,Tot_Emp,Yr_Mean_Wage
+0,53.44,36.385,Management,Alabama,69950,111150.0
+1,34.33,38.028,Business and Financial Operations,Alabama,73110,71410.0
+2,39.36,20.68,Computer and Mathematical,Alabama,39760,81870.0
+3,42.41,22.37,Architecture and Engineering,Alabama,43010,88220.0
+4,31.11,4.295,"Life, Physical, and Social Science",Alabama,8260,64700.0
+5,21.11,9.352,Community and Social Service,Alabama,17980,43920.0
+6,41.86,5.245,Legal,Alabama,10080,87080.0
+7,22.87,53.724,"Education, Training, and Library",Alabama,103290,47560.0
+8,21.55,9.07,"Arts, Design, Entertainment, Sports, and Media",Alabama,17440,44820.0
+9,33.62,68.352,Healthcare Practitioners and Technical,Alabama,131410,69940.0
+10,12.74,27.725,Healthcare Support,Alabama,53300,26500.0
+11,17.84,22.058,Protective Service,Alabama,42410,37110.0
+12,10.15,90.138,Food Preparation and Serving Related,Alabama,173300,21110.0
+13,11.91,30.62,Building and Grounds Cleaning and Maintenance,Alabama,58870,24780.0
+14,10.99,25.176,Personal Care and Service,Alabama,48400,22860.0
+15,16.52,111.139,Sales and Related,Alabama,213670,34370.0
+16,16.31,146.888,Office and Administrative Support,Alabama,282400,33920.0
+17,16.51,2.762,"Farming, Fishing, and Forestry",Alabama,5310,34340.0
+18,19.6,38.421,Construction and Extraction,Alabama,73870,40770.0
+19,22.12,47.162,"Installation, Maintenance, and Repair",Alabama,90670,46010.0
+20,16.73,113.321,Production,Alabama,217870,34800.0
+21,15.64,77.09,Transportation and Material Moving,Alabama,148210,32540.0
+22,52.22,57.886,Management,Alaska,18420,108620.0
+23,37.78,43.535,Business and Financial Operations,Alaska,13850,78590.0
+24,39.34,17.124,Computer and Mathematical,Alaska,5450,81820.0
+25,50.28,24.712,Architecture and Engineering,Alaska,7860,104570.0
+26,36.54,18.901,"Life, Physical, and Social Science",Alaska,6010,76000.0
+27,25.25,23.254,Community and Social Service,Alaska,7400,52520.0
+28,47.24,6.373,Legal,Alaska,2030,98260.0
+29,30.66,68.71,"Education, Training, and Library",Alaska,21860,63780.0
+30,26.49,10.054,"Arts, Design, Entertainment, Sports, and Media",Alaska,3200,55100.0
+31,47.12,53.865,Healthcare Practitioners and Technical,Alaska,17140,98020.0
+32,21.14,27.088,Healthcare Support,Alaska,8620,43970.0
+33,28.57,24.531,Protective Service,Alaska,7800,59420.0
+34,13.65,88.137,Food Preparation and Serving Related,Alaska,28040,28390.0
+35,16.46,32.772,Building and Grounds Cleaning and Maintenance,Alaska,10430,34240.0
+36,15.48,36.759,Personal Care and Service,Alaska,11700,32200.0
+37,17.93,81.649,Sales and Related,Alaska,25980,37300.0
+38,21.09,161.589,Office and Administrative Support,Alaska,51410,43870.0
+39,19.41,1.32,"Farming, Fishing, and Forestry",Alaska,420,40360.0
+40,32.02,59.327,Construction and Extraction,Alaska,18880,66600.0
+41,29.51,53.845,"Installation, Maintenance, and Repair",Alaska,17130,61370.0
+42,21.31,34.547,Production,Alaska,10990,44330.0
+43,27.04,74.021,Transportation and Material Moving,Alaska,23550,56240.0
+44,48.4,62.121,Management,Arizona,167980,100680.0
+45,32.79,51.896,Business and Financial Operations,Arizona,140330,68190.0
+46,39.87,34.573,Computer and Mathematical,Arizona,93490,82940.0
+47,40.21,18.062,Architecture and Engineering,Arizona,48840,83640.0
+48,30.49,7.397,"Life, Physical, and Social Science",Arizona,20000,63420.0
+49,21.49,15.902,Community and Social Service,Arizona,43000,44710.0
+50,47.31,6.983,Legal,Arizona,18880,98400.0
+51,22.72,51.692,"Education, Training, and Library",Arizona,139780,47260.0
+52,24.82,11.376,"Arts, Design, Entertainment, Sports, and Media",Arizona,30760,51630.0
+53,39.56,59.299,Healthcare Practitioners and Technical,Arizona,160350,82290.0
+54,15.35,25.584,Healthcare Support,Arizona,69180,31920.0
+55,22.61,29.26,Protective Service,Arizona,79120,47030.0
+56,12.23,96.49,Food Preparation and Serving Related,Arizona,260910,25450.0
+57,13.12,30.326,Building and Grounds Cleaning and Maintenance,Arizona,82000,27290.0
+58,12.98,35.453,Personal Care and Service,Arizona,95870,27010.0
+59,17.8,107.24,Sales and Related,Arizona,289980,37030.0
+60,17.79,170.498,Office and Administrative Support,Arizona,461030,37010.0
+61,12.27,4.599,"Farming, Fishing, and Forestry",Arizona,12440,25520.0
+62,21.16,41.259,Construction and Extraction,Arizona,111570,44020.0
+63,21.93,40.456,"Installation, Maintenance, and Repair",Arizona,109390,45620.0
+64,17.8,40.661,Production,Arizona,109950,37030.0
+65,18.09,58.874,Transportation and Material Moving,Arizona,159200,37630.0
+66,42.85,50.865,Management,Arkansas,61040,89130.0
+67,29.77,41.396,Business and Financial Operations,Arkansas,49680,61920.0
+68,32.87,19.873,Computer and Mathematical,Arkansas,23850,68360.0
+69,33.44,10.272,Architecture and Engineering,Arkansas,12330,69540.0
+70,27.74,4.937,"Life, Physical, and Social Science",Arkansas,5930,57710.0
+71,19.36,11.83,Community and Social Service,Arkansas,14200,40270.0
+72,33.55,5.2,Legal,Arkansas,6240,69780.0
+73,21.83,62.106,"Education, Training, and Library",Arkansas,74540,45400.0
+74,21.85,7.816,"Arts, Design, Entertainment, Sports, and Media",Arkansas,9380,45440.0
+75,31.95,66.468,Healthcare Practitioners and Technical,Arkansas,79770,66450.0
+76,12.71,31.104,Healthcare Support,Arkansas,37330,26430.0
+77,17.4,22.279,Protective Service,Arkansas,26740,36180.0
+78,10.3,88.683,Food Preparation and Serving Related,Arkansas,106430,21420.0
+79,11.55,29.397,Building and Grounds Cleaning and Maintenance,Arkansas,35280,24030.0
+80,11.0,28.332,Personal Care and Service,Arkansas,34000,22880.0
+81,16.19,104.013,Sales and Related,Arkansas,124830,33680.0
+82,15.64,142.327,Office and Administrative Support,Arkansas,170810,32540.0
+83,15.11,4.914,"Farming, Fishing, and Forestry",Arkansas,5900,31440.0
+84,18.11,38.602,Construction and Extraction,Arkansas,46330,37660.0
+85,20.11,46.133,"Installation, Maintenance, and Repair",Arkansas,55370,41830.0
+86,16.07,95.405,Production,Arkansas,114500,33430.0
+87,15.92,88.048,Transportation and Material Moving,Arkansas,105670,33110.0
+88,63.57,56.461,Management,California,942620,132220.0
+89,40.14,58.602,Business and Financial Operations,California,978370,83500.0
+90,50.66,35.373,Computer and Mathematical,California,590550,105380.0
+91,47.87,19.871,Architecture and Engineering,California,331740,99580.0
+92,39.67,10.368,"Life, Physical, and Social Science",California,173100,82510.0
+93,26.44,16.078,Community and Social Service,California,268430,55000.0
+94,62.09,7.752,Legal,California,129420,129140.0
+95,30.59,60.738,"Education, Training, and Library",California,1014020,63620.0
+96,34.88,19.12,"Arts, Design, Entertainment, Sports, and Media",California,319210,72550.0
+97,46.22,49.538,Healthcare Practitioners and Technical,California,827030,96130.0
+98,17.83,21.538,Healthcare Support,California,359580,37100.0
+99,28.3,22.751,Protective Service,California,379830,58860.0
+100,13.59,93.325,Food Preparation and Serving Related,California,1558050,28270.0
+101,15.86,28.636,Building and Grounds Cleaning and Maintenance,California,478080,32980.0
+102,13.85,53.873,Personal Care and Service,California,899410,28810.0
+103,20.91,97.426,Sales and Related,California,1626530,43500.0
+104,20.11,148.834,Office and Administrative Support,California,2484780,41820.0
+105,12.61,13.377,"Farming, Fishing, and Forestry",California,223330,26240.0
+106,27.89,37.274,Construction and Extraction,California,622290,58010.0
+107,25.33,31.103,"Installation, Maintenance, and Repair",California,519260,52680.0
+108,18.48,50.864,Production,California,849170,38430.0
+109,18.26,67.099,Transportation and Material Moving,California,1120230,37970.0
+110,61.91,44.191,Management,Colorado,112920,128770.0
+111,37.16,70.041,Business and Financial Operations,Colorado,178980,77290.0
+112,45.79,42.832,Computer and Mathematical,Colorado,109450,95240.0
+113,43.46,24.634,Architecture and Engineering,Colorado,62950,90390.0
+114,36.51,11.879,"Life, Physical, and Social Science",Colorado,30350,75950.0
+115,23.77,14.437,Community and Social Service,Colorado,36890,49440.0
+116,51.97,8.068,Legal,Colorado,20620,108100.0
+117,25.88,55.936,"Education, Training, and Library",Colorado,142930,53830.0
+118,25.87,15.414,"Arts, Design, Entertainment, Sports, and Media",Colorado,39390,53810.0
+119,40.03,55.623,Healthcare Practitioners and Technical,Colorado,142130,83270.0
+120,16.51,24.108,Healthcare Support,Colorado,61600,34330.0
+121,23.26,21.972,Protective Service,Colorado,56150,48380.0
+122,12.31,96.914,Food Preparation and Serving Related,Colorado,247640,25610.0
+123,14.46,32.727,Building and Grounds Cleaning and Maintenance,Colorado,83630,30070.0
+124,14.27,34.176,Personal Care and Service,Colorado,87330,29690.0
+125,21.9,115.887,Sales and Related,Colorado,296130,45550.0
+126,19.06,141.075,Office and Administrative Support,Colorado,360490,39630.0
+127,14.4,2.642,"Farming, Fishing, and Forestry",Colorado,6750,29960.0
+128,23.1,52.402,Construction and Extraction,Colorado,133900,48040.0
+129,24.21,37.553,"Installation, Maintenance, and Repair",Colorado,95960,50350.0
+130,18.99,40.203,Production,Colorado,102730,39510.0
+131,19.75,57.285,Transportation and Material Moving,Colorado,146380,41080.0
+132,65.74,70.793,Management,Connecticut,117120,136740.0
+133,40.53,54.626,Business and Financial Operations,Connecticut,90370,84300.0
+134,44.11,29.999,Computer and Mathematical,Connecticut,49630,91740.0
+135,42.38,20.798,Architecture and Engineering,Connecticut,34410,88150.0
+136,40.05,6.975,"Life, Physical, and Social Science",Connecticut,11540,83300.0
+137,27.3,20.797,Community and Social Service,Connecticut,34410,56780.0
+138,53.44,8.244,Legal,Connecticut,13640,111160.0
+139,31.16,71.549,"Education, Training, and Library",Connecticut,118370,64810.0
+140,28.95,13.775,"Arts, Design, Entertainment, Sports, and Media",Connecticut,22790,60210.0
+141,44.9,62.557,Healthcare Practitioners and Technical,Connecticut,103500,93390.0
+142,16.96,30.179,Healthcare Support,Connecticut,49930,35270.0
+143,25.93,22.204,Protective Service,Connecticut,36730,53940.0
+144,13.0,83.066,Food Preparation and Serving Related,Connecticut,137430,27040.0
+145,16.63,34.012,Building and Grounds Cleaning and Maintenance,Connecticut,56270,34600.0
+146,14.99,42.661,Personal Care and Service,Connecticut,70580,31180.0
+147,22.62,97.538,Sales and Related,Connecticut,161370,47060.0
+148,21.06,154.859,Office and Administrative Support,Connecticut,256200,43810.0
+149,15.78,0.792,"Farming, Fishing, and Forestry",Connecticut,1310,32820.0
+150,27.3,30.322,Construction and Extraction,Connecticut,50170,56790.0
+151,26.44,32.251,"Installation, Maintenance, and Repair",Connecticut,53360,55000.0
+152,21.41,56.826,Production,Connecticut,94010,44530.0
+153,18.47,55.178,Transportation and Material Moving,Connecticut,91290,38420.0
+154,66.83,41.226,Management,Delaware,18250,139010.0
+155,37.28,62.515,Business and Financial Operations,Delaware,27680,77540.0
+156,44.54,39.677,Computer and Mathematical,Delaware,17560,92630.0
+157,42.78,14.552,Architecture and Engineering,Delaware,6440,88980.0
+158,38.18,12.119,"Life, Physical, and Social Science",Delaware,5360,79420.0
+159,22.36,15.229,Community and Social Service,Delaware,6740,46510.0
+160,57.27,11.073,Legal,Delaware,4900,119130.0
+161,26.2,57.54,"Education, Training, and Library",Delaware,25470,54490.0
+162,23.32,8.501,"Arts, Design, Entertainment, Sports, and Media",Delaware,3760,48500.0
+163,41.0,70.024,Healthcare Practitioners and Technical,Delaware,31000,85280.0
+164,15.9,27.605,Healthcare Support,Delaware,12220,33070.0
+165,20.75,22.216,Protective Service,Delaware,9840,43150.0
+166,11.96,92.217,Food Preparation and Serving Related,Delaware,40820,24870.0
+167,13.92,34.735,Building and Grounds Cleaning and Maintenance,Delaware,15380,28950.0
+168,13.08,36.146,Personal Care and Service,Delaware,16000,27210.0
+169,18.5,107.955,Sales and Related,Delaware,47790,38480.0
+170,18.47,162.316,Office and Administrative Support,Delaware,71860,38410.0
+171,17.1,1.979,"Farming, Fishing, and Forestry",Delaware,880,35570.0
+172,24.28,35.034,Construction and Extraction,Delaware,15510,50500.0
+173,24.12,35.969,"Installation, Maintenance, and Repair",Delaware,15920,50180.0
+174,18.33,43.366,Production,Delaware,19200,38120.0
+175,16.29,68.006,Transportation and Material Moving,Delaware,30110,33890.0
+176,70.09,121.467,Management,District of Columbia,86030,145780.0
+177,46.7,146.971,Business and Financial Operations,District of Columbia,104090,97130.0
+178,51.34,60.584,Computer and Mathematical,District of Columbia,42910,106790.0
+179,52.09,16.806,Architecture and Engineering,District of Columbia,11900,108340.0
+180,51.14,35.358,"Life, Physical, and Social Science",District of Columbia,25040,106360.0
+181,28.97,16.53,Community and Social Service,District of Columbia,11710,60270.0
+182,81.25,55.807,Legal,District of Columbia,39520,169000.0
+183,37.89,48.034,"Education, Training, and Library",District of Columbia,34020,78810.0
+184,44.09,52.723,"Arts, Design, Entertainment, Sports, and Media",District of Columbia,37340,91710.0
+185,44.91,44.311,Healthcare Practitioners and Technical,District of Columbia,31380,93420.0
+186,16.02,19.957,Healthcare Support,District of Columbia,14130,33310.0
+187,30.07,38.871,Protective Service,District of Columbia,27530,62540.0
+188,16.04,78.05,Food Preparation and Serving Related,District of Columbia,55280,33350.0
+189,16.05,31.551,Building and Grounds Cleaning and Maintenance,District of Columbia,22350,33390.0
+190,17.4,21.08,Personal Care and Service,District of Columbia,14930,36190.0
+191,22.9,39.779,Sales and Related,District of Columbia,28170,47640.0
+192,25.34,110.851,Office and Administrative Support,District of Columbia,78510,52700.0
+193,22.47,0.283,"Farming, Fishing, and Forestry",District of Columbia,200,46730.0
+194,26.75,18.976,Construction and Extraction,District of Columbia,13440,55640.0
+195,27.58,13.601,"Installation, Maintenance, and Repair",District of Columbia,9630,57360.0
+196,27.43,7.272,Production,District of Columbia,5150,57050.0
+197,22.08,21.14,Transportation and Material Moving,District of Columbia,14970,45920.0
+198,53.95,40.509,Management,Florida,341050,112210.0
+199,32.98,52.972,Business and Financial Operations,Florida,445980,68610.0
+200,36.74,23.63,Computer and Mathematical,Florida,198940,76420.0
+201,35.63,12.166,Architecture and Engineering,Florida,102430,74110.0
+202,30.06,4.563,"Life, Physical, and Social Science",Florida,38420,62520.0
+203,21.12,11.003,Community and Social Service,Florida,92640,43930.0
+204,45.38,10.284,Legal,Florida,86580,94400.0
+205,23.5,49.914,"Education, Training, and Library",Florida,420230,48890.0
+206,24.29,11.772,"Arts, Design, Entertainment, Sports, and Media",Florida,99110,50520.0
+207,36.12,62.13,Healthcare Practitioners and Technical,Florida,523070,75140.0
+208,14.7,29.7,Healthcare Support,Florida,250050,30570.0
+209,19.94,27.941,Protective Service,Florida,235240,41480.0
+210,12.21,109.464,Food Preparation and Serving Related,Florida,921580,25400.0
+211,12.38,38.705,Building and Grounds Cleaning and Maintenance,Florida,325860,25750.0
+212,12.9,28.975,Personal Care and Service,Florida,243940,26840.0
+213,18.28,126.85,Sales and Related,Florida,1067960,38010.0
+214,16.76,170.133,Office and Administrative Support,Florida,1432350,34860.0
+215,12.41,2.587,"Farming, Fishing, and Forestry",Florida,21780,25800.0
+216,19.14,44.766,Construction and Extraction,Florida,376890,39810.0
+217,20.37,42.156,"Installation, Maintenance, and Repair",Florida,354920,42370.0
+218,16.39,37.362,Production,Florida,314550,34100.0
+219,16.89,62.417,Transportation and Material Moving,Florida,525490,35130.0
+220,55.86,57.29,Management,Georgia,246550,116180.0
+221,34.59,54.547,Business and Financial Operations,Georgia,234750,71950.0
+222,41.29,32.653,Computer and Mathematical,Georgia,140520,85890.0
+223,38.05,14.398,Architecture and Engineering,Georgia,61960,79150.0
+224,31.41,5.41,"Life, Physical, and Social Science",Georgia,23280,65340.0
+225,22.41,10.932,Community and Social Service,Georgia,47050,46610.0
+226,50.15,7.188,Legal,Georgia,30930,104310.0
+227,23.75,63.325,"Education, Training, and Library",Georgia,272520,49410.0
+228,25.89,11.921,"Arts, Design, Entertainment, Sports, and Media",Georgia,51300,53840.0
+229,36.18,56.452,Healthcare Practitioners and Technical,Georgia,242940,75250.0
+230,14.21,23.459,Healthcare Support,Georgia,100960,29550.0
+231,18.35,24.458,Protective Service,Georgia,105260,38160.0
+232,10.03,95.724,Food Preparation and Serving Related,Georgia,411950,20850.0
+233,12.42,26.828,Building and Grounds Cleaning and Maintenance,Georgia,115460,25830.0
+234,12.35,22.212,Personal Care and Service,Georgia,95590,25700.0
+235,17.76,107.454,Sales and Related,Georgia,462430,36940.0
+236,17.27,152.068,Office and Administrative Support,Georgia,654430,35920.0
+237,13.92,2.683,"Farming, Fishing, and Forestry",Georgia,11550,28950.0
+238,20.04,34.685,Construction and Extraction,Georgia,149270,41690.0
+239,21.82,41.355,"Installation, Maintenance, and Repair",Georgia,177970,45380.0
+240,16.51,70.676,Production,Georgia,304160,34330.0
+241,16.68,84.281,Transportation and Material Moving,Georgia,362710,34690.0
+242,50.15,55.314,Management,Hawaii,35010,104320.0
+243,33.07,43.211,Business and Financial Operations,Hawaii,27350,68780.0
+244,38.36,15.74,Computer and Mathematical,Hawaii,9960,79790.0
+245,39.0,14.709,Architecture and Engineering,Hawaii,9310,81110.0
+246,34.37,9.715,"Life, Physical, and Social Science",Hawaii,6150,71500.0
+247,25.62,16.279,Community and Social Service,Hawaii,10300,53280.0
+248,43.84,6.135,Legal,Hawaii,3880,91190.0
+249,25.45,68.221,"Education, Training, and Library",Hawaii,43180,52940.0
+250,26.93,14.904,"Arts, Design, Entertainment, Sports, and Media",Hawaii,9430,56010.0
+251,46.48,49.047,Healthcare Practitioners and Technical,Hawaii,31050,96670.0
+252,16.92,31.468,Healthcare Support,Hawaii,19920,35190.0
+253,29.8,31.963,Protective Service,Hawaii,20230,61990.0
+254,16.46,129.733,Food Preparation and Serving Related,Hawaii,82120,34230.0
+255,16.65,57.291,Building and Grounds Cleaning and Maintenance,Hawaii,36260,34630.0
+256,14.94,35.127,Personal Care and Service,Hawaii,22240,31080.0
+257,17.52,97.817,Sales and Related,Hawaii,61920,36430.0
+258,19.23,141.846,Office and Administrative Support,Hawaii,89790,39990.0
+259,18.17,1.211,"Farming, Fishing, and Forestry",Hawaii,770,37800.0
+260,32.43,51.425,Construction and Extraction,Hawaii,32550,67450.0
+261,26.58,40.335,"Installation, Maintenance, and Repair",Hawaii,25530,55290.0
+262,20.01,23.82,Production,Hawaii,15080,41620.0
+263,22.44,64.689,Transportation and Material Moving,Hawaii,40950,46680.0
+264,39.41,56.161,Management,Idaho,38510,81980.0
+265,30.53,38.434,Business and Financial Operations,Idaho,26350,63510.0
+266,33.76,20.577,Computer and Mathematical,Idaho,14110,70210.0
+267,38.53,18.919,Architecture and Engineering,Idaho,12970,80140.0
+268,26.14,14.104,"Life, Physical, and Social Science",Idaho,9670,54370.0
+269,20.43,17.243,Community and Social Service,Idaho,11820,42490.0
+270,37.67,5.74,Legal,Idaho,3940,78360.0
+271,20.04,61.558,"Education, Training, and Library",Idaho,42210,41690.0
+272,19.45,11.815,"Arts, Design, Entertainment, Sports, and Media",Idaho,8100,40460.0
+273,35.66,54.912,Healthcare Practitioners and Technical,Idaho,37650,74180.0
+274,14.12,28.342,Healthcare Support,Idaho,19430,29370.0
+275,20.42,18.881,Protective Service,Idaho,12950,42470.0
+276,10.34,89.726,Food Preparation and Serving Related,Idaho,61520,21510.0
+277,12.7,33.78,Building and Grounds Cleaning and Maintenance,Idaho,23160,26410.0
+278,11.71,33.695,Personal Care and Service,Idaho,23100,24360.0
+279,16.78,102.404,Sales and Related,Idaho,70210,34910.0
+280,16.2,154.9,Office and Administrative Support,Idaho,106200,33690.0
+281,14.32,9.125,"Farming, Fishing, and Forestry",Idaho,6260,29780.0
+282,20.03,58.077,Construction and Extraction,Idaho,39820,41650.0
+283,21.14,44.192,"Installation, Maintenance, and Repair",Idaho,30300,43980.0
+284,16.97,64.998,Production,Idaho,44560,35290.0
+285,16.9,62.418,Transportation and Material Moving,Idaho,42800,35150.0
+286,54.25,73.651,Management,Illinois,436590,112840.0
+287,35.83,55.435,Business and Financial Operations,Illinois,328610,74530.0
+288,41.74,29.13,Computer and Mathematical,Illinois,172680,86820.0
+289,39.39,15.114,Architecture and Engineering,Illinois,89600,81920.0
+290,34.29,5.917,"Life, Physical, and Social Science",Illinois,35080,71330.0
+291,23.48,13.07,Community and Social Service,Illinois,77480,48840.0
+292,54.63,8.012,Legal,Illinois,47490,113630.0
+293,27.41,63.539,"Education, Training, and Library",Illinois,376650,57010.0
+294,25.66,12.487,"Arts, Design, Entertainment, Sports, and Media",Illinois,74020,53380.0
+295,37.79,58.879,Healthcare Practitioners and Technical,Illinois,349020,78610.0
+296,15.1,27.61,Healthcare Support,Illinois,163670,31410.0
+297,25.06,25.283,Protective Service,Illinois,149870,52130.0
+298,11.52,85.841,Food Preparation and Serving Related,Illinois,508850,23960.0
+299,14.74,28.196,Building and Grounds Cleaning and Maintenance,Illinois,167140,30650.0
+300,13.25,27.923,Personal Care and Service,Illinois,165520,27560.0
+301,20.15,96.439,Sales and Related,Illinois,571680,41920.0
+302,18.38,152.418,Office and Administrative Support,Illinois,903510,38230.0
+303,15.67,0.972,"Farming, Fishing, and Forestry",Illinois,5760,32590.0
+304,31.44,29.709,Construction and Extraction,Illinois,176110,65390.0
+305,23.93,35.771,"Installation, Maintenance, and Repair",Illinois,212050,49780.0
+306,18.13,73.642,Production,Illinois,436540,37700.0
+307,18.17,80.96,Transportation and Material Moving,Illinois,479920,37800.0
+308,45.95,49.055,Management,Indiana,148070,95580.0
+309,30.47,38.823,Business and Financial Operations,Indiana,117190,63380.0
+310,34.93,19.018,Computer and Mathematical,Indiana,57410,72660.0
+311,34.75,16.586,Architecture and Engineering,Indiana,50060,72280.0
+312,32.25,6.488,"Life, Physical, and Social Science",Indiana,19580,67080.0
+313,20.32,12.593,Community and Social Service,Indiana,38010,42270.0
+314,41.61,4.981,Legal,Indiana,15040,86560.0
+315,22.83,53.748,"Education, Training, and Library",Indiana,162240,47490.0
+316,21.34,10.146,"Arts, Design, Entertainment, Sports, and Media",Indiana,30620,44390.0
+317,35.86,64.075,Healthcare Practitioners and Technical,Indiana,193410,74600.0
+318,14.57,26.806,Healthcare Support,Indiana,80910,30300.0
+319,18.99,19.516,Protective Service,Indiana,58910,39490.0
+320,10.33,92.663,Food Preparation and Serving Related,Indiana,279700,21500.0
+321,12.81,29.226,Building and Grounds Cleaning and Maintenance,Indiana,88220,26650.0
+322,11.42,26.779,Personal Care and Service,Indiana,80830,23750.0
+323,18.19,95.708,Sales and Related,Indiana,288890,37840.0
+324,16.74,139.086,Office and Administrative Support,Indiana,419830,34810.0
+325,14.21,1.287,"Farming, Fishing, and Forestry",Indiana,3890,29560.0
+326,23.75,39.029,Construction and Extraction,Indiana,117810,49410.0
+327,21.51,43.711,"Installation, Maintenance, and Repair",Indiana,131940,44750.0
+328,17.97,123.751,Production,Indiana,373540,37370.0
+329,16.99,86.925,Transportation and Material Moving,Indiana,262380,35340.0
+330,46.49,54.753,Management,Iowa,84070,96700.0
+331,31.13,43.997,Business and Financial Operations,Iowa,67560,64760.0
+332,36.87,22.894,Computer and Mathematical,Iowa,35150,76700.0
+333,33.67,12.2,Architecture and Engineering,Iowa,18730,70040.0
+334,28.82,7.318,"Life, Physical, and Social Science",Iowa,11240,59950.0
+335,21.08,14.185,Community and Social Service,Iowa,21780,43850.0
+336,37.77,5.162,Legal,Iowa,7930,78570.0
+337,24.62,67.843,"Education, Training, and Library",Iowa,104170,51200.0
+338,19.14,12.221,"Arts, Design, Entertainment, Sports, and Media",Iowa,18770,39820.0
+339,34.95,56.756,Healthcare Practitioners and Technical,Iowa,87150,72690.0
+340,15.0,26.396,Healthcare Support,Iowa,40530,31200.0
+341,20.91,14.785,Protective Service,Iowa,22700,43500.0
+342,10.63,86.943,Food Preparation and Serving Related,Iowa,133500,22110.0
+343,13.4,30.648,Building and Grounds Cleaning and Maintenance,Iowa,47060,27870.0
+344,12.39,32.821,Personal Care and Service,Iowa,50400,25760.0
+345,17.02,98.708,Sales and Related,Iowa,151560,35410.0
+346,17.46,143.341,Office and Administrative Support,Iowa,220090,36310.0
+347,16.37,3.273,"Farming, Fishing, and Forestry",Iowa,5030,34040.0
+348,21.9,44.416,Construction and Extraction,Iowa,68200,45550.0
+349,22.12,43.382,"Installation, Maintenance, and Repair",Iowa,66610,46010.0
+350,17.66,100.183,Production,Iowa,153830,36740.0
+351,17.63,77.774,Transportation and Material Moving,Iowa,119420,36680.0
+352,49.77,45.871,Management,Kansas,62800,103530.0
+353,32.58,49.178,Business and Financial Operations,Kansas,67330,67760.0
+354,35.59,26.219,Computer and Mathematical,Kansas,35900,74020.0
+355,37.08,17.576,Architecture and Engineering,Kansas,24060,77130.0
+356,31.69,6.313,"Life, Physical, and Social Science",Kansas,8640,65920.0
+357,19.75,12.358,Community and Social Service,Kansas,16920,41080.0
+358,37.46,5.481,Legal,Kansas,7500,77910.0
+359,21.5,66.621,"Education, Training, and Library",Kansas,91210,44710.0
+360,21.21,12.229,"Arts, Design, Entertainment, Sports, and Media",Kansas,16740,44120.0
+361,33.25,60.834,Healthcare Practitioners and Technical,Kansas,83290,69170.0
+362,13.63,30.174,Healthcare Support,Kansas,41310,28350.0
+363,19.03,21.04,Protective Service,Kansas,28810,39590.0
+364,10.35,88.708,Food Preparation and Serving Related,Kansas,121450,21530.0
+365,12.92,30.187,Building and Grounds Cleaning and Maintenance,Kansas,41330,26870.0
+366,11.78,35.314,Personal Care and Service,Kansas,48350,24510.0
+367,18.16,94.596,Sales and Related,Kansas,129510,37760.0
+368,16.73,159.845,Office and Administrative Support,Kansas,218850,34800.0
+369,15.83,2.632,"Farming, Fishing, and Forestry",Kansas,3600,32930.0
+370,21.59,42.028,Construction and Extraction,Kansas,57540,44910.0
+371,22.22,43.204,"Installation, Maintenance, and Repair",Kansas,59150,46220.0
+372,19.05,81.309,Production,Kansas,111320,39610.0
+373,17.86,68.282,Transportation and Material Moving,Kansas,93490,37140.0
+374,45.21,45.487,Management,Kentucky,85350,94030.0
+375,29.84,39.115,Business and Financial Operations,Kentucky,73400,62060.0
+376,33.07,16.584,Computer and Mathematical,Kentucky,31120,68790.0
+377,34.84,14.267,Architecture and Engineering,Kentucky,26770,72460.0
+378,28.54,4.405,"Life, Physical, and Social Science",Kentucky,8270,59360.0
+379,20.23,14.11,Community and Social Service,Kentucky,26480,42090.0
+380,37.16,5.195,Legal,Kentucky,9750,77290.0
+381,23.91,52.144,"Education, Training, and Library",Kentucky,97850,49730.0
+382,21.26,8.894,"Arts, Design, Entertainment, Sports, and Media",Kentucky,16690,44220.0
+383,34.01,66.438,Healthcare Practitioners and Technical,Kentucky,124670,70740.0
+384,14.23,27.079,Healthcare Support,Kentucky,50810,29610.0
+385,17.15,19.914,Protective Service,Kentucky,37370,35660.0
+386,10.12,95.816,Food Preparation and Serving Related,Kentucky,179790,21060.0
+387,12.51,26.917,Building and Grounds Cleaning and Maintenance,Kentucky,50510,26020.0
+388,12.13,29.998,Personal Care and Service,Kentucky,56290,25240.0
+389,16.46,95.325,Sales and Related,Kentucky,178870,34230.0
+390,16.1,154.197,Office and Administrative Support,Kentucky,289340,33490.0
+391,14.22,2.185,"Farming, Fishing, and Forestry",Kentucky,4100,29570.0
+392,21.99,37.21,Construction and Extraction,Kentucky,69820,45740.0
+393,21.95,45.454,"Installation, Maintenance, and Repair",Kentucky,85290,45650.0
+394,18.05,106.103,Production,Kentucky,199090,37540.0
+395,17.46,93.162,Transportation and Material Moving,Kentucky,174810,36320.0
+396,46.72,41.942,Management,Louisiana,79780,97170.0
+397,29.13,36.004,Business and Financial Operations,Louisiana,68480,60590.0
+398,30.63,10.516,Computer and Mathematical,Louisiana,20000,63700.0
+399,40.06,15.807,Architecture and Engineering,Louisiana,30070,83310.0
+400,30.84,6.561,"Life, Physical, and Social Science",Louisiana,12480,64140.0
+401,20.61,13.49,Community and Social Service,Louisiana,25660,42870.0
+402,36.24,7.054,Legal,Louisiana,13420,75380.0
+403,21.75,60.171,"Education, Training, and Library",Louisiana,114450,45240.0
+404,23.98,9.152,"Arts, Design, Entertainment, Sports, and Media",Louisiana,17410,49870.0
+405,31.18,70.124,Healthcare Practitioners and Technical,Louisiana,133380,64850.0
+406,12.18,29.36,Healthcare Support,Louisiana,55840,25340.0
+407,17.44,29.378,Protective Service,Louisiana,55880,36270.0
+408,9.86,97.564,Food Preparation and Serving Related,Louisiana,185570,20510.0
+409,11.04,30.238,Building and Grounds Cleaning and Maintenance,Louisiana,57510,22960.0
+410,10.54,37.481,Personal Care and Service,Louisiana,71290,21910.0
+411,15.17,110.156,Sales and Related,Louisiana,209520,31540.0
+412,15.69,141.624,Office and Administrative Support,Louisiana,269380,32630.0
+413,17.4,2.367,"Farming, Fishing, and Forestry",Louisiana,4500,36200.0
+414,21.75,62.654,Construction and Extraction,Louisiana,119170,45250.0
+415,21.24,49.57,"Installation, Maintenance, and Repair",Louisiana,94280,44170.0
+416,21.61,58.81,Production,Louisiana,111860,44960.0
+417,17.67,79.976,Transportation and Material Moving,Louisiana,152120,36760.0
+418,45.74,57.888,Management,Maine,34690,95140.0
+419,31.37,39.04,Business and Financial Operations,Maine,23390,65250.0
+420,35.98,18.969,Computer and Mathematical,Maine,11370,74830.0
+421,36.22,16.192,Architecture and Engineering,Maine,9700,75340.0
+422,29.88,6.653,"Life, Physical, and Social Science",Maine,3990,62140.0
+423,22.36,17.106,Community and Social Service,Maine,10250,46500.0
+424,36.91,5.989,Legal,Maine,3590,76770.0
+425,23.33,67.341,"Education, Training, and Library",Maine,40350,48530.0
+426,19.91,13.457,"Arts, Design, Entertainment, Sports, and Media",Maine,8060,41410.0
+427,39.11,68.046,Healthcare Practitioners and Technical,Maine,40770,81340.0
+428,14.67,34.64,Healthcare Support,Maine,20760,30510.0
+429,19.12,19.952,Protective Service,Maine,11960,39760.0
+430,12.16,93.469,Food Preparation and Serving Related,Maine,56000,25300.0
+431,14.19,36.145,Building and Grounds Cleaning and Maintenance,Maine,21660,29520.0
+432,12.63,43.872,Personal Care and Service,Maine,26290,26280.0
+433,16.56,97.024,Sales and Related,Maine,58140,34450.0
+434,17.15,154.564,Office and Administrative Support,Maine,92610,35660.0
+435,17.58,2.959,"Farming, Fishing, and Forestry",Maine,1770,36560.0
+436,20.18,42.16,Construction and Extraction,Maine,25260,41980.0
+437,21.76,43.618,"Installation, Maintenance, and Repair",Maine,26140,45260.0
+438,18.85,59.98,Production,Maine,35940,39200.0
+439,16.59,60.936,Transportation and Material Moving,Maine,36510,34510.0
+440,61.85,58.957,Management,Maryland,157080,128650.0
+441,38.88,62.053,Business and Financial Operations,Maryland,165330,80870.0
+442,47.6,46.776,Computer and Mathematical,Maryland,124630,99010.0
+443,46.45,22.596,Architecture and Engineering,Maryland,60200,96620.0
+444,42.76,15.763,"Life, Physical, and Social Science",Maryland,42000,88930.0
+445,24.46,16.247,Community and Social Service,Maryland,43290,50880.0
+446,44.23,9.384,Legal,Maryland,25000,92010.0
+447,30.57,65.159,"Education, Training, and Library",Maryland,173600,63590.0
+448,28.62,11.869,"Arts, Design, Entertainment, Sports, and Media",Maryland,31620,59520.0
+449,41.79,64.111,Healthcare Practitioners and Technical,Maryland,170810,86920.0
+450,16.12,28.211,Healthcare Support,Maryland,75160,33530.0
+451,23.9,26.86,Protective Service,Maryland,71560,49700.0
+452,12.26,84.88,Food Preparation and Serving Related,Maryland,226150,25490.0
+453,14.24,32.799,Building and Grounds Cleaning and Maintenance,Maryland,87390,29610.0
+454,14.14,31.981,Personal Care and Service,Maryland,85210,29420.0
+455,19.94,99.836,Sales and Related,Maryland,266000,41470.0
+456,19.55,149.017,Office and Administrative Support,Maryland,397030,40660.0
+457,16.9,1.038,"Farming, Fishing, and Forestry",Maryland,2770,35150.0
+458,23.72,43.471,Construction and Extraction,Maryland,115820,49350.0
+459,24.95,38.778,"Installation, Maintenance, and Repair",Maryland,103320,51900.0
+460,19.08,29.463,Production,Maryland,78500,39690.0
+461,19.13,60.751,Transportation and Material Moving,Maryland,161860,39780.0
+462,63.37,79.071,Management,Massachusetts,278970,131800.0
+463,40.55,57.035,Business and Financial Operations,Massachusetts,201220,84340.0
+464,46.38,40.251,Computer and Mathematical,Massachusetts,142010,96470.0
+465,44.44,21.507,Architecture and Engineering,Massachusetts,75880,92430.0
+466,40.1,14.251,"Life, Physical, and Social Science",Massachusetts,50280,83420.0
+467,23.25,22.823,Community and Social Service,Massachusetts,80520,48360.0
+468,59.06,8.349,Legal,Massachusetts,29460,122840.0
+469,31.94,68.639,"Education, Training, and Library",Massachusetts,242160,66430.0
+470,30.6,14.833,"Arts, Design, Entertainment, Sports, and Media",Massachusetts,52330,63640.0
+471,45.99,68.797,Healthcare Practitioners and Technical,Massachusetts,242720,95660.0
+472,17.27,29.948,Healthcare Support,Massachusetts,105660,35930.0
+473,26.82,22.744,Protective Service,Massachusetts,80240,55790.0
+474,14.34,85.153,Food Preparation and Serving Related,Massachusetts,300430,29830.0
+475,17.44,29.959,Building and Grounds Cleaning and Maintenance,Massachusetts,105700,36280.0
+476,15.68,44.509,Personal Care and Service,Massachusetts,157030,32620.0
+477,23.03,90.136,Sales and Related,Massachusetts,318010,47890.0
+478,21.06,141.465,Office and Administrative Support,Massachusetts,499100,43800.0
+479,16.28,0.561,"Farming, Fishing, and Forestry",Massachusetts,1980,33860.0
+480,29.68,34.741,Construction and Extraction,Massachusetts,122570,61730.0
+481,26.51,29.238,"Installation, Maintenance, and Repair",Massachusetts,103160,55150.0
+482,19.99,43.276,Production,Massachusetts,152680,41570.0
+483,19.06,52.713,Transportation and Material Moving,Massachusetts,185970,39640.0
+484,55.21,45.438,Management,Michigan,194290,114830.0
+485,34.2,47.727,Business and Financial Operations,Michigan,204080,71130.0
+486,37.89,26.051,Computer and Mathematical,Michigan,111400,78810.0
+487,39.5,32.644,Architecture and Engineering,Michigan,139590,82170.0
+488,30.48,6.657,"Life, Physical, and Social Science",Michigan,28460,63400.0
+489,22.02,13.992,Community and Social Service,Michigan,59830,45810.0
+490,42.39,6.119,Legal,Michigan,26160,88170.0
+491,25.43,55.418,"Education, Training, and Library",Michigan,236970,52890.0
+492,24.57,13.527,"Arts, Design, Entertainment, Sports, and Media",Michigan,57840,51100.0
+493,37.98,65.265,Healthcare Practitioners and Technical,Michigan,279080,78990.0
+494,14.46,31.441,Healthcare Support,Michigan,134440,30080.0
+495,20.64,18.011,Protective Service,Michigan,77020,42930.0
+496,11.31,90.748,Food Preparation and Serving Related,Michigan,388040,23520.0
+497,13.32,29.396,Building and Grounds Cleaning and Maintenance,Michigan,125700,27710.0
+498,12.62,29.338,Personal Care and Service,Michigan,125450,26260.0
+499,19.06,98.36,Sales and Related,Michigan,420590,39640.0
+500,17.56,146.117,Office and Administrative Support,Michigan,624800,36530.0
+501,14.15,1.365,"Farming, Fishing, and Forestry",Michigan,5840,29440.0
+502,24.0,31.658,Construction and Extraction,Michigan,135370,49930.0
+503,22.75,39.969,"Installation, Maintenance, and Repair",Michigan,170910,47310.0
+504,18.62,105.715,Production,Michigan,452040,38720.0
+505,17.0,65.044,Transportation and Material Moving,Michigan,278130,35360.0
+506,56.21,59.52,Management,Minnesota,168930,116920.0
+507,34.82,56.753,Business and Financial Operations,Minnesota,161080,72420.0
+508,41.69,33.22,Computer and Mathematical,Minnesota,94290,86710.0
+509,38.83,18.949,Architecture and Engineering,Minnesota,53780,80770.0
+510,34.37,9.239,"Life, Physical, and Social Science",Minnesota,26220,71500.0
+511,22.86,19.53,Community and Social Service,Minnesota,55430,47550.0
+512,46.91,6.958,Legal,Minnesota,19750,97570.0
+513,26.44,57.729,"Education, Training, and Library",Minnesota,163850,55000.0
+514,25.82,13.004,"Arts, Design, Entertainment, Sports, and Media",Minnesota,36910,53700.0
+515,41.47,64.299,Healthcare Practitioners and Technical,Minnesota,182500,86270.0
+516,16.52,30.278,Healthcare Support,Minnesota,85940,34360.0
+517,22.79,15.203,Protective Service,Minnesota,43150,47400.0
+518,12.34,84.541,Food Preparation and Serving Related,Minnesota,239950,25680.0
+519,15.24,29.703,Building and Grounds Cleaning and Maintenance,Minnesota,84300,31700.0
+520,13.34,49.049,Personal Care and Service,Minnesota,139210,27750.0
+521,21.05,97.847,Sales and Related,Minnesota,277720,43790.0
+522,19.26,144.393,Office and Administrative Support,Minnesota,409820,40060.0
+523,16.78,1.247,"Farming, Fishing, and Forestry",Minnesota,3540,34900.0
+524,27.72,35.197,Construction and Extraction,Minnesota,99900,57650.0
+525,23.92,33.703,"Installation, Maintenance, and Repair",Minnesota,95660,49750.0
+526,19.02,76.672,Production,Minnesota,217610,39570.0
+527,19.01,62.968,Transportation and Material Moving,Minnesota,178720,39530.0
+528,39.27,50.884,Management,Mississippi,56960,81680.0
+529,29.29,27.173,Business and Financial Operations,Mississippi,30420,60910.0
+530,32.61,10.553,Computer and Mathematical,Mississippi,11810,67820.0
+531,35.43,13.351,Architecture and Engineering,Mississippi,14950,73690.0
+532,29.24,5.864,"Life, Physical, and Social Science",Mississippi,6560,60820.0
+533,18.58,12.406,Community and Social Service,Mississippi,13890,38650.0
+534,38.23,5.202,Legal,Mississippi,5820,79510.0
+535,21.16,68.329,"Education, Training, and Library",Mississippi,76490,44020.0
+536,21.05,6.63,"Arts, Design, Entertainment, Sports, and Media",Mississippi,7420,43780.0
+537,31.07,69.522,Healthcare Practitioners and Technical,Mississippi,77830,64620.0
+538,12.17,28.068,Healthcare Support,Mississippi,31420,25320.0
+539,15.67,29.295,Protective Service,Mississippi,32800,32600.0
+540,9.94,92.901,Food Preparation and Serving Related,Mississippi,104000,20680.0
+541,10.93,32.642,Building and Grounds Cleaning and Maintenance,Mississippi,36540,22730.0
+542,11.02,27.713,Personal Care and Service,Mississippi,31020,22930.0
+543,14.21,103.441,Sales and Related,Mississippi,115800,29560.0
+544,15.37,145.531,Office and Administrative Support,Mississippi,162920,31970.0
+545,16.6,4.517,"Farming, Fishing, and Forestry",Mississippi,5060,34530.0
+546,19.07,36.196,Construction and Extraction,Mississippi,40520,39660.0
+547,20.35,46.194,"Installation, Maintenance, and Repair",Mississippi,51710,42330.0
+548,16.62,97.554,Production,Mississippi,109210,34560.0
+549,15.66,86.034,Transportation and Material Moving,Mississippi,96310,32560.0
+550,51.83,44.925,Management,Missouri,125280,107800.0
+551,33.22,50.167,Business and Financial Operations,Missouri,139900,69100.0
+552,37.83,30.31,Computer and Mathematical,Missouri,84520,78690.0
+553,37.66,13.621,Architecture and Engineering,Missouri,37980,78320.0
+554,28.91,6.081,"Life, Physical, and Social Science",Missouri,16960,60140.0
+555,19.38,15.217,Community and Social Service,Missouri,42440,40310.0
+556,43.18,6.449,Legal,Missouri,17990,89820.0
+557,24.55,54.802,"Education, Training, and Library",Missouri,152830,51050.0
+558,24.56,12.563,"Arts, Design, Entertainment, Sports, and Media",Missouri,35040,51080.0
+559,33.91,69.046,Healthcare Practitioners and Technical,Missouri,192550,70530.0
+560,13.49,31.403,Healthcare Support,Missouri,87570,28060.0
+561,19.87,21.339,Protective Service,Missouri,59510,41320.0
+562,10.66,94.175,Food Preparation and Serving Related,Missouri,262620,22170.0
+563,12.85,30.479,Building and Grounds Cleaning and Maintenance,Missouri,85000,26730.0
+564,11.62,40.03,Personal Care and Service,Missouri,111630,24180.0
+565,17.6,99.586,Sales and Related,Missouri,277710,36610.0
+566,17.15,158.153,Office and Administrative Support,Missouri,441040,35660.0
+567,15.49,1.683,"Farming, Fishing, and Forestry",Missouri,4690,32220.0
+568,25.48,37.758,Construction and Extraction,Missouri,105290,53010.0
+569,21.53,40.051,"Installation, Maintenance, and Repair",Missouri,111690,44780.0
+570,17.78,72.878,Production,Missouri,203230,36980.0
+571,17.01,69.282,Transportation and Material Moving,Missouri,193210,35370.0
+572,43.17,32.946,Management,Montana,15180,89790.0
+573,29.44,43.095,Business and Financial Operations,Montana,19860,61230.0
+574,30.63,17.68,Computer and Mathematical,Montana,8150,63720.0
+575,34.22,15.284,Architecture and Engineering,Montana,7040,71170.0
+576,26.54,15.976,"Life, Physical, and Social Science",Montana,7360,55210.0
+577,18.94,20.551,Community and Social Service,Montana,9470,39390.0
+578,32.19,7.965,Legal,Montana,3670,66960.0
+579,20.29,62.572,"Education, Training, and Library",Montana,28830,42200.0
+580,17.49,13.264,"Arts, Design, Entertainment, Sports, and Media",Montana,6110,36370.0
+581,35.95,65.086,Healthcare Practitioners and Technical,Montana,29990,74780.0
+582,14.15,28.63,Healthcare Support,Montana,13190,29430.0
+583,21.38,16.978,Protective Service,Montana,7820,44480.0
+584,11.14,110.035,Food Preparation and Serving Related,Montana,50700,23160.0
+585,13.57,43.037,Building and Grounds Cleaning and Maintenance,Montana,19830,28220.0
+586,12.2,34.613,Personal Care and Service,Montana,15950,25370.0
+587,16.67,106.455,Sales and Related,Montana,49050,34670.0
+588,16.41,150.398,Office and Administrative Support,Montana,69290,34120.0
+589,15.67,3.908,"Farming, Fishing, and Forestry",Montana,1800,32590.0
+590,23.53,62.231,Construction and Extraction,Montana,28670,48950.0
+591,22.16,47.8,"Installation, Maintenance, and Repair",Montana,22020,46080.0
+592,19.07,38.507,Production,Montana,17740,39660.0
+593,18.6,62.991,Transportation and Material Moving,Montana,29020,38680.0
+594,47.31,48.771,Management,Nebraska,47320,98410.0
+595,31.45,50.549,Business and Financial Operations,Nebraska,49040,65410.0
+596,36.33,31.169,Computer and Mathematical,Nebraska,30240,75570.0
+597,34.69,12.746,Architecture and Engineering,Nebraska,12370,72160.0
+598,29.16,7.466,"Life, Physical, and Social Science",Nebraska,7240,60650.0
+599,19.61,15.093,Community and Social Service,Nebraska,14640,40790.0
+600,40.29,5.266,Legal,Nebraska,5110,83800.0
+601,24.35,60.848,"Education, Training, and Library",Nebraska,59040,50640.0
+602,20.86,11.313,"Arts, Design, Entertainment, Sports, and Media",Nebraska,10980,43390.0
+603,35.17,64.223,Healthcare Practitioners and Technical,Nebraska,62310,73150.0
+604,14.18,28.793,Healthcare Support,Nebraska,27940,29500.0
+605,21.04,15.912,Protective Service,Nebraska,15440,43760.0
+606,11.67,84.536,Food Preparation and Serving Related,Nebraska,82020,24270.0
+607,13.22,28.913,Building and Grounds Cleaning and Maintenance,Nebraska,28050,27490.0
+608,13.1,28.449,Personal Care and Service,Nebraska,27600,27250.0
+609,17.99,101.005,Sales and Related,Nebraska,98000,37410.0
+610,16.89,157.326,Office and Administrative Support,Nebraska,152640,35120.0
+611,17.01,3.581,"Farming, Fishing, and Forestry",Nebraska,3470,35390.0
+612,20.75,44.651,Construction and Extraction,Nebraska,43320,43170.0
+613,22.31,41.139,"Installation, Maintenance, and Repair",Nebraska,39910,46410.0
+614,18.07,78.148,Production,Nebraska,75820,37590.0
+615,18.14,80.105,Transportation and Material Moving,Nebraska,77720,37720.0
+616,52.31,46.195,Management,Nevada,60530,108810.0
+617,33.14,35.441,Business and Financial Operations,Nevada,46430,68930.0
+618,36.93,14.812,Computer and Mathematical,Nevada,19410,76820.0
+619,38.09,9.76,Architecture and Engineering,Nevada,12790,79230.0
+620,31.78,6.2,"Life, Physical, and Social Science",Nevada,8120,66100.0
+621,24.95,9.516,Community and Social Service,Nevada,12470,51890.0
+622,51.67,6.695,Legal,Nevada,8770,107480.0
+623,23.53,42.113,"Education, Training, and Library",Nevada,55180,48940.0
+624,25.4,14.629,"Arts, Design, Entertainment, Sports, and Media",Nevada,19170,52820.0
+625,43.3,45.05,Healthcare Practitioners and Technical,Nevada,59030,90070.0
+626,16.89,19.326,Healthcare Support,Nevada,25320,35120.0
+627,21.13,31.933,Protective Service,Nevada,41840,43950.0
+628,12.69,142.682,Food Preparation and Serving Related,Nevada,186940,26400.0
+629,14.47,54.727,Building and Grounds Cleaning and Maintenance,Nevada,71700,30090.0
+630,13.21,57.706,Personal Care and Service,Nevada,75610,27480.0
+631,16.99,107.992,Sales and Related,Nevada,141490,35340.0
+632,17.47,154.647,Office and Administrative Support,Nevada,202620,36350.0
+633,16.07,0.501,"Farming, Fishing, and Forestry",Nevada,660,33420.0
+634,24.17,52.159,Construction and Extraction,Nevada,68340,50280.0
+635,24.41,38.413,"Installation, Maintenance, and Repair",Nevada,50330,50770.0
+636,17.71,34.861,Production,Nevada,45680,36830.0
+637,18.08,74.643,Transportation and Material Moving,Nevada,97800,37610.0
+638,56.55,56.687,Management,New Hampshire,36840,117620.0
+639,34.77,43.929,Business and Financial Operations,New Hampshire,28550,72330.0
+640,42.43,29.442,Computer and Mathematical,New Hampshire,19140,88260.0
+641,40.25,20.992,Architecture and Engineering,New Hampshire,13640,83720.0
+642,35.86,6.524,"Life, Physical, and Social Science",New Hampshire,4240,74590.0
+643,22.02,12.584,Community and Social Service,New Hampshire,8180,45800.0
+644,43.43,5.034,Legal,New Hampshire,3270,90330.0
+645,25.45,67.518,"Education, Training, and Library",New Hampshire,43880,52930.0
+646,23.87,11.466,"Arts, Design, Entertainment, Sports, and Media",New Hampshire,7450,49640.0
+647,43.74,60.281,Healthcare Practitioners and Technical,New Hampshire,39180,90980.0
+648,16.8,25.321,Healthcare Support,New Hampshire,16460,34940.0
+649,23.47,17.964,Protective Service,New Hampshire,11680,48810.0
+650,11.96,90.189,Food Preparation and Serving Related,New Hampshire,58620,24870.0
+651,14.5,32.909,Building and Grounds Cleaning and Maintenance,New Hampshire,21390,30160.0
+652,13.35,34.133,Personal Care and Service,New Hampshire,22180,27770.0
+653,20.29,121.783,Sales and Related,New Hampshire,79150,42210.0
+654,18.26,169.25,Office and Administrative Support,New Hampshire,110000,37990.0
+655,16.78,1.1,"Farming, Fishing, and Forestry",New Hampshire,710,34910.0
+656,22.72,32.689,Construction and Extraction,New Hampshire,21250,47250.0
+657,24.42,38.471,"Installation, Maintenance, and Repair",New Hampshire,25000,50800.0
+658,18.98,69.208,Production,New Hampshire,44980,39480.0
+659,17.4,52.525,Transportation and Material Moving,New Hampshire,34140,36200.0
+660,72.0,50.868,Management,New Jersey,203850,149770.0
+661,40.84,58.345,Business and Financial Operations,New Jersey,233820,84950.0
+662,48.34,34.846,Computer and Mathematical,New Jersey,139640,100540.0
+663,43.99,12.335,Architecture and Engineering,New Jersey,49430,91490.0
+664,45.88,9.008,"Life, Physical, and Social Science",New Jersey,36100,95430.0
+665,25.96,16.858,Community and Social Service,New Jersey,67560,54010.0
+666,54.18,8.393,Legal,New Jersey,33630,112690.0
+667,28.77,74.848,"Education, Training, and Library",New Jersey,299950,59840.0
+668,28.86,11.183,"Arts, Design, Entertainment, Sports, and Media",New Jersey,44820,60030.0
+669,44.22,57.779,Healthcare Practitioners and Technical,New Jersey,231550,91980.0
+670,15.01,39.369,Healthcare Support,New Jersey,157770,31220.0
+671,26.78,27.41,Protective Service,New Jersey,109850,55700.0
+672,12.65,76.158,Food Preparation and Serving Related,New Jersey,305200,26320.0
+673,15.1,31.533,Building and Grounds Cleaning and Maintenance,New Jersey,126370,31400.0
+674,15.4,29.712,Personal Care and Service,New Jersey,119070,32040.0
+675,21.86,101.334,Sales and Related,New Jersey,406090,45470.0
+676,19.56,162.695,Office and Administrative Support,New Jersey,652000,40690.0
+677,13.9,1.229,"Farming, Fishing, and Forestry",New Jersey,4920,28910.0
+678,29.19,30.12,Construction and Extraction,New Jersey,120710,60710.0
+679,25.56,33.601,"Installation, Maintenance, and Repair",New Jersey,134660,53170.0
+680,18.8,43.971,Production,New Jersey,176210,39100.0
+681,17.93,88.403,Transportation and Material Moving,New Jersey,354270,37300.0
+682,46.17,48.127,Management,New Mexico,38550,96040.0
+683,31.5,43.362,Business and Financial Operations,New Mexico,34740,65530.0
+684,37.62,18.411,Computer and Mathematical,New Mexico,14750,78240.0
+685,44.43,25.509,Architecture and Engineering,New Mexico,20440,92410.0
+686,39.48,14.438,"Life, Physical, and Social Science",New Mexico,11570,82110.0
+687,21.8,16.953,Community and Social Service,New Mexico,13580,45350.0
+688,36.41,7.197,Legal,New Mexico,5770,75740.0
+689,24.34,64.971,"Education, Training, and Library",New Mexico,52050,50620.0
+690,26.69,11.739,"Arts, Design, Entertainment, Sports, and Media",New Mexico,9400,55500.0
+691,37.85,58.04,Healthcare Practitioners and Technical,New Mexico,46490,78730.0
+692,13.95,33.157,Healthcare Support,New Mexico,26560,29020.0
+693,20.21,32.535,Protective Service,New Mexico,26060,42030.0
+694,10.51,101.001,Food Preparation and Serving Related,New Mexico,80910,21870.0
+695,11.91,32.046,Building and Grounds Cleaning and Maintenance,New Mexico,25670,24770.0
+696,11.04,49.877,Personal Care and Service,New Mexico,39960,22970.0
+697,15.5,96.852,Sales and Related,New Mexico,77590,32230.0
+698,16.56,156.231,Office and Administrative Support,New Mexico,125150,34440.0
+699,12.6,3.47,"Farming, Fishing, and Forestry",New Mexico,2780,26200.0
+700,20.8,61.013,Construction and Extraction,New Mexico,48880,43270.0
+701,21.3,40.445,"Installation, Maintenance, and Repair",New Mexico,32400,44290.0
+702,18.77,31.672,Production,New Mexico,25370,39040.0
+703,16.91,52.954,Transportation and Material Moving,New Mexico,42420,35170.0
+704,73.36,51.118,Management,New York,470690,152580.0
+705,45.52,59.067,Business and Financial Operations,New York,543880,94680.0
+706,45.85,28.138,Computer and Mathematical,New York,259090,95370.0
+707,41.61,12.2,Architecture and Engineering,New York,112340,86550.0
+708,36.32,7.222,"Life, Physical, and Social Science",New York,66500,75550.0
+709,25.26,19.374,Community and Social Service,New York,178390,52550.0
+710,64.11,12.066,Legal,New York,111100,133360.0
+711,32.44,74.333,"Education, Training, and Library",New York,684450,67470.0
+712,37.82,21.906,"Arts, Design, Entertainment, Sports, and Media",New York,201710,78660.0
+713,43.44,58.201,Healthcare Practitioners and Technical,New York,535900,90360.0
+714,14.82,41.338,Healthcare Support,New York,380640,30820.0
+715,25.22,32.568,Protective Service,New York,299880,52460.0
+716,13.75,81.481,Food Preparation and Serving Related,New York,750270,28590.0
+717,16.72,34.092,Building and Grounds Cleaning and Maintenance,New York,313920,34770.0
+718,14.84,44.065,Personal Care and Service,New York,405750,30860.0
+719,24.8,101.164,Sales and Related,New York,931500,51570.0
+720,20.73,161.523,Office and Administrative Support,New York,1487280,43110.0
+721,17.78,0.514,"Farming, Fishing, and Forestry",New York,4740,36970.0
+722,30.97,36.102,Construction and Extraction,New York,332420,64420.0
+723,25.23,33.296,"Installation, Maintenance, and Repair",New York,306590,52470.0
+724,19.21,35.666,Production,New York,328410,39950.0
+725,19.88,54.567,Transportation and Material Moving,New York,502440,41350.0
+726,59.44,42.709,Management,North Carolina,183580,123640.0
+727,35.59,49.742,Business and Financial Operations,North Carolina,213810,74030.0
+728,41.53,30.03,Computer and Mathematical,North Carolina,129080,86380.0
+729,37.89,14.973,Architecture and Engineering,North Carolina,64360,78820.0
+730,32.89,8.128,"Life, Physical, and Social Science",North Carolina,34940,68420.0
+731,21.49,11.987,Community and Social Service,North Carolina,51520,44710.0
+732,44.99,5.019,Legal,North Carolina,21570,93570.0
+733,23.76,64.501,"Education, Training, and Library",North Carolina,277250,49410.0
+734,25.64,9.785,"Arts, Design, Entertainment, Sports, and Media",North Carolina,42060,53330.0
+735,35.98,61.619,Healthcare Practitioners and Technical,North Carolina,264860,74840.0
+736,13.31,34.43,Healthcare Support,North Carolina,147990,27690.0
+737,18.57,23.245,Protective Service,North Carolina,99920,38610.0
+738,10.49,97.982,Food Preparation and Serving Related,North Carolina,421170,21810.0
+739,12.24,30.499,Building and Grounds Cleaning and Maintenance,North Carolina,131100,25460.0
+740,12.21,26.387,Personal Care and Service,North Carolina,113420,25400.0
+741,18.96,107.264,Sales and Related,North Carolina,461060,39440.0
+742,17.03,147.013,Office and Administrative Support,North Carolina,631920,35420.0
+743,15.66,1.912,"Farming, Fishing, and Forestry",North Carolina,8220,32580.0
+744,19.2,36.714,Construction and Extraction,North Carolina,157810,39940.0
+745,21.65,42.455,"Installation, Maintenance, and Repair",North Carolina,182490,45030.0
+746,16.6,79.148,Production,North Carolina,340210,34520.0
+747,15.68,74.458,Transportation and Material Moving,North Carolina,320050,32620.0
+748,47.6,50.667,Management,North Dakota,21110,99010.0
+749,30.68,40.922,Business and Financial Operations,North Dakota,17050,63810.0
+750,31.92,17.812,Computer and Mathematical,North Dakota,7420,66390.0
+751,35.53,15.603,Architecture and Engineering,North Dakota,6500,73910.0
+752,32.01,8.208,"Life, Physical, and Social Science",North Dakota,3420,66580.0
+753,23.53,13.665,Community and Social Service,North Dakota,5690,48950.0
+754,36.03,5.427,Legal,North Dakota,2260,74940.0
+755,24.03,55.684,"Education, Training, and Library",North Dakota,23200,49970.0
+756,20.26,12.385,"Arts, Design, Entertainment, Sports, and Media",North Dakota,5160,42140.0
+757,35.17,61.74,Healthcare Practitioners and Technical,North Dakota,25730,73160.0
+758,16.45,29.862,Healthcare Support,North Dakota,12440,34230.0
+759,22.51,16.455,Protective Service,North Dakota,6860,46820.0
+760,11.89,83.265,Food Preparation and Serving Related,North Dakota,34690,24740.0
+761,14.92,35.175,Building and Grounds Cleaning and Maintenance,North Dakota,14660,31040.0
+762,14.39,39.909,Personal Care and Service,North Dakota,16630,29930.0
+763,19.06,90.833,Sales and Related,North Dakota,37850,39640.0
+764,18.06,140.042,Office and Administrative Support,North Dakota,58350,37550.0
+765,17.23,2.935,"Farming, Fishing, and Forestry",North Dakota,1220,35830.0
+766,25.8,78.437,Construction and Extraction,North Dakota,32680,53660.0
+767,26.01,54.337,"Installation, Maintenance, and Repair",North Dakota,22640,54100.0
+768,20.88,58.45,Production,North Dakota,24350,43430.0
+769,21.67,88.185,Transportation and Material Moving,North Dakota,36740,45080.0
+770,52.88,44.292,Management,Ohio,237880,109990.0
+771,33.27,50.382,Business and Financial Operations,Ohio,270580,69200.0
+772,38.79,27.567,Computer and Mathematical,Ohio,148050,80690.0
+773,37.86,17.745,Architecture and Engineering,Ohio,95300,78760.0
+774,32.7,6.742,"Life, Physical, and Social Science",Ohio,36210,68010.0
+775,21.85,14.759,Community and Social Service,Ohio,79260,45440.0
+776,41.3,5.798,Legal,Ohio,31140,85900.0
+777,27.11,60.74,"Education, Training, and Library",Ohio,326210,56390.0
+778,22.32,11.264,"Arts, Design, Entertainment, Sports, and Media",Ohio,60500,46420.0
+779,36.29,66.97,Healthcare Practitioners and Technical,Ohio,359670,75480.0
+780,13.8,35.841,Healthcare Support,Ohio,192490,28700.0
+781,20.99,22.151,Protective Service,Ohio,118960,43660.0
+782,10.83,94.258,Food Preparation and Serving Related,Ohio,506230,22520.0
+783,13.22,29.867,Building and Grounds Cleaning and Maintenance,Ohio,160400,27500.0
+784,12.24,25.54,Personal Care and Service,Ohio,137170,25460.0
+785,18.86,94.96,Sales and Related,Ohio,510000,39230.0
+786,17.43,151.757,Office and Administrative Support,Ohio,815030,36260.0
+787,15.4,0.828,"Farming, Fishing, and Forestry",Ohio,4450,32040.0
+788,23.43,34.536,Construction and Extraction,Ohio,185480,48740.0
+789,22.07,38.752,"Installation, Maintenance, and Repair",Ohio,208120,45900.0
+790,18.44,91.4,Production,Ohio,490870,38340.0
+791,16.58,73.851,Transportation and Material Moving,Ohio,396620,34490.0
+792,46.43,55.519,Management,Oklahoma,87330,96580.0
+793,30.65,44.119,Business and Financial Operations,Oklahoma,69400,63750.0
+794,33.44,19.989,Computer and Mathematical,Oklahoma,31440,69560.0
+795,38.51,17.076,Architecture and Engineering,Oklahoma,26860,80110.0
+796,31.49,6.367,"Life, Physical, and Social Science",Oklahoma,10010,65490.0
+797,19.54,15.862,Community and Social Service,Oklahoma,24950,40640.0
+798,40.62,7.88,Legal,Oklahoma,12400,84480.0
+799,19.31,58.465,"Education, Training, and Library",Oklahoma,91970,40160.0
+800,20.09,9.642,"Arts, Design, Entertainment, Sports, and Media",Oklahoma,15170,41790.0
+801,33.84,61.122,Healthcare Practitioners and Technical,Oklahoma,96150,70390.0
+802,13.72,29.747,Healthcare Support,Oklahoma,46790,28540.0
+803,20.19,22.294,Protective Service,Oklahoma,35070,41990.0
+804,10.16,99.645,Food Preparation and Serving Related,Oklahoma,156740,21130.0
+805,11.7,28.362,Building and Grounds Cleaning and Maintenance,Oklahoma,44610,24330.0
+806,11.23,25.868,Personal Care and Service,Oklahoma,40690,23350.0
+807,16.96,103.373,Sales and Related,Oklahoma,162610,35270.0
+808,16.63,162.719,Office and Administrative Support,Oklahoma,255960,34590.0
+809,14.51,1.889,"Farming, Fishing, and Forestry",Oklahoma,2970,30190.0
+810,20.9,51.798,Construction and Extraction,Oklahoma,81480,43470.0
+811,21.42,45.658,"Installation, Maintenance, and Repair",Oklahoma,71820,44560.0
+812,18.11,65.206,Production,Oklahoma,102570,37670.0
+813,17.09,67.399,Transportation and Material Moving,Oklahoma,106020,35550.0
+814,50.57,61.196,Management,Oregon,112040,105190.0
+815,34.34,47.603,Business and Financial Operations,Oregon,87150,71430.0
+816,41.23,28.982,Computer and Mathematical,Oregon,53060,85750.0
+817,42.81,22.676,Architecture and Engineering,Oregon,41520,89040.0
+818,30.27,11.021,"Life, Physical, and Social Science",Oregon,20180,62960.0
+819,23.6,20.326,Community and Social Service,Oregon,37210,49080.0
+820,43.62,6.683,Legal,Oregon,12230,90720.0
+821,28.28,59.346,"Education, Training, and Library",Oregon,108650,58810.0
+822,26.68,16.044,"Arts, Design, Entertainment, Sports, and Media",Oregon,29370,55500.0
+823,43.89,53.227,Healthcare Practitioners and Technical,Oregon,97450,91280.0
+824,17.58,26.918,Healthcare Support,Oregon,49280,36570.0
+825,24.28,18.239,Protective Service,Oregon,33390,50500.0
+826,12.65,95.732,Food Preparation and Serving Related,Oregon,175270,26310.0
+827,14.63,30.286,Building and Grounds Cleaning and Maintenance,Oregon,55450,30430.0
+828,13.77,40.253,Personal Care and Service,Oregon,73690,28640.0
+829,18.7,100.318,Sales and Related,Oregon,183660,38890.0
+830,18.42,147.231,Office and Administrative Support,Oregon,269550,38320.0
+831,16.86,7.155,"Farming, Fishing, and Forestry",Oregon,13100,35060.0
+832,25.11,41.777,Construction and Extraction,Oregon,76480,52240.0
+833,23.16,35.445,"Installation, Maintenance, and Repair",Oregon,64890,48180.0
+834,18.49,61.702,Production,Oregon,112960,38450.0
+835,18.31,67.839,Transportation and Material Moving,Oregon,124200,38090.0
+836,59.32,41.626,Management,Pennsylvania,240670,123380.0
+837,35.24,48.288,Business and Financial Operations,Pennsylvania,279180,73290.0
+838,39.93,27.442,Computer and Mathematical,Pennsylvania,158660,83060.0
+839,37.9,17.306,Architecture and Engineering,Pennsylvania,100060,78830.0
+840,35.48,7.869,"Life, Physical, and Social Science",Pennsylvania,45490,73800.0
+841,21.3,18.549,Community and Social Service,Pennsylvania,107240,44300.0
+842,50.18,7.497,Legal,Pennsylvania,43340,104360.0
+843,28.09,59.055,"Education, Training, and Library",Pennsylvania,341440,58430.0
+844,23.89,10.217,"Arts, Design, Entertainment, Sports, and Media",Pennsylvania,59070,49700.0
+845,36.16,68.805,Healthcare Practitioners and Technical,Pennsylvania,397810,75210.0
+846,15.09,31.524,Healthcare Support,Pennsylvania,182260,31380.0
+847,21.54,22.045,Protective Service,Pennsylvania,127450,44800.0
+848,11.24,86.769,Food Preparation and Serving Related,Pennsylvania,501670,23380.0
+849,13.72,29.495,Building and Grounds Cleaning and Maintenance,Pennsylvania,170530,28530.0
+850,12.36,42.93,Personal Care and Service,Pennsylvania,248200,25710.0
+851,19.71,95.725,Sales and Related,Pennsylvania,553440,41000.0
+852,17.9,162.632,Office and Administrative Support,Pennsylvania,940270,37220.0
+853,15.65,1.117,"Farming, Fishing, and Forestry",Pennsylvania,6460,32550.0
+854,24.44,37.564,Construction and Extraction,Pennsylvania,217180,50840.0
+855,22.58,40.13,"Installation, Maintenance, and Repair",Pennsylvania,232020,46960.0
+856,18.76,65.379,Production,Pennsylvania,378000,39010.0
+857,17.43,78.035,Transportation and Material Moving,Pennsylvania,451170,36250.0
+858,64.4,43.731,Management,Rhode Island,20810,133950.0
+859,37.15,56.75,Business and Financial Operations,Rhode Island,27010,77270.0
+860,41.08,30.454,Computer and Mathematical,Rhode Island,14490,85450.0
+861,42.43,16.92,Architecture and Engineering,Rhode Island,8050,88260.0
+862,35.88,5.8,"Life, Physical, and Social Science",Rhode Island,2760,74640.0
+863,24.42,18.575,Community and Social Service,Rhode Island,8840,50800.0
+864,44.9,8.248,Legal,Rhode Island,3930,93390.0
+865,30.04,68.194,"Education, Training, and Library",Rhode Island,32450,62480.0
+866,28.11,14.303,"Arts, Design, Entertainment, Sports, and Media",Rhode Island,6810,58460.0
+867,43.07,64.885,Healthcare Practitioners and Technical,Rhode Island,30880,89580.0
+868,15.94,39.983,Healthcare Support,Rhode Island,19030,33160.0
+869,23.36,26.776,Protective Service,Rhode Island,12740,48580.0
+870,12.76,105.126,Food Preparation and Serving Related,Rhode Island,50030,26540.0
+871,15.18,32.099,Building and Grounds Cleaning and Maintenance,Rhode Island,15280,31580.0
+872,13.83,32.027,Personal Care and Service,Rhode Island,15240,28770.0
+873,21.62,95.444,Sales and Related,Rhode Island,45420,44960.0
+874,19.31,154.867,Office and Administrative Support,Rhode Island,73700,40160.0
+875,16.91,0.501,"Farming, Fishing, and Forestry",Rhode Island,240,35180.0
+876,25.82,33.785,Construction and Extraction,Rhode Island,16080,53710.0
+877,24.05,33.292,"Installation, Maintenance, and Repair",Rhode Island,15840,50030.0
+878,18.83,61.132,Production,Rhode Island,29090,39170.0
+879,16.62,57.108,Transportation and Material Moving,Rhode Island,27180,34570.0
+880,48.44,43.671,Management,South Carolina,87760,100760.0
+881,30.18,37.512,Business and Financial Operations,South Carolina,75380,62770.0
+882,34.94,19.672,Computer and Mathematical,South Carolina,39530,72680.0
+883,37.35,18.762,Architecture and Engineering,South Carolina,37700,77680.0
+884,30.82,4.827,"Life, Physical, and Social Science",South Carolina,9700,64100.0
+885,20.51,11.265,Community and Social Service,South Carolina,22640,42670.0
+886,35.48,6.542,Legal,South Carolina,13150,73800.0
+887,23.03,56.182,"Education, Training, and Library",South Carolina,112900,47910.0
+888,22.12,8.906,"Arts, Design, Entertainment, Sports, and Media",South Carolina,17900,46010.0
+889,35.4,60.279,Healthcare Practitioners and Technical,South Carolina,121130,73630.0
+890,13.48,26.826,Healthcare Support,South Carolina,53900,28040.0
+891,18.01,23.867,Protective Service,South Carolina,47960,37460.0
+892,10.23,99.949,Food Preparation and Serving Related,South Carolina,200840,21270.0
+893,11.63,34.863,Building and Grounds Cleaning and Maintenance,South Carolina,70060,24190.0
+894,11.07,28.181,Personal Care and Service,South Carolina,56630,23030.0
+895,16.03,110.014,Sales and Related,South Carolina,221070,33340.0
+896,16.4,149.844,Office and Administrative Support,South Carolina,301110,34100.0
+897,17.08,1.957,"Farming, Fishing, and Forestry",South Carolina,3930,35520.0
+898,19.14,39.225,Construction and Extraction,South Carolina,78820,39820.0
+899,21.09,46.699,"Installation, Maintenance, and Repair",South Carolina,93840,43870.0
+900,18.25,97.053,Production,South Carolina,195020,37970.0
+901,15.61,73.905,Transportation and Material Moving,South Carolina,148510,32480.0
+902,50.37,28.183,Management,South Dakota,11820,104770.0
+903,30.43,45.566,Business and Financial Operations,South Dakota,19110,63290.0
+904,30.78,19.17,Computer and Mathematical,South Dakota,8040,64020.0
+905,32.23,11.328,Architecture and Engineering,South Dakota,4750,67040.0
+906,26.16,9.35,"Life, Physical, and Social Science",South Dakota,3920,54400.0
+907,19.19,15.178,Community and Social Service,South Dakota,6370,39920.0
+908,35.98,4.305,Legal,South Dakota,1810,74830.0
+909,19.84,58.191,"Education, Training, and Library",South Dakota,24410,41260.0
+910,18.49,12.726,"Arts, Design, Entertainment, Sports, and Media",South Dakota,5340,38460.0
+911,34.17,73.307,Healthcare Practitioners and Technical,South Dakota,30750,71080.0
+912,13.84,25.467,Healthcare Support,South Dakota,10680,28780.0
+913,19.71,15.168,Protective Service,South Dakota,6360,40990.0
+914,10.87,100.195,Food Preparation and Serving Related,South Dakota,42030,22610.0
+915,12.43,41.144,Building and Grounds Cleaning and Maintenance,South Dakota,17260,25850.0
+916,12.23,35.817,Personal Care and Service,South Dakota,15020,25440.0
+917,17.85,111.381,Sales and Related,South Dakota,46720,37130.0
+918,15.07,150.884,Office and Administrative Support,South Dakota,63290,31340.0
+919,14.62,3.919,"Farming, Fishing, and Forestry",South Dakota,1640,30400.0
+920,18.9,52.5,Construction and Extraction,South Dakota,22020,39320.0
+921,22.04,38.51,"Installation, Maintenance, and Repair",South Dakota,16150,45850.0
+922,16.36,76.562,Production,South Dakota,32120,34020.0
+923,16.25,71.15,Transportation and Material Moving,South Dakota,29850,33800.0
+924,47.01,55.784,Management,Tennessee,162650,97770.0
+925,31.14,41.277,Business and Financial Operations,Tennessee,120350,64760.0
+926,35.6,18.77,Computer and Mathematical,Tennessee,54730,74050.0
+927,35.55,15.562,Architecture and Engineering,Tennessee,45370,73950.0
+928,31.11,5.489,"Life, Physical, and Social Science",Tennessee,16010,64710.0
+929,19.65,10.62,Community and Social Service,Tennessee,30970,40880.0
+930,46.99,4.661,Legal,Tennessee,13590,97740.0
+931,22.95,52.818,"Education, Training, and Library",Tennessee,154000,47740.0
+932,24.52,10.566,"Arts, Design, Entertainment, Sports, and Media",Tennessee,30810,51000.0
+933,33.65,66.158,Healthcare Practitioners and Technical,Tennessee,192900,70000.0
+934,14.08,25.582,Healthcare Support,Tennessee,74590,29290.0
+935,18.24,23.549,Protective Service,Tennessee,68660,37930.0
+936,10.24,93.076,Food Preparation and Serving Related,Tennessee,271390,21300.0
+937,12.23,27.252,Building and Grounds Cleaning and Maintenance,Tennessee,79460,25430.0
+938,11.61,26.281,Personal Care and Service,Tennessee,76630,24150.0
+939,17.58,98.086,Sales and Related,Tennessee,286000,36580.0
+940,16.94,163.284,Office and Administrative Support,Tennessee,476090,35230.0
+941,13.91,1.709,"Farming, Fishing, and Forestry",Tennessee,4980,28930.0
+942,19.53,31.971,Construction and Extraction,Tennessee,93220,40610.0
+943,21.63,43.637,"Installation, Maintenance, and Repair",Tennessee,127230,45000.0
+944,17.07,91.259,Production,Tennessee,266090,35510.0
+945,16.26,92.608,Transportation and Material Moving,Tennessee,270020,33810.0
+946,60.7,39.136,Management,Texas,465360,126250.0
+947,37.61,48.359,Business and Financial Operations,Texas,575030,78240.0
+948,43.0,29.725,Computer and Mathematical,Texas,353460,89450.0
+949,46.83,19.655,Architecture and Engineering,Texas,233710,97400.0
+950,36.12,6.549,"Life, Physical, and Social Science",Texas,77880,75130.0
+951,23.39,9.756,Community and Social Service,Texas,116000,48660.0
+952,50.98,6.845,Legal,Texas,81400,106040.0
+953,24.77,63.621,"Education, Training, and Library",Texas,756500,51520.0
+954,25.91,11.148,"Arts, Design, Entertainment, Sports, and Media",Texas,132560,53900.0
+955,36.82,56.397,Healthcare Practitioners and Technical,Texas,670610,76580.0
+956,14.18,27.583,Healthcare Support,Texas,327980,29500.0
+957,21.72,24.986,Protective Service,Texas,297100,45180.0
+958,11.34,97.297,Food Preparation and Serving Related,Texas,1156950,23580.0
+959,12.18,28.035,Building and Grounds Cleaning and Maintenance,Texas,333360,25340.0
+960,11.11,33.397,Personal Care and Service,Texas,397120,23100.0
+961,20.06,106.857,Sales and Related,Texas,1270630,41730.0
+962,17.72,169.127,Office and Administrative Support,Texas,2011070,36860.0
+963,13.21,1.754,"Farming, Fishing, and Forestry",Texas,20860,27470.0
+964,20.96,50.175,Construction and Extraction,Texas,596630,43600.0
+965,22.06,42.522,"Installation, Maintenance, and Repair",Texas,505620,45880.0
+966,18.75,55.375,Production,Texas,658450,38990.0
+967,18.58,71.703,Transportation and Material Moving,Texas,852610,38640.0
+968,45.19,65.898,Management,Utah,92960,93990.0
+969,31.3,50.186,Business and Financial Operations,Utah,70800,65110.0
+970,38.77,34.483,Computer and Mathematical,Utah,48640,80650.0
+971,37.11,18.975,Architecture and Engineering,Utah,26770,77190.0
+972,29.81,8.761,"Life, Physical, and Social Science",Utah,12360,62000.0
+973,21.08,13.593,Community and Social Service,Utah,19180,43850.0
+974,39.55,6.417,Legal,Utah,9050,82270.0
+975,24.11,63.785,"Education, Training, and Library",Utah,89980,50140.0
+976,23.66,15.51,"Arts, Design, Entertainment, Sports, and Media",Utah,21880,49220.0
+977,36.26,48.784,Healthcare Practitioners and Technical,Utah,68820,75430.0
+978,14.25,23.836,Healthcare Support,Utah,33620,29640.0
+979,19.7,15.98,Protective Service,Utah,22540,40970.0
+980,11.05,78.34,Food Preparation and Serving Related,Utah,110510,22980.0
+981,12.56,30.778,Building and Grounds Cleaning and Maintenance,Utah,43420,26120.0
+982,12.07,30.104,Personal Care and Service,Utah,42470,25100.0
+983,18.4,98.16,Sales and Related,Utah,138470,38270.0
+984,16.62,171.634,Office and Administrative Support,Utah,242120,34580.0
+985,14.2,0.981,"Farming, Fishing, and Forestry",Utah,1380,29530.0
+986,20.98,56.931,Construction and Extraction,Utah,80310,43630.0
+987,22.53,39.453,"Installation, Maintenance, and Repair",Utah,55650,46860.0
+988,17.58,64.715,Production,Utah,91290,36570.0
+989,17.77,62.695,Transportation and Material Moving,Utah,88440,36960.0
+990,47.24,45.459,Management,Vermont,13870,98250.0
+991,31.83,52.418,Business and Financial Operations,Vermont,15990,66200.0
+992,35.25,23.863,Computer and Mathematical,Vermont,7280,73330.0
+993,35.55,20.172,Architecture and Engineering,Vermont,6150,73940.0
+994,37.79,9.827,"Life, Physical, and Social Science",Vermont,3000,78590.0
+995,21.13,31.54,Community and Social Service,Vermont,9620,43960.0
+996,40.63,6.905,Legal,Vermont,2110,84520.0
+997,25.15,88.012,"Education, Training, and Library",Vermont,26850,52310.0
+998,22.67,19.587,"Arts, Design, Entertainment, Sports, and Media",Vermont,5980,47150.0
+999,40.87,63.318,Healthcare Practitioners and Technical,Vermont,19320,85020.0
+1000,16.24,21.758,Healthcare Support,Vermont,6640,33770.0
+1001,20.57,18.255,Protective Service,Vermont,5570,42780.0
+1002,14.2,85.062,Food Preparation and Serving Related,Vermont,25950,29540.0
+1003,14.97,35.393,Building and Grounds Cleaning and Maintenance,Vermont,10800,31140.0
+1004,15.13,42.572,Personal Care and Service,Vermont,12990,31470.0
+1005,19.05,94.958,Sales and Related,Vermont,28970,39620.0
+1006,18.6,133.334,Office and Administrative Support,Vermont,40680,38680.0
+1007,16.14,4.376,"Farming, Fishing, and Forestry",Vermont,1340,33570.0
+1008,21.8,45.466,Construction and Extraction,Vermont,13870,45340.0
+1009,22.71,38.816,"Installation, Maintenance, and Repair",Vermont,11840,47240.0
+1010,18.96,64.559,Production,Vermont,19700,39430.0
+1011,17.99,54.349,Transportation and Material Moving,Vermont,16580,37420.0
+1012,65.79,44.43,Management,Virginia,168390,136850.0
+1013,40.47,69.977,Business and Financial Operations,Virginia,265210,84180.0
+1014,48.47,53.215,Computer and Mathematical,Virginia,201680,100830.0
+1015,42.68,19.786,Architecture and Engineering,Virginia,74990,88780.0
+1016,41.03,8.714,"Life, Physical, and Social Science",Virginia,33020,85340.0
+1017,24.07,14.501,Community and Social Service,Virginia,54960,50070.0
+1018,50.37,9.209,Legal,Virginia,34900,104760.0
+1019,27.79,64.015,"Education, Training, and Library",Virginia,242610,57790.0
+1020,28.13,12.955,"Arts, Design, Entertainment, Sports, and Media",Virginia,49100,58520.0
+1021,38.45,54.906,Healthcare Practitioners and Technical,Virginia,208090,79980.0
+1022,15.17,24.779,Healthcare Support,Virginia,93910,31550.0
+1023,22.59,27.001,Protective Service,Virginia,102330,46990.0
+1024,11.35,87.365,Food Preparation and Serving Related,Virginia,331100,23600.0
+1025,13.06,33.517,Building and Grounds Cleaning and Maintenance,Virginia,127030,27170.0
+1026,13.06,33.847,Personal Care and Service,Virginia,128280,27170.0
+1027,19.07,103.574,Sales and Related,Virginia,392540,39660.0
+1028,18.26,144.678,Office and Administrative Support,Virginia,548320,37980.0
+1029,16.46,1.644,"Farming, Fishing, and Forestry",Virginia,6230,34230.0
+1030,21.45,41.265,Construction and Extraction,Virginia,156390,44610.0
+1031,23.73,41.205,"Installation, Maintenance, and Repair",Virginia,156160,49350.0
+1032,18.09,46.957,Production,Virginia,177960,37620.0
+1033,18.21,62.459,Transportation and Material Moving,Virginia,236710,37880.0
+1034,60.04,50.826,Management,Washington,161960,124890.0
+1035,38.03,63.949,Business and Financial Operations,Washington,203780,79090.0
+1036,51.45,49.395,Computer and Mathematical,Washington,157400,107020.0
+1037,45.36,23.533,Architecture and Engineering,Washington,74990,94350.0
+1038,35.17,11.234,"Life, Physical, and Social Science",Washington,35800,73150.0
+1039,24.09,14.644,Community and Social Service,Washington,46660,50110.0
+1040,47.72,6.377,Legal,Washington,20320,99250.0
+1041,26.64,57.581,"Education, Training, and Library",Washington,183490,55410.0
+1042,27.62,15.007,"Arts, Design, Entertainment, Sports, and Media",Washington,47820,57440.0
+1043,42.63,51.28,Healthcare Practitioners and Technical,Washington,163410,88670.0
+1044,17.56,26.272,Healthcare Support,Washington,83720,36530.0
+1045,27.84,20.631,Protective Service,Washington,65740,57900.0
+1046,14.46,91.092,Food Preparation and Serving Related,Washington,290270,30080.0
+1047,15.96,28.079,Building and Grounds Cleaning and Maintenance,Washington,89480,33200.0
+1048,15.64,37.233,Personal Care and Service,Washington,118650,32540.0
+1049,21.41,94.676,Sales and Related,Washington,301700,44520.0
+1050,20.16,138.175,Office and Administrative Support,Washington,440310,41930.0
+1051,16.34,5.712,"Farming, Fishing, and Forestry",Washington,18200,33980.0
+1052,28.1,47.748,Construction and Extraction,Washington,152150,58450.0
+1053,25.88,38.717,"Installation, Maintenance, and Repair",Washington,123380,53820.0
+1054,22.27,55.833,Production,Washington,177920,46310.0
+1055,20.61,72.008,Transportation and Material Moving,Washington,229460,42870.0
+1056,42.16,43.731,Management,West Virginia,30110,87680.0
+1057,29.33,32.068,Business and Financial Operations,West Virginia,22080,61000.0
+1058,33.53,15.798,Computer and Mathematical,West Virginia,10880,69750.0
+1059,35.45,12.679,Architecture and Engineering,West Virginia,8730,73730.0
+1060,27.79,8.815,"Life, Physical, and Social Science",West Virginia,6070,57800.0
+1061,18.24,17.511,Community and Social Service,West Virginia,12060,37950.0
+1062,32.83,8.721,Legal,West Virginia,6000,68290.0
+1063,21.85,62.521,"Education, Training, and Library",West Virginia,43050,45440.0
+1064,21.97,7.132,"Arts, Design, Entertainment, Sports, and Media",West Virginia,4910,45710.0
+1065,32.83,84.566,Healthcare Practitioners and Technical,West Virginia,58230,68280.0
+1066,13.18,31.695,Healthcare Support,West Virginia,21820,27420.0
+1067,16.84,22.488,Protective Service,West Virginia,15480,35020.0
+1068,10.72,91.809,Food Preparation and Serving Related,West Virginia,63210,22290.0
+1069,11.98,29.721,Building and Grounds Cleaning and Maintenance,West Virginia,20460,24920.0
+1070,10.93,37.426,Personal Care and Service,West Virginia,25770,22730.0
+1071,14.34,98.639,Sales and Related,West Virginia,67920,29830.0
+1072,15.44,152.984,Office and Administrative Support,West Virginia,105330,32110.0
+1073,14.73,2.085,"Farming, Fishing, and Forestry",West Virginia,1440,30630.0
+1074,22.98,56.092,Construction and Extraction,West Virginia,38620,47800.0
+1075,20.09,51.889,"Installation, Maintenance, and Repair",West Virginia,35730,41790.0
+1076,19.25,54.144,Production,West Virginia,37280,40040.0
+1077,16.44,77.487,Transportation and Material Moving,West Virginia,53350,34200.0
+1078,51.97,45.689,Management,Wisconsin,129080,108100.0
+1079,31.23,48.644,Business and Financial Operations,Wisconsin,137430,64950.0
+1080,35.82,26.929,Computer and Mathematical,Wisconsin,76080,74520.0
+1081,34.2,18.13,Architecture and Engineering,Wisconsin,51220,71130.0
+1082,30.08,6.923,"Life, Physical, and Social Science",Wisconsin,19560,62570.0
+1083,20.83,14.423,Community and Social Service,Wisconsin,40750,43340.0
+1084,43.29,4.997,Legal,Wisconsin,14120,90050.0
+1085,24.29,58.037,"Education, Training, and Library",Wisconsin,163970,50520.0
+1086,21.99,11.866,"Arts, Design, Entertainment, Sports, and Media",Wisconsin,33520,45740.0
+1087,37.98,58.937,Healthcare Practitioners and Technical,Wisconsin,166510,79010.0
+1088,15.49,25.204,Healthcare Support,Wisconsin,71200,32210.0
+1089,21.5,19.358,Protective Service,Wisconsin,54690,44720.0
+1090,10.69,86.606,Food Preparation and Serving Related,Wisconsin,244680,22240.0
+1091,13.39,28.932,Building and Grounds Cleaning and Maintenance,Wisconsin,81740,27850.0
+1092,12.05,40.52,Personal Care and Service,Wisconsin,114470,25060.0
+1093,19.17,94.184,Sales and Related,Wisconsin,266090,39870.0
+1094,17.47,145.029,Office and Administrative Support,Wisconsin,409730,36350.0
+1095,15.75,1.84,"Farming, Fishing, and Forestry",Wisconsin,5200,32760.0
+1096,25.34,36.116,Construction and Extraction,Wisconsin,102040,52700.0
+1097,22.33,38.866,"Installation, Maintenance, and Repair",Wisconsin,109800,46450.0
+1098,18.33,115.676,Production,Wisconsin,326800,38130.0
+1099,17.33,73.092,Transportation and Material Moving,Wisconsin,206500,36040.0
+1100,48.53,43.608,Management,Wyoming,11690,100950.0
+1101,32.85,30.682,Business and Financial Operations,Wyoming,8220,68320.0
+1102,30.79,9.916,Computer and Mathematical,Wyoming,2660,64030.0
+1103,37.76,15.568,Architecture and Engineering,Wyoming,4170,78530.0
+1104,27.4,14.86,"Life, Physical, and Social Science",Wyoming,3980,56990.0
+1105,23.0,14.933,Community and Social Service,Wyoming,4000,47850.0
+1106,36.5,5.881,Legal,Wyoming,1580,75910.0
+1107,23.34,75.277,"Education, Training, and Library",Wyoming,20170,48540.0
+1108,20.58,10.698,"Arts, Design, Entertainment, Sports, and Media",Wyoming,2870,42800.0
+1109,38.82,53.722,Healthcare Practitioners and Technical,Wyoming,14400,80750.0
+1110,15.23,25.694,Healthcare Support,Wyoming,6890,31670.0
+1111,21.94,21.235,Protective Service,Wyoming,5690,45640.0
+1112,11.76,91.674,Food Preparation and Serving Related,Wyoming,24570,24460.0
+1113,14.19,42.402,Building and Grounds Cleaning and Maintenance,Wyoming,11360,29520.0
+1114,13.07,30.997,Personal Care and Service,Wyoming,8310,27180.0
+1115,17.25,91.862,Sales and Related,Wyoming,24620,35880.0
+1116,17.38,130.854,Office and Administrative Support,Wyoming,35070,36140.0
+1117,15.01,2.14,"Farming, Fishing, and Forestry",Wyoming,570,31220.0
+1118,24.73,96.069,Construction and Extraction,Wyoming,25740,51430.0
+1119,26.73,63.148,"Installation, Maintenance, and Repair",Wyoming,16920,55590.0
+1120,26.07,46.007,Production,Wyoming,12330,54220.0
+1121,21.6,82.771,Transportation and Material Moving,Wyoming,22180,44930.0
+1122,33.46,84.107,Management,Guam,5170,69590.0
+1123,24.76,38.866,Business and Financial Operations,Guam,2390,51500.0
+1124,24.71,9.468,Computer and Mathematical,Guam,580,51390.0
+1125,27.51,15.979,Architecture and Engineering,Guam,980,57210.0
+1126,26.33,6.222,"Life, Physical, and Social Science",Guam,380,54770.0
+1127,22.04,13.206,Community and Social Service,Guam,810,45830.0
+1128,32.81,6.033,Legal,Guam,370,68240.0
+1129,21.19,72.082,"Education, Training, and Library",Guam,4430,44070.0
+1130,19.29,9.513,"Arts, Design, Entertainment, Sports, and Media",Guam,590,40130.0
+1131,33.16,32.319,Healthcare Practitioners and Technical,Guam,1990,68970.0
+1132,13.06,13.198,Healthcare Support,Guam,810,27160.0
+1133,18.0,43.494,Protective Service,Guam,2680,37440.0
+1134,9.95,104.837,Food Preparation and Serving Related,Guam,6450,20700.0
+1135,10.09,54.884,Building and Grounds Cleaning and Maintenance,Guam,3380,21000.0
+1136,10.54,21.699,Personal Care and Service,Guam,1340,21930.0
+1137,11.71,81.315,Sales and Related,Guam,5000,24360.0
+1138,14.11,175.855,Office and Administrative Support,Guam,10820,29340.0
+1139,13.7,1.024,"Farming, Fishing, and Forestry",Guam,60,28500.0
+1140,14.82,79.101,Construction and Extraction,Guam,4870,30820.0
+1141,16.13,52.126,"Installation, Maintenance, and Repair",Guam,3210,33550.0
+1142,14.65,24.48,Production,Guam,1510,30480.0
+1143,13.76,60.19,Transportation and Material Moving,Guam,3700,28610.0
+1144,35.62,43.657,Management,Puerto Rico,38230,74080.0
+1145,18.52,47.991,Business and Financial Operations,Puerto Rico,42030,38520.0
+1146,21.06,12.175,Computer and Mathematical,Puerto Rico,10660,43800.0
+1147,26.7,15.633,Architecture and Engineering,Puerto Rico,13690,55530.0
+1148,22.83,6.444,"Life, Physical, and Social Science",Puerto Rico,5640,47490.0
+1149,14.07,17.897,Community and Social Service,Puerto Rico,15670,29270.0
+1150,30.54,5.405,Legal,Puerto Rico,4730,63530.0
+1151,17.05,75.264,"Education, Training, and Library",Puerto Rico,65910,35470.0
+1152,15.43,8.335,"Arts, Design, Entertainment, Sports, and Media",Puerto Rico,7300,32090.0
+1153,17.67,59.854,Healthcare Practitioners and Technical,Puerto Rico,52420,36740.0
+1154,9.99,11.35,Healthcare Support,Puerto Rico,9940,20780.0
+1155,12.23,61.714,Protective Service,Puerto Rico,54050,25430.0
+1156,9.02,81.063,Food Preparation and Serving Related,Puerto Rico,70990,18750.0
+1157,9.75,45.982,Building and Grounds Cleaning and Maintenance,Puerto Rico,40270,20290.0
+1158,9.46,18.538,Personal Care and Service,Puerto Rico,16240,19670.0
+1159,10.67,122.51,Sales and Related,Puerto Rico,107290,22190.0
+1160,11.82,184.784,Office and Administrative Support,Puerto Rico,161830,24580.0
+1161,10.38,2.138,"Farming, Fishing, and Forestry",Puerto Rico,1870,21600.0
+1162,10.34,31.298,Construction and Extraction,Puerto Rico,27410,21500.0
+1163,12.97,33.424,"Installation, Maintenance, and Repair",Puerto Rico,29270,26980.0
+1164,11.55,65.2,Production,Puerto Rico,57100,24030.0
+1165,10.54,49.346,Transportation and Material Moving,Puerto Rico,43220,21920.0
+1166,36.22,91.198,Management,Virgin Islands,3420,75330.0
+1167,27.32,36.831,Business and Financial Operations,Virgin Islands,1380,56820.0
+1168,26.93,9.403,Computer and Mathematical,Virgin Islands,350,56010.0
+1169,27.61,5.18,Architecture and Engineering,Virgin Islands,190,57420.0
+1170,23.59,7.618,"Life, Physical, and Social Science",Virgin Islands,290,49060.0
+1171,21.07,12.75,Community and Social Service,Virgin Islands,480,43820.0
+1172,48.78,13.38,Legal,Virgin Islands,500,101460.0
+1173,21.24,65.023,"Education, Training, and Library",Virgin Islands,2440,44180.0
+1174,21.85,7.933,"Arts, Design, Entertainment, Sports, and Media",Virgin Islands,300,45450.0
+1175,32.62,29.264,Healthcare Practitioners and Technical,Virgin Islands,1100,67840.0
+1176,14.22,10.6,Healthcare Support,Virgin Islands,400,29580.0
+1177,16.51,65.444,Protective Service,Virgin Islands,2450,34340.0
+1178,13.39,124.156,Food Preparation and Serving Related,Virgin Islands,4650,27850.0
+1179,12.36,57.701,Building and Grounds Cleaning and Maintenance,Virgin Islands,2160,25700.0
+1180,12.67,34.567,Personal Care and Service,Virgin Islands,1300,26350.0
+1181,13.33,101.694,Sales and Related,Virgin Islands,3810,27720.0
+1182,15.83,172.446,Office and Administrative Support,Virgin Islands,6470,32930.0
+1183,16.52,0.846,"Farming, Fishing, and Forestry",Virgin Islands,30,34370.0
+1184,20.31,35.079,Construction and Extraction,Virgin Islands,1320,42250.0
+1185,17.78,40.205,"Installation, Maintenance, and Repair",Virgin Islands,1510,36990.0
+1186,18.35,22.534,Production,Virgin Islands,840,38160.0
+1187,14.89,56.148,Transportation and Material Moving,Virgin Islands,2110,30970.0

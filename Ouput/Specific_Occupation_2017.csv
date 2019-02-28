@@ -1,0 +1,1008 @@
+,Hr_Mean_Wage,Jobs_1000,Occupation,State,Tot_Emp,Yr_Mean_Wage
+8,59.51,1.624,Computer and Information Systems Managers,Alabama,3120,123790.0
+60,39.41,2.084,Computer Systems Analysts,Alabama,4010,81960.0
+62,42.17,3.858,Computer Programmers,Alabama,7420,87700.0
+63,44.4,2.883,"Software Developers, Applications",Alabama,5540,92360.0
+64,49.7,1.933,"Software Developers, Systems Software",Alabama,3720,103380.0
+65,28.63,0.313,Web Developers,Alabama,600,59560.0
+67,35.6,2.201,Network and Computer Systems Administrators,Alabama,4230,74050.0
+68,48.97,0.429,Computer Network Architects,Alabama,830,101870.0
+69,23.33,3.084,Computer User Support Specialists,Alabama,5930,48530.0
+70,30.01,0.523,Computer Network Support Specialists,Alabama,1000,62420.0
+71,42.26,0.94,"Computer Occupations, All Other",Alabama,1810,87900.0
+82,51.97,0.687,Computer Hardware Engineers,Alabama,1320,108090.0
+84,52.04,1.101,"Electronics Engineers, Except Computer",Alabama,2120,108230.0
+163,0.0,0.17,"Computer Science Teachers, Postsecondary",Alabama,330,88170.0
+454,19.49,0.355,Computer Operators,Alabama,680,40540.0
+461,14.09,0.274,"Office Machine Operators, Except Computer",Alabama,530,29320.0
+525,18.32,0.792,"Computer, Automated Teller, and Office Machine Repairers",Alabama,1520,38110.0
+584,18.11,0.826,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Alabama,1590,37670.0
+585,21.87,0.242,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",Alabama,470,45490.0
+710,52.91,1.132,Computer and Information Systems Managers,Alaska,360,110050.0
+758,35.03,2.695,Computer Systems Analysts,Alaska,860,72860.0
+760,44.7,1.877,Computer Programmers,Alaska,600,92970.0
+761,0.0,1.056,"Software Developers, Applications",Alaska,340,0.0
+762,0.0,0.395,"Software Developers, Systems Software",Alaska,130,0.0
+763,28.87,0.603,Web Developers,Alaska,190,60040.0
+765,40.27,3.213,Network and Computer Systems Administrators,Alaska,1020,83770.0
+766,51.75,0.281,Computer Network Architects,Alaska,90,107630.0
+767,28.67,2.623,Computer User Support Specialists,Alaska,830,59640.0
+768,28.52,1.012,Computer Network Support Specialists,Alaska,320,59310.0
+769,44.76,1.703,"Computer Occupations, All Other",Alaska,540,93100.0
+777,0.0,0.23,Computer Hardware Engineers,Alaska,70,0.0
+779,47.38,0.449,"Electronics Engineers, Except Computer",Alaska,140,98560.0
+1082,28.22,0.402,Computer Operators,Alaska,130,58700.0
+1088,17.69,0.227,"Office Machine Operators, Except Computer",Alaska,70,36780.0
+1129,22.27,0.654,"Computer, Automated Teller, and Office Machine Repairers",Alaska,210,46320.0
+1241,64.87,2.589,Computer and Information Systems Managers,Arizona,7000,134930.0
+1295,52.66,0.097,Computer and Information Research Scientists,Arizona,260,109530.0
+1296,42.31,4.871,Computer Systems Analysts,Arizona,13170,88010.0
+1298,42.64,1.63,Computer Programmers,Arizona,4410,88700.0
+1299,46.21,5.537,"Software Developers, Applications",Arizona,14970,96120.0
+1300,50.0,4.191,"Software Developers, Systems Software",Arizona,11330,103990.0
+1301,34.22,0.952,Web Developers,Arizona,2570,71180.0
+1303,39.79,2.767,Network and Computer Systems Administrators,Arizona,7480,82770.0
+1304,48.93,1.029,Computer Network Architects,Arizona,2780,101760.0
+1305,24.24,5.159,Computer User Support Specialists,Arizona,13950,50420.0
+1306,31.89,1.916,Computer Network Support Specialists,Arizona,5180,66320.0
+1307,40.09,2.646,"Computer Occupations, All Other",Arizona,7150,83390.0
+1320,53.09,0.422,Computer Hardware Engineers,Arizona,1140,110420.0
+1322,48.35,1.976,"Electronics Engineers, Except Computer",Arizona,5340,100570.0
+1407,0.0,0.157,"Computer Science Teachers, Postsecondary",Arizona,420,86700.0
+1722,22.6,0.0,Computer Operators,Arizona,0,47010.0
+1729,16.44,0.479,"Office Machine Operators, Except Computer",Arizona,1300,34200.0
+1796,17.38,0.594,"Computer, Automated Teller, and Office Machine Repairers",Arizona,1610,36140.0
+1854,19.73,0.404,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Arizona,1090,41030.0
+1855,28.78,0.068,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",Arizona,180,59850.0
+1975,53.56,1.733,Computer and Information Systems Managers,Arkansas,2080,111410.0
+2028,46.24,0.03,Computer and Information Research Scientists,Arkansas,40,96190.0
+2029,33.64,2.943,Computer Systems Analysts,Arkansas,3530,69970.0
+2031,33.43,1.699,Computer Programmers,Arkansas,2040,69520.0
+2032,42.07,3.078,"Software Developers, Applications",Arkansas,3690,87500.0
+2033,39.7,1.048,"Software Developers, Systems Software",Arkansas,1260,82580.0
+2034,24.7,0.284,Web Developers,Arkansas,340,51370.0
+2036,32.22,2.269,Network and Computer Systems Administrators,Arkansas,2720,67010.0
+2037,41.54,0.646,Computer Network Architects,Arkansas,780,86400.0
+2038,19.53,2.971,Computer User Support Specialists,Arkansas,3570,40630.0
+2039,22.28,1.455,Computer Network Support Specialists,Arkansas,1750,46350.0
+2040,34.82,0.628,"Computer Occupations, All Other",Arkansas,750,72420.0
+2051,42.59,0.216,Computer Hardware Engineers,Arkansas,260,88580.0
+2053,34.42,0.276,"Electronics Engineers, Except Computer",Arkansas,330,71590.0
+2126,0.0,0.226,"Computer Science Teachers, Postsecondary",Arkansas,270,68570.0
+2406,16.2,0.234,Computer Operators,Arkansas,280,33700.0
+2412,12.55,0.233,"Office Machine Operators, Except Computer",Arkansas,280,26110.0
+2476,14.92,0.703,"Computer, Automated Teller, and Office Machine Repairers",Arkansas,840,31030.0
+2534,17.52,0.784,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Arkansas,940,36440.0
+2535,23.7,0.055,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",Arkansas,70,49300.0
+2651,84.03,3.191,Computer and Information Systems Managers,California,53270,174790.0
+2707,61.8,0.345,Computer and Information Research Scientists,California,5750,128530.0
+2708,49.45,4.371,Computer Systems Analysts,California,72980,102860.0
+2710,46.28,2.04,Computer Programmers,California,34050,96270.0
+2711,60.8,8.498,"Software Developers, Applications",California,141870,126470.0
+2712,61.17,4.95,"Software Developers, Systems Software",California,82630,127230.0
+2713,40.51,1.267,Web Developers,California,21150,84270.0
+2715,46.35,2.438,Network and Computer Systems Administrators,California,40700,96420.0
+2716,61.91,1.012,Computer Network Architects,California,16900,128770.0
+2717,30.6,4.135,Computer User Support Specialists,California,69030,63660.0
+2718,36.94,1.043,Computer Network Support Specialists,California,17420,76830.0
+2719,47.34,2.871,"Computer Occupations, All Other",California,47930,98460.0
+2734,65.41,1.325,Computer Hardware Engineers,California,22120,136040.0
+2736,58.57,1.782,"Electronics Engineers, Except Computer",California,29760,121820.0
+2828,0.0,0.139,"Computer Science Teachers, Postsecondary",California,2320,113710.0
+3153,24.11,0.207,Computer Operators,California,3450,50160.0
+3160,17.45,0.409,"Office Machine Operators, Except Computer",California,6840,36300.0
+3235,20.56,0.635,"Computer, Automated Teller, and Office Machine Repairers",California,10590,42760.0
+3300,20.16,0.714,"Computer-Controlled Machine Tool Operators, Metal and Plastic",California,11910,41940.0
+3301,30.84,0.161,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",California,2690,64150.0
+3443,77.78,2.777,Computer and Information Systems Managers,Colorado,7100,161780.0
+3497,55.96,0.159,Computer and Information Research Scientists,Colorado,410,116400.0
+3498,46.3,3.223,Computer Systems Analysts,Colorado,8240,96310.0
+3500,46.2,1.274,Computer Programmers,Colorado,3260,96100.0
+3501,50.3,10.648,"Software Developers, Applications",Colorado,27210,104620.0
+3502,58.73,5.188,"Software Developers, Systems Software",Colorado,13260,122170.0
+3503,34.37,0.838,Web Developers,Colorado,2140,71490.0
+3505,40.41,4.147,Network and Computer Systems Administrators,Colorado,10600,84060.0
+3506,52.81,1.941,Computer Network Architects,Colorado,4960,109840.0
+3507,28.93,5.553,Computer User Support Specialists,Colorado,14190,60170.0
+3508,33.74,1.416,Computer Network Support Specialists,Colorado,3620,70190.0
+3509,47.39,5.631,"Computer Occupations, All Other",Colorado,14390,98570.0
+3524,56.46,1.42,Computer Hardware Engineers,Colorado,3630,117450.0
+3526,49.6,2.498,"Electronics Engineers, Except Computer",Colorado,6380,103170.0
+3615,0.0,0.182,"Computer Science Teachers, Postsecondary",Colorado,470,76090.0
+3924,25.55,0.121,Computer Operators,Colorado,310,53140.0
+3931,17.59,0.326,"Office Machine Operators, Except Computer",Colorado,830,36580.0
+3998,20.52,0.485,"Computer, Automated Teller, and Office Machine Repairers",Colorado,1240,42680.0
+4058,19.77,0.341,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Colorado,870,41130.0
+4059,27.57,0.099,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",Colorado,250,57340.0
+4176,71.03,4.874,Computer and Information Systems Managers,Connecticut,8060,147740.0
+4231,0.0,0.028,Computer and Information Research Scientists,Connecticut,50,0.0
+4232,46.0,4.331,Computer Systems Analysts,Connecticut,7170,95670.0
+4234,42.12,3.175,Computer Programmers,Connecticut,5250,87610.0
+4235,49.71,6.348,"Software Developers, Applications",Connecticut,10500,103390.0
+4236,50.25,2.571,"Software Developers, Systems Software",Connecticut,4250,104510.0
+4237,36.69,0.731,Web Developers,Connecticut,1210,76310.0
+4239,44.02,1.895,Network and Computer Systems Administrators,Connecticut,3140,91550.0
+4240,58.03,1.016,Computer Network Architects,Connecticut,1680,120700.0
+4241,28.07,5.13,Computer User Support Specialists,Connecticut,8490,58390.0
+4242,38.84,0.602,Computer Network Support Specialists,Connecticut,1000,80780.0
+4243,47.65,1.137,"Computer Occupations, All Other",Connecticut,1880,99110.0
+4255,48.98,0.29,Computer Hardware Engineers,Connecticut,480,101870.0
+4257,51.44,0.474,"Electronics Engineers, Except Computer",Connecticut,780,106990.0
+4337,0.0,0.159,"Computer Science Teachers, Postsecondary",Connecticut,260,88710.0
+4631,25.25,0.166,Computer Operators,Connecticut,270,52530.0
+4638,18.07,0.433,"Office Machine Operators, Except Computer",Connecticut,720,37590.0
+4690,22.96,0.607,"Computer, Automated Teller, and Office Machine Repairers",Connecticut,1010,47760.0
+4748,22.04,1.429,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Connecticut,2360,45840.0
+4749,32.34,0.466,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",Connecticut,770,67270.0
+4860,77.24,2.677,Computer and Information Systems Managers,Delaware,1190,160670.0
+4909,46.36,6.657,Computer Systems Analysts,Delaware,2950,96440.0
+4911,37.12,2.549,Computer Programmers,Delaware,1130,77200.0
+4912,49.16,10.478,"Software Developers, Applications",Delaware,4640,102250.0
+4913,58.68,0.0,"Software Developers, Systems Software",Delaware,0,122050.0
+4914,33.31,0.665,Web Developers,Delaware,290,69280.0
+4916,38.44,3.076,Network and Computer Systems Administrators,Delaware,1360,79960.0
+4917,59.76,1.545,Computer Network Architects,Delaware,680,124310.0
+4918,27.88,4.204,Computer User Support Specialists,Delaware,1860,57990.0
+4919,33.2,1.262,Computer Network Support Specialists,Delaware,560,69050.0
+4979,0.0,0.308,"Computer Science Teachers, Postsecondary",Delaware,140,93160.0
+5217,20.84,0.326,Computer Operators,Delaware,140,43340.0
+5223,15.81,0.78,"Office Machine Operators, Except Computer",Delaware,350,32880.0
+5262,19.3,0.672,"Computer, Automated Teller, and Office Machine Repairers",Delaware,300,40130.0
+5306,16.57,0.192,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Delaware,90,34460.0
+5374,78.99,5.738,Computer and Information Systems Managers,District of Columbia,4060,164310.0
+5421,63.45,0.639,Computer and Information Research Scientists,District of Columbia,450,131980.0
+5422,50.47,6.01,Computer Systems Analysts,District of Columbia,4260,104970.0
+5424,48.91,1.693,Computer Programmers,District of Columbia,1200,101740.0
+5425,55.72,3.386,"Software Developers, Applications",District of Columbia,2400,115900.0
+5426,53.64,3.824,"Software Developers, Systems Software",District of Columbia,2710,111570.0
+5427,41.66,1.785,Web Developers,District of Columbia,1260,86660.0
+5429,47.12,3.465,Network and Computer Systems Administrators,District of Columbia,2450,98020.0
+5430,54.49,1.816,Computer Network Architects,District of Columbia,1290,113330.0
+5431,33.43,6.4,Computer User Support Specialists,District of Columbia,4530,69530.0
+5432,44.26,0.925,Computer Network Support Specialists,District of Columbia,660,92060.0
+5433,56.09,24.036,"Computer Occupations, All Other",District of Columbia,17020,116670.0
+5444,58.86,0.619,Computer Hardware Engineers,District of Columbia,440,122440.0
+5446,60.72,0.757,"Electronics Engineers, Except Computer",District of Columbia,540,126300.0
+5512,0.0,0.233,"Computer Science Teachers, Postsecondary",District of Columbia,160,123000.0
+5762,26.82,0.187,Computer Operators,District of Columbia,130,55790.0
+5769,20.91,0.651,"Office Machine Operators, Except Computer",District of Columbia,460,43500.0
+5803,19.21,0.131,"Computer, Automated Teller, and Office Machine Repairers",District of Columbia,90,39970.0
+5871,61.49,1.774,Computer and Information Systems Managers,Florida,14930,127890.0
+5925,50.75,0.063,Computer and Information Research Scientists,Florida,530,105560.0
+5926,39.52,2.48,Computer Systems Analysts,Florida,20880,82210.0
+5928,38.35,1.268,Computer Programmers,Florida,10670,79770.0
+5929,43.64,4.07,"Software Developers, Applications",Florida,34270,90770.0
+5930,48.6,1.96,"Software Developers, Systems Software",Florida,16500,101090.0
+5931,29.95,0.823,Web Developers,Florida,6930,62290.0
+5933,38.15,2.253,Network and Computer Systems Administrators,Florida,18970,79360.0
+5934,39.87,1.585,Computer Network Architects,Florida,13340,82920.0
+5935,22.85,4.418,Computer User Support Specialists,Florida,37190,47540.0
+5936,27.93,1.137,Computer Network Support Specialists,Florida,9570,58090.0
+5937,37.73,1.328,"Computer Occupations, All Other",Florida,11180,78470.0
+5952,44.72,0.252,Computer Hardware Engineers,Florida,2120,93020.0
+5954,43.82,0.558,"Electronics Engineers, Except Computer",Florida,4700,91140.0
+6042,0.0,0.244,"Computer Science Teachers, Postsecondary",Florida,2050,80280.0
+6365,22.42,0.264,Computer Operators,Florida,2220,46630.0
+6372,14.7,0.292,"Office Machine Operators, Except Computer",Florida,2460,30570.0
+6443,17.66,0.752,"Computer, Automated Teller, and Office Machine Repairers",Florida,6330,36730.0
+6506,18.11,0.255,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Florida,2150,37660.0
+6507,23.97,0.054,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",Florida,450,49860.0
+6645,67.29,3.078,Computer and Information Systems Managers,Georgia,13240,139970.0
+6697,49.02,0.189,Computer and Information Research Scientists,Georgia,810,101950.0
+6698,42.24,4.039,Computer Systems Analysts,Georgia,17380,87850.0
+6700,41.05,1.6,Computer Programmers,Georgia,6880,85380.0
+6701,49.82,6.284,"Software Developers, Applications",Georgia,27040,103630.0
+6702,48.81,2.795,"Software Developers, Systems Software",Georgia,12030,101530.0
+6703,37.48,0.63,Web Developers,Georgia,2710,77950.0
+6705,42.1,2.515,Network and Computer Systems Administrators,Georgia,10820,87570.0
+6706,54.38,1.224,Computer Network Architects,Georgia,5270,113110.0
+6707,25.47,5.377,Computer User Support Specialists,Georgia,23140,52980.0
+6708,33.53,1.577,Computer Network Support Specialists,Georgia,6790,69740.0
+6709,42.4,3.854,"Computer Occupations, All Other",Georgia,16580,88190.0
+6723,43.03,0.326,Computer Hardware Engineers,Georgia,1400,89500.0
+6725,45.17,1.14,"Electronics Engineers, Except Computer",Georgia,4910,93950.0
+6811,0.0,0.161,"Computer Science Teachers, Postsecondary",Georgia,690,79780.0
+7116,20.46,0.343,Computer Operators,Georgia,1470,42560.0
+7123,15.75,0.282,"Office Machine Operators, Except Computer",Georgia,1210,32760.0
+7187,16.63,0.575,"Computer, Automated Teller, and Office Machine Repairers",Georgia,2480,34590.0
+7250,17.49,0.457,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Georgia,1970,36390.0
+7251,23.13,0.053,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",Georgia,230,48120.0
+7383,58.15,1.194,Computer and Information Systems Managers,Hawaii,760,120950.0
+7433,50.71,0.207,Computer and Information Research Scientists,Hawaii,130,105490.0
+7434,38.91,2.37,Computer Systems Analysts,Hawaii,1500,80940.0
+7436,37.11,0.735,Computer Programmers,Hawaii,470,77190.0
+7437,39.45,1.205,"Software Developers, Applications",Hawaii,760,82050.0
+7438,45.33,1.573,"Software Developers, Systems Software",Hawaii,1000,94280.0
+7439,29.24,0.449,Web Developers,Hawaii,280,60810.0
+7441,41.56,1.879,Network and Computer Systems Administrators,Hawaii,1190,86440.0
+7442,48.34,0.537,Computer Network Architects,Hawaii,340,100540.0
+7443,22.91,1.855,Computer User Support Specialists,Hawaii,1170,47660.0
+7444,29.02,0.954,Computer Network Support Specialists,Hawaii,600,60350.0
+7445,42.69,2.598,"Computer Occupations, All Other",Hawaii,1640,88790.0
+7454,0.0,0.217,Computer Hardware Engineers,Hawaii,140,0.0
+7456,47.7,0.816,"Electronics Engineers, Except Computer",Hawaii,520,99210.0
+7525,0.0,0.176,"Computer Science Teachers, Postsecondary",Hawaii,110,83620.0
+7787,23.77,0.445,Computer Operators,Hawaii,280,49440.0
+7793,17.35,0.167,"Office Machine Operators, Except Computer",Hawaii,110,36080.0
+7839,21.35,0.63,"Computer, Automated Teller, and Office Machine Repairers",Hawaii,400,44400.0
+7960,50.8,1.841,Computer and Information Systems Managers,Idaho,1260,105660.0
+8012,0.0,0.199,Computer and Information Research Scientists,Idaho,140,0.0
+8013,37.87,1.981,Computer Systems Analysts,Idaho,1360,78770.0
+8015,36.21,0.918,Computer Programmers,Idaho,630,75310.0
+8016,42.11,4.297,"Software Developers, Applications",Idaho,2950,87580.0
+8017,43.08,1.309,"Software Developers, Systems Software",Idaho,900,89610.0
+8018,24.36,0.983,Web Developers,Idaho,670,50660.0
+8020,30.92,1.935,Network and Computer Systems Administrators,Idaho,1330,64310.0
+8021,38.89,0.629,Computer Network Architects,Idaho,430,80890.0
+8022,20.99,4.337,Computer User Support Specialists,Idaho,2970,43650.0
+8023,26.56,0.63,Computer Network Support Specialists,Idaho,430,55250.0
+8024,36.69,1.405,"Computer Occupations, All Other",Idaho,960,76320.0
+8034,48.78,0.394,Computer Hardware Engineers,Idaho,270,101470.0
+8109,0.0,0.135,"Computer Science Teachers, Postsecondary",Idaho,90,99390.0
+8380,21.3,0.251,Computer Operators,Idaho,170,44290.0
+8386,13.41,0.27,"Office Machine Operators, Except Computer",Idaho,190,27880.0
+8442,17.94,0.68,"Computer, Automated Teller, and Office Machine Repairers",Idaho,470,37320.0
+8496,16.52,0.855,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Idaho,590,34370.0
+8497,19.63,0.278,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",Idaho,190,40820.0
+8590,65.93,2.61,Computer and Information Systems Managers,Illinois,15470,137140.0
+8645,58.32,0.099,Computer and Information Research Scientists,Illinois,590,121310.0
+8646,43.56,4.47,Computer Systems Analysts,Illinois,26500,90600.0
+8648,42.98,2.034,Computer Programmers,Illinois,12060,89390.0
+8649,46.21,4.632,"Software Developers, Applications",Illinois,27460,96110.0
+8650,51.3,2.387,"Software Developers, Systems Software",Illinois,14150,106700.0
+8651,37.58,0.887,Web Developers,Illinois,5260,78160.0
+8653,42.16,2.228,Network and Computer Systems Administrators,Illinois,13210,87700.0
+8654,53.87,0.887,Computer Network Architects,Illinois,5260,112050.0
+8655,25.81,4.309,Computer User Support Specialists,Illinois,25540,53680.0
+8656,34.1,1.584,Computer Network Support Specialists,Illinois,9390,70940.0
+8657,44.69,2.707,"Computer Occupations, All Other",Illinois,16050,92960.0
+8672,45.91,0.21,Computer Hardware Engineers,Illinois,1250,95500.0
+8674,48.37,0.555,"Electronics Engineers, Except Computer",Illinois,3290,100610.0
+8764,0.0,0.227,"Computer Science Teachers, Postsecondary",Illinois,1340,89290.0
+9084,23.08,0.27,Computer Operators,Illinois,1600,48010.0
+9091,20.07,0.191,"Office Machine Operators, Except Computer",Illinois,1130,41750.0
+9162,18.36,0.556,"Computer, Automated Teller, and Office Machine Repairers",Illinois,3300,38180.0
+9225,18.89,0.713,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Illinois,4220,39290.0
+9226,26.72,0.199,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",Illinois,1180,55590.0
+9361,57.0,1.56,Computer and Information Systems Managers,Indiana,4710,118560.0
+9416,51.66,0.0,Computer and Information Research Scientists,Indiana,0,107440.0
+9417,39.09,2.947,Computer Systems Analysts,Indiana,8900,81310.0
+9419,36.26,1.442,Computer Programmers,Indiana,4350,75420.0
+9420,41.17,2.996,"Software Developers, Applications",Indiana,9040,85640.0
+9421,41.61,1.187,"Software Developers, Systems Software",Indiana,3580,86540.0
+9422,27.71,0.538,Web Developers,Indiana,1620,57630.0
+9424,34.77,2.392,Network and Computer Systems Administrators,Indiana,7220,72330.0
+9425,41.46,1.077,Computer Network Architects,Indiana,3250,86230.0
+9426,22.0,3.35,Computer User Support Specialists,Indiana,10110,45750.0
+9427,29.17,0.514,Computer Network Support Specialists,Indiana,1550,60680.0
+9428,35.23,0.912,"Computer Occupations, All Other",Indiana,2750,73280.0
+9441,40.32,0.124,Computer Hardware Engineers,Indiana,370,83870.0
+9443,42.2,0.784,"Electronics Engineers, Except Computer",Indiana,2370,87780.0
+9523,0.0,0.281,"Computer Science Teachers, Postsecondary",Indiana,850,0.0
+9832,18.58,0.206,Computer Operators,Indiana,620,38660.0
+9839,15.48,0.238,"Office Machine Operators, Except Computer",Indiana,720,32190.0
+9907,17.25,0.644,"Computer, Automated Teller, and Office Machine Repairers",Indiana,1950,35890.0
+9971,17.89,2.328,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Indiana,7030,37210.0
+9972,22.46,0.264,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",Indiana,800,46730.0
+10102,58.78,2.404,Computer and Information Systems Managers,Iowa,3690,122260.0
+10156,39.83,4.377,Computer Systems Analysts,Iowa,6720,82850.0
+10158,36.09,0.933,Computer Programmers,Iowa,1430,75060.0
+10159,41.38,4.451,"Software Developers, Applications",Iowa,6830,86070.0
+10160,42.46,1.929,"Software Developers, Systems Software",Iowa,2960,88310.0
+10161,27.94,0.692,Web Developers,Iowa,1060,58120.0
+10163,35.55,2.176,Network and Computer Systems Administrators,Iowa,3340,73940.0
+10164,0.0,0.772,Computer Network Architects,Iowa,1180,0.0
+10165,22.61,2.806,Computer User Support Specialists,Iowa,4310,47030.0
+10166,26.0,1.502,Computer Network Support Specialists,Iowa,2310,54070.0
+10167,37.21,1.42,"Computer Occupations, All Other",Iowa,2180,77390.0
+10179,53.65,0.131,Computer Hardware Engineers,Iowa,200,111600.0
+10181,33.58,0.25,"Electronics Engineers, Except Computer",Iowa,380,69840.0
+10257,0.0,0.248,"Computer Science Teachers, Postsecondary",Iowa,380,98080.0
+10558,21.2,0.224,Computer Operators,Iowa,340,44100.0
+10565,15.81,0.467,"Office Machine Operators, Except Computer",Iowa,720,32890.0
+10624,18.6,0.738,"Computer, Automated Teller, and Office Machine Repairers",Iowa,1130,38690.0
+10679,18.44,1.772,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Iowa,2720,38340.0
+10680,22.15,0.276,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",Iowa,420,46070.0
+10804,58.26,2.145,Computer and Information Systems Managers,Kansas,2940,121180.0
+10857,43.21,0.074,Computer and Information Research Scientists,Kansas,100,89880.0
+10858,37.75,3.741,Computer Systems Analysts,Kansas,5120,78530.0
+10860,35.67,1.25,Computer Programmers,Kansas,1710,74190.0
+10861,41.77,3.975,"Software Developers, Applications",Kansas,5440,86880.0
+10862,47.34,1.763,"Software Developers, Systems Software",Kansas,2410,98460.0
+10863,29.24,0.731,Web Developers,Kansas,1000,60820.0
+10865,36.3,4.023,Network and Computer Systems Administrators,Kansas,5510,75500.0
+10866,45.49,1.172,Computer Network Architects,Kansas,1600,94620.0
+10867,21.8,5.549,Computer User Support Specialists,Kansas,7600,45350.0
+10868,28.12,0.678,Computer Network Support Specialists,Kansas,930,58490.0
+10869,39.5,1.044,"Computer Occupations, All Other",Kansas,1430,82160.0
+10882,45.25,0.337,Computer Hardware Engineers,Kansas,460,94110.0
+10884,42.03,0.947,"Electronics Engineers, Except Computer",Kansas,1300,87410.0
+10955,0.0,0.144,"Computer Science Teachers, Postsecondary",Kansas,200,61620.0
+11244,22.49,0.529,Computer Operators,Kansas,720,46770.0
+11251,14.32,0.451,"Office Machine Operators, Except Computer",Kansas,620,29780.0
+11312,18.61,0.536,"Computer, Automated Teller, and Office Machine Repairers",Kansas,730,38710.0
+11374,18.52,1.419,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Kansas,1940,38530.0
+11375,29.18,0.445,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",Kansas,610,60700.0
+11488,56.58,1.334,Computer and Information Systems Managers,Kentucky,2500,117680.0
+11541,34.96,2.36,Computer Systems Analysts,Kentucky,4430,72720.0
+11543,33.51,0.554,Computer Programmers,Kentucky,1040,69700.0
+11544,37.62,2.769,"Software Developers, Applications",Kentucky,5200,78260.0
+11545,41.53,0.959,"Software Developers, Systems Software",Kentucky,1800,86380.0
+11546,31.14,0.634,Web Developers,Kentucky,1190,64780.0
+11548,31.09,1.685,Network and Computer Systems Administrators,Kentucky,3160,64670.0
+11549,37.23,0.672,Computer Network Architects,Kentucky,1260,77440.0
+11550,21.83,3.046,Computer User Support Specialists,Kentucky,5720,45400.0
+11551,26.56,0.776,Computer Network Support Specialists,Kentucky,1460,55250.0
+11552,39.48,1.378,"Computer Occupations, All Other",Kentucky,2590,82120.0
+11565,43.96,0.068,Computer Hardware Engineers,Kentucky,130,91440.0
+11567,44.53,0.322,"Electronics Engineers, Except Computer",Kentucky,600,92620.0
+11647,0.0,0.173,"Computer Science Teachers, Postsecondary",Kentucky,320,80950.0
+11942,19.43,0.179,Computer Operators,Kentucky,340,40410.0
+11949,14.36,0.333,"Office Machine Operators, Except Computer",Kentucky,630,29870.0
+12012,18.48,1.272,"Computer, Automated Teller, and Office Machine Repairers",Kentucky,2390,38440.0
+12071,17.82,0.993,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Kentucky,1860,37060.0
+12072,22.94,0.16,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",Kentucky,300,47700.0
+12198,51.14,1.022,Computer and Information Systems Managers,Louisiana,1940,106380.0
+12253,34.73,1.015,Computer Systems Analysts,Louisiana,1930,72230.0
+12255,32.68,1.229,Computer Programmers,Louisiana,2340,67970.0
+12256,36.87,0.611,"Software Developers, Applications",Louisiana,1160,76700.0
+12257,36.18,0.629,"Software Developers, Systems Software",Louisiana,1200,75250.0
+12258,26.54,0.244,Web Developers,Louisiana,460,55200.0
+12260,31.3,1.469,Network and Computer Systems Administrators,Louisiana,2790,65090.0
+12261,38.69,0.183,Computer Network Architects,Louisiana,350,80480.0
+12262,21.75,1.886,Computer User Support Specialists,Louisiana,3590,45250.0
+12263,24.36,0.72,Computer Network Support Specialists,Louisiana,1370,50660.0
+12264,31.49,1.755,"Computer Occupations, All Other",Louisiana,3340,65500.0
+12274,39.95,0.141,Computer Hardware Engineers,Louisiana,270,83090.0
+12276,44.0,0.333,"Electronics Engineers, Except Computer",Louisiana,630,91520.0
+12358,0.0,0.09,"Computer Science Teachers, Postsecondary",Louisiana,170,92080.0
+12647,19.37,0.18,Computer Operators,Louisiana,340,40300.0
+12654,15.36,0.114,"Office Machine Operators, Except Computer",Louisiana,220,31960.0
+12720,19.22,0.51,"Computer, Automated Teller, and Office Machine Repairers",Louisiana,970,39980.0
+12778,21.98,0.283,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Louisiana,540,45710.0
+12779,25.12,0.057,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",Louisiana,110,52250.0
+12900,55.83,2.178,Computer and Information Systems Managers,Maine,1310,116120.0
+12952,39.28,2.952,Computer Systems Analysts,Maine,1770,81710.0
+12954,37.23,1.475,Computer Programmers,Maine,880,77450.0
+12955,42.28,2.804,"Software Developers, Applications",Maine,1680,87940.0
+12956,44.02,0.575,"Software Developers, Systems Software",Maine,340,91550.0
+12957,30.0,0.55,Web Developers,Maine,330,62390.0
+12959,34.1,2.079,Network and Computer Systems Administrators,Maine,1250,70930.0
+12960,43.71,1.01,Computer Network Architects,Maine,600,90920.0
+12961,24.55,3.217,Computer User Support Specialists,Maine,1930,51050.0
+12962,30.06,1.294,Computer Network Support Specialists,Maine,780,62530.0
+12963,37.04,1.373,"Computer Occupations, All Other",Maine,820,77050.0
+12975,49.17,0.313,"Electronics Engineers, Except Computer",Maine,190,102270.0
+13041,0.0,0.14,"Computer Science Teachers, Postsecondary",Maine,80,83400.0
+13306,16.82,0.318,Computer Operators,Maine,190,34980.0
+13313,16.18,0.196,"Office Machine Operators, Except Computer",Maine,120,33660.0
+13362,19.98,0.904,"Computer, Automated Teller, and Office Machine Repairers",Maine,540,41570.0
+13413,22.45,1.569,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Maine,940,46700.0
+13414,22.63,0.138,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",Maine,80,47080.0
+13512,72.38,3.723,Computer and Information Systems Managers,Maryland,9920,150540.0
+13565,52.74,0.999,Computer and Information Research Scientists,Maryland,2660,109700.0
+13566,46.97,6.463,Computer Systems Analysts,Maryland,17220,97700.0
+13568,42.83,1.769,Computer Programmers,Maryland,4710,89090.0
+13569,53.94,4.772,"Software Developers, Applications",Maryland,12710,112190.0
+13570,56.89,5.643,"Software Developers, Systems Software",Maryland,15030,118330.0
+13571,35.43,1.304,Web Developers,Maryland,3470,73680.0
+13573,51.56,5.78,Network and Computer Systems Administrators,Maryland,15400,107240.0
+13574,52.43,1.964,Computer Network Architects,Maryland,5230,109050.0
+13575,26.84,3.782,Computer User Support Specialists,Maryland,10080,55820.0
+13576,34.65,3.119,Computer Network Support Specialists,Maryland,8310,72070.0
+13577,52.7,5.195,"Computer Occupations, All Other",Maryland,13840,109620.0
+13591,59.25,1.495,Computer Hardware Engineers,Maryland,3980,123230.0
+13593,59.04,1.77,"Electronics Engineers, Except Computer",Maryland,4720,122810.0
+13678,0.0,0.294,"Computer Science Teachers, Postsecondary",Maryland,780,108450.0
+13980,22.08,0.247,Computer Operators,Maryland,660,45920.0
+13987,17.09,0.619,"Office Machine Operators, Except Computer",Maryland,1650,35550.0
+14054,20.5,0.642,"Computer, Automated Teller, and Office Machine Repairers",Maryland,1710,42630.0
+14112,20.77,0.396,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Maryland,1060,43200.0
+14113,26.93,0.101,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",Maryland,270,56020.0
+14231,73.96,4.622,Computer and Information Systems Managers,Massachusetts,16310,153830.0
+14285,63.28,0.281,Computer and Information Research Scientists,Massachusetts,990,131620.0
+14286,44.72,4.219,Computer Systems Analysts,Massachusetts,14880,93030.0
+14288,45.36,1.459,Computer Programmers,Massachusetts,5150,94340.0
+14289,52.25,8.103,"Software Developers, Applications",Massachusetts,28590,108680.0
+14290,55.24,7.529,"Software Developers, Systems Software",Massachusetts,26560,114900.0
+14291,39.31,1.188,Web Developers,Massachusetts,4190,81770.0
+14293,43.44,2.639,Network and Computer Systems Administrators,Massachusetts,9310,90340.0
+14294,56.03,1.583,Computer Network Architects,Massachusetts,5590,116540.0
+14295,29.54,5.696,Computer User Support Specialists,Massachusetts,20090,61450.0
+14296,39.24,0.919,Computer Network Support Specialists,Massachusetts,3240,81620.0
+14297,45.15,2.618,"Computer Occupations, All Other",Massachusetts,9240,93900.0
+14310,56.72,0.726,Computer Hardware Engineers,Massachusetts,2560,117980.0
+14312,55.8,1.052,"Electronics Engineers, Except Computer",Massachusetts,3710,116070.0
+14396,0.0,0.301,"Computer Science Teachers, Postsecondary",Massachusetts,1060,105850.0
+14706,24.85,0.393,Computer Operators,Massachusetts,1390,51690.0
+14713,18.68,0.357,"Office Machine Operators, Except Computer",Massachusetts,1260,38860.0
+14775,22.73,0.488,"Computer, Automated Teller, and Office Machine Repairers",Massachusetts,1720,47270.0
+14832,24.06,0.733,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Massachusetts,2590,50040.0
+14833,29.32,0.119,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",Massachusetts,420,60980.0
+14964,61.98,2.186,Computer and Information Systems Managers,Michigan,9350,128910.0
+15018,48.04,0.047,Computer and Information Research Scientists,Michigan,200,99930.0
+15019,40.78,4.037,Computer Systems Analysts,Michigan,17260,84820.0
+15021,35.42,0.848,Computer Programmers,Michigan,3630,73680.0
+15022,43.96,6.066,"Software Developers, Applications",Michigan,25940,91430.0
+15023,43.09,2.594,"Software Developers, Systems Software",Michigan,11090,89630.0
+15024,31.03,0.636,Web Developers,Michigan,2720,64540.0
+15026,37.2,1.93,Network and Computer Systems Administrators,Michigan,8250,77380.0
+15027,48.07,0.766,Computer Network Architects,Michigan,3270,99980.0
+15028,24.42,4.255,Computer User Support Specialists,Michigan,18190,50790.0
+15029,28.05,0.899,Computer Network Support Specialists,Michigan,3840,58340.0
+15030,36.53,2.286,"Computer Occupations, All Other",Michigan,9780,75990.0
+15042,0.0,0.373,Computer Hardware Engineers,Michigan,1590,0.0
+15044,39.53,0.84,"Electronics Engineers, Except Computer",Michigan,3590,82220.0
+15130,0.0,0.204,"Computer Science Teachers, Postsecondary",Michigan,870,91860.0
+15443,20.69,0.16,Computer Operators,Michigan,680,43030.0
+15450,15.79,0.275,"Office Machine Operators, Except Computer",Michigan,1180,32830.0
+15517,18.47,0.444,"Computer, Automated Teller, and Office Machine Repairers",Michigan,1900,38410.0
+15583,19.18,2.033,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Michigan,8690,39890.0
+15584,24.99,0.492,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",Michigan,2100,51990.0
+15715,67.75,3.363,Computer and Information Systems Managers,Minnesota,9550,140920.0
+15770,56.35,0.084,Computer and Information Research Scientists,Minnesota,240,117200.0
+15771,43.86,5.861,Computer Systems Analysts,Minnesota,16630,91230.0
+15773,43.0,1.744,Computer Programmers,Minnesota,4950,89440.0
+15774,44.85,6.105,"Software Developers, Applications",Minnesota,17330,93280.0
+15775,53.53,2.885,"Software Developers, Systems Software",Minnesota,8190,111340.0
+15776,36.52,0.998,Web Developers,Minnesota,2830,75970.0
+15778,41.13,3.009,Network and Computer Systems Administrators,Minnesota,8540,85560.0
+15779,51.85,1.511,Computer Network Architects,Minnesota,4290,107860.0
+15780,26.69,4.314,Computer User Support Specialists,Minnesota,12240,55520.0
+15781,28.94,1.17,Computer Network Support Specialists,Minnesota,3320,60200.0
+15782,37.29,2.121,"Computer Occupations, All Other",Minnesota,6020,77570.0
+15795,53.97,0.493,Computer Hardware Engineers,Minnesota,1400,112250.0
+15797,47.83,0.545,"Electronics Engineers, Except Computer",Minnesota,1550,99490.0
+15879,0.0,0.14,"Computer Science Teachers, Postsecondary",Minnesota,400,96020.0
+16189,23.73,0.148,Computer Operators,Minnesota,420,49370.0
+16196,16.46,0.536,"Office Machine Operators, Except Computer",Minnesota,1520,34230.0
+16256,18.6,0.79,"Computer, Automated Teller, and Office Machine Repairers",Minnesota,2240,38680.0
+16316,21.81,1.476,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Minnesota,4190,45360.0
+16317,28.53,0.239,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",Minnesota,680,59330.0
+16448,47.24,1.029,Computer and Information Systems Managers,Mississippi,1150,98250.0
+16500,46.13,0.214,Computer and Information Research Scientists,Mississippi,240,95960.0
+16501,31.75,1.662,Computer Systems Analysts,Mississippi,1860,66040.0
+16503,35.51,0.695,Computer Programmers,Mississippi,780,73860.0
+16504,45.42,0.659,"Software Developers, Applications",Mississippi,740,94460.0
+16505,41.32,0.862,"Software Developers, Systems Software",Mississippi,960,85940.0
+16506,29.72,0.333,Web Developers,Mississippi,370,61810.0
+16508,34.92,1.115,Network and Computer Systems Administrators,Mississippi,1250,72630.0
+16509,35.27,0.61,Computer Network Architects,Mississippi,680,73370.0
+16510,21.89,2.125,Computer User Support Specialists,Mississippi,2380,45520.0
+16511,25.15,0.786,Computer Network Support Specialists,Mississippi,880,52310.0
+16512,38.57,0.537,"Computer Occupations, All Other",Mississippi,600,80220.0
+16521,41.21,0.206,Computer Hardware Engineers,Mississippi,230,85730.0
+16523,42.53,0.494,"Electronics Engineers, Except Computer",Mississippi,550,88470.0
+16596,0.0,0.15,"Computer Science Teachers, Postsecondary",Mississippi,170,80880.0
+16879,18.32,0.348,Computer Operators,Mississippi,390,38110.0
+16886,14.74,0.201,"Office Machine Operators, Except Computer",Mississippi,220,30670.0
+16941,17.11,0.547,"Computer, Automated Teller, and Office Machine Repairers",Mississippi,610,35590.0
+16995,19.18,0.424,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Mississippi,470,39880.0
+16996,20.99,0.083,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",Mississippi,90,43650.0
+17112,62.62,2.229,Computer and Information Systems Managers,Missouri,6220,130240.0
+17167,47.6,0.085,Computer and Information Research Scientists,Missouri,240,99010.0
+17168,42.36,4.038,Computer Systems Analysts,Missouri,11260,88110.0
+17170,38.47,2.404,Computer Programmers,Missouri,6710,80030.0
+17171,46.2,5.073,"Software Developers, Applications",Missouri,14150,96100.0
+17172,46.25,1.978,"Software Developers, Systems Software",Missouri,5520,96200.0
+17173,28.47,0.708,Web Developers,Missouri,1970,59210.0
+17175,38.6,3.018,Network and Computer Systems Administrators,Missouri,8420,80280.0
+17176,46.69,1.002,Computer Network Architects,Missouri,2800,97120.0
+17177,22.39,4.796,Computer User Support Specialists,Missouri,13370,46570.0
+17178,26.49,2.12,Computer Network Support Specialists,Missouri,5910,55100.0
+17179,38.97,2.245,"Computer Occupations, All Other",Missouri,6260,81060.0
+17190,50.7,0.094,Computer Hardware Engineers,Missouri,260,105450.0
+17192,49.04,0.737,"Electronics Engineers, Except Computer",Missouri,2060,102010.0
+17279,0.0,0.192,"Computer Science Teachers, Postsecondary",Missouri,540,85810.0
+17594,19.41,0.267,Computer Operators,Missouri,740,40370.0
+17601,15.17,0.456,"Office Machine Operators, Except Computer",Missouri,1270,31540.0
+17668,18.13,0.639,"Computer, Automated Teller, and Office Machine Repairers",Missouri,1780,37700.0
+17730,19.13,1.685,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Missouri,4700,39790.0
+17731,24.59,0.189,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",Missouri,530,51140.0
+17861,57.18,1.215,Computer and Information Systems Managers,Montana,560,118930.0
+17909,50.65,0.138,Computer and Information Research Scientists,Montana,60,105360.0
+17910,35.46,1.451,Computer Systems Analysts,Montana,670,73760.0
+17912,44.3,1.563,Computer Programmers,Montana,720,92150.0
+17913,35.56,1.845,"Software Developers, Applications",Montana,850,73960.0
+17914,38.11,1.206,"Software Developers, Systems Software",Montana,560,79280.0
+17915,22.36,0.927,Web Developers,Montana,430,46510.0
+17917,29.51,1.38,Network and Computer Systems Administrators,Montana,640,61380.0
+17918,34.54,0.522,Computer Network Architects,Montana,240,71830.0
+17919,21.96,5.326,Computer User Support Specialists,Montana,2450,45670.0
+17920,0.0,0.811,Computer Network Support Specialists,Montana,370,0.0
+17921,31.26,1.388,"Computer Occupations, All Other",Montana,640,65020.0
+17929,40.91,0.266,"Electronics Engineers, Except Computer",Montana,120,85100.0
+18002,0.0,0.206,"Computer Science Teachers, Postsecondary",Montana,90,69340.0
+18269,18.08,0.199,Computer Operators,Montana,90,37610.0
+18275,13.48,0.322,"Office Machine Operators, Except Computer",Montana,150,28040.0
+18331,19.77,0.682,"Computer, Automated Teller, and Office Machine Repairers",Montana,310,41120.0
+18378,19.64,0.281,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Montana,130,40850.0
+18463,58.19,2.083,Computer and Information Systems Managers,Nebraska,2020,121040.0
+18515,41.74,0.038,Computer and Information Research Scientists,Nebraska,40,86810.0
+18516,37.1,3.649,Computer Systems Analysts,Nebraska,3540,77170.0
+18518,37.34,2.662,Computer Programmers,Nebraska,2580,77670.0
+18519,41.76,4.735,"Software Developers, Applications",Nebraska,4590,86870.0
+18520,43.64,2.753,"Software Developers, Systems Software",Nebraska,2670,90760.0
+18521,28.13,0.878,Web Developers,Nebraska,850,58510.0
+18523,37.05,3.236,Network and Computer Systems Administrators,Nebraska,3140,77070.0
+18524,45.39,1.413,Computer Network Architects,Nebraska,1370,94420.0
+18525,23.11,3.946,Computer User Support Specialists,Nebraska,3830,48060.0
+18526,26.74,1.992,Computer Network Support Specialists,Nebraska,1930,55620.0
+18527,40.17,2.505,"Computer Occupations, All Other",Nebraska,2430,83560.0
+18539,40.37,0.0,Computer Hardware Engineers,Nebraska,0,83970.0
+18541,40.39,0.287,"Electronics Engineers, Except Computer",Nebraska,280,84020.0
+18614,0.0,0.197,"Computer Science Teachers, Postsecondary",Nebraska,190,85810.0
+18885,20.18,0.706,Computer Operators,Nebraska,680,41980.0
+18892,15.62,0.22,"Office Machine Operators, Except Computer",Nebraska,210,32490.0
+18947,20.02,0.916,"Computer, Automated Teller, and Office Machine Repairers",Nebraska,890,41650.0
+18999,17.39,0.993,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Nebraska,960,36170.0
+19000,22.4,0.103,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",Nebraska,100,46600.0
+19109,64.16,0.0,Computer and Information Systems Managers,Nevada,0,133460.0
+19162,49.72,0.036,Computer and Information Research Scientists,Nevada,50,103410.0
+19163,39.34,1.393,Computer Systems Analysts,Nevada,1830,81830.0
+19165,37.06,1.148,Computer Programmers,Nevada,1500,77080.0
+19166,48.56,2.554,"Software Developers, Applications",Nevada,3350,101010.0
+19167,44.95,0.732,"Software Developers, Systems Software",Nevada,960,93490.0
+19168,28.64,0.544,Web Developers,Nevada,710,59580.0
+19170,39.52,1.137,Network and Computer Systems Administrators,Nevada,1490,82200.0
+19171,49.62,0.53,Computer Network Architects,Nevada,690,103200.0
+19172,24.05,2.744,Computer User Support Specialists,Nevada,3600,50030.0
+19173,26.94,0.77,Computer Network Support Specialists,Nevada,1010,56040.0
+19174,33.38,2.07,"Computer Occupations, All Other",Nevada,2710,69440.0
+19185,43.8,0.101,Computer Hardware Engineers,Nevada,130,91100.0
+19187,46.1,0.645,"Electronics Engineers, Except Computer",Nevada,850,95880.0
+19258,0.0,0.085,"Computer Science Teachers, Postsecondary",Nevada,110,67110.0
+19551,23.5,0.124,Computer Operators,Nevada,160,48880.0
+19557,17.91,0.265,"Office Machine Operators, Except Computer",Nevada,350,37260.0
+19614,18.53,0.699,"Computer, Automated Teller, and Office Machine Repairers",Nevada,920,38540.0
+19666,19.5,0.665,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Nevada,870,40560.0
+19667,27.37,0.162,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",Nevada,210,56930.0
+19769,66.45,3.231,Computer and Information Systems Managers,New Hampshire,2100,138220.0
+19820,42.12,3.218,Computer Systems Analysts,New Hampshire,2090,87600.0
+19822,35.43,2.105,Computer Programmers,New Hampshire,1370,73700.0
+19823,50.58,9.118,"Software Developers, Applications",New Hampshire,5930,105210.0
+19824,59.04,2.022,"Software Developers, Systems Software",New Hampshire,1310,122810.0
+19825,31.37,1.021,Web Developers,New Hampshire,660,65260.0
+19827,38.54,3.067,Network and Computer Systems Administrators,New Hampshire,1990,80170.0
+19828,53.75,0.498,Computer Network Architects,New Hampshire,320,111790.0
+19829,25.76,4.504,Computer User Support Specialists,New Hampshire,2930,53570.0
+19830,33.44,0.511,Computer Network Support Specialists,New Hampshire,330,69560.0
+19831,43.0,0.828,"Computer Occupations, All Other",New Hampshire,540,89440.0
+19842,0.0,0.412,Computer Hardware Engineers,New Hampshire,270,0.0
+19844,52.86,0.746,"Electronics Engineers, Except Computer",New Hampshire,480,109950.0
+19911,0.0,0.191,"Computer Science Teachers, Postsecondary",New Hampshire,120,101470.0
+20178,20.7,0.411,Computer Operators,New Hampshire,270,43050.0
+20185,15.05,0.601,"Office Machine Operators, Except Computer",New Hampshire,390,31310.0
+20233,20.89,0.89,"Computer, Automated Teller, and Office Machine Repairers",New Hampshire,580,43450.0
+20287,21.05,4.034,"Computer-Controlled Machine Tool Operators, Metal and Plastic",New Hampshire,2620,43790.0
+20288,28.26,0.356,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",New Hampshire,230,58790.0
+20394,84.54,3.47,Computer and Information Systems Managers,New Jersey,13900,175830.0
+20449,60.21,0.32,Computer and Information Research Scientists,New Jersey,1280,125240.0
+20450,50.84,3.287,Computer Systems Analysts,New Jersey,13170,105750.0
+20452,44.38,2.728,Computer Programmers,New Jersey,10930,92320.0
+20453,51.46,10.92,"Software Developers, Applications",New Jersey,43760,107040.0
+20454,56.29,2.274,"Software Developers, Systems Software",New Jersey,9110,117080.0
+20455,37.1,0.698,Web Developers,New Jersey,2800,77160.0
+20457,48.18,2.957,Network and Computer Systems Administrators,New Jersey,11850,100220.0
+20458,61.72,1.312,Computer Network Architects,New Jersey,5260,128370.0
+20459,30.98,3.468,Computer User Support Specialists,New Jersey,13900,64440.0
+20460,38.94,1.546,Computer Network Support Specialists,New Jersey,6200,81000.0
+20461,46.97,2.364,"Computer Occupations, All Other",New Jersey,9470,97690.0
+20475,51.82,0.2,Computer Hardware Engineers,New Jersey,800,107790.0
+20477,50.7,0.8,"Electronics Engineers, Except Computer",New Jersey,3210,105450.0
+20563,0.0,0.345,"Computer Science Teachers, Postsecondary",New Jersey,1380,103370.0
+20874,22.19,0.558,Computer Operators,New Jersey,2240,46140.0
+20881,15.65,0.763,"Office Machine Operators, Except Computer",New Jersey,3060,32550.0
+20939,22.47,0.932,"Computer, Automated Teller, and Office Machine Repairers",New Jersey,3740,46750.0
+21002,21.48,0.774,"Computer-Controlled Machine Tool Operators, Metal and Plastic",New Jersey,3100,44680.0
+21003,30.4,0.13,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",New Jersey,520,63230.0
+21134,52.19,1.486,Computer and Information Systems Managers,New Mexico,1190,108560.0
+21188,63.56,0.938,Computer and Information Research Scientists,New Mexico,750,132210.0
+21189,39.18,2.127,Computer Systems Analysts,New Mexico,1700,81500.0
+21191,38.39,0.551,Computer Programmers,New Mexico,440,79850.0
+21192,38.09,1.501,"Software Developers, Applications",New Mexico,1200,79230.0
+21193,47.39,2.055,"Software Developers, Systems Software",New Mexico,1650,98580.0
+21194,27.37,0.332,Web Developers,New Mexico,270,56930.0
+21196,35.45,2.193,Network and Computer Systems Administrators,New Mexico,1760,73740.0
+21197,53.36,0.607,Computer Network Architects,New Mexico,490,110990.0
+21198,20.2,3.053,Computer User Support Specialists,New Mexico,2450,42020.0
+21199,29.15,1.467,Computer Network Support Specialists,New Mexico,1180,60640.0
+21200,37.08,1.401,"Computer Occupations, All Other",New Mexico,1120,77120.0
+21211,53.06,1.344,"Electronics Engineers, Except Computer",New Mexico,1080,110370.0
+21292,0.0,0.164,"Computer Science Teachers, Postsecondary",New Mexico,130,66670.0
+21561,19.25,0.332,Computer Operators,New Mexico,270,40030.0
+21568,14.68,0.23,"Office Machine Operators, Except Computer",New Mexico,180,30530.0
+21629,17.05,0.364,"Computer, Automated Teller, and Office Machine Repairers",New Mexico,290,35460.0
+21678,17.19,0.145,"Computer-Controlled Machine Tool Operators, Metal and Plastic",New Mexico,120,35750.0
+21771,90.27,2.881,Computer and Information Systems Managers,New York,26520,187770.0
+21826,65.64,0.13,Computer and Information Research Scientists,New York,1200,136540.0
+21827,49.78,4.615,Computer Systems Analysts,New York,42500,103550.0
+21829,42.92,1.784,Computer Programmers,New York,16420,89260.0
+21830,55.55,5.343,"Software Developers, Applications",New York,49190,115530.0
+21831,55.53,2.249,"Software Developers, Systems Software",New York,20710,115490.0
+21832,39.6,1.292,Web Developers,New York,11900,82360.0
+21834,44.86,2.746,Network and Computer Systems Administrators,New York,25290,93310.0
+21835,52.5,0.965,Computer Network Architects,New York,8890,109200.0
+21836,28.06,4.757,Computer User Support Specialists,New York,43800,58360.0
+21837,36.39,1.483,Computer Network Support Specialists,New York,13650,75690.0
+21838,42.58,0.0,"Computer Occupations, All Other",New York,0,88560.0
+21852,54.92,0.141,Computer Hardware Engineers,New York,1300,114230.0
+21854,46.92,0.342,"Electronics Engineers, Except Computer",New York,3150,97590.0
+21943,0.0,0.331,"Computer Science Teachers, Postsecondary",New York,3050,100920.0
+22266,21.29,0.425,Computer Operators,New York,3920,44290.0
+22273,17.12,0.422,"Office Machine Operators, Except Computer",New York,3880,35610.0
+22341,20.88,0.662,"Computer, Automated Teller, and Office Machine Repairers",New York,6100,43440.0
+22407,18.35,0.528,"Computer-Controlled Machine Tool Operators, Metal and Plastic",New York,4860,38180.0
+22408,26.36,0.106,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",New York,980,54820.0
+22541,67.74,2.876,Computer and Information Systems Managers,North Carolina,12360,140900.0
+22595,49.86,0.026,Computer and Information Research Scientists,North Carolina,110,103710.0
+22596,44.3,5.816,Computer Systems Analysts,North Carolina,25000,92140.0
+22598,43.39,1.586,Computer Programmers,North Carolina,6820,90250.0
+22599,48.56,6.148,"Software Developers, Applications",North Carolina,26430,101000.0
+22600,51.42,1.877,"Software Developers, Systems Software",North Carolina,8070,106940.0
+22601,35.12,0.821,Web Developers,North Carolina,3530,73060.0
+22603,40.7,2.688,Network and Computer Systems Administrators,North Carolina,11550,84660.0
+22604,51.67,1.111,Computer Network Architects,North Carolina,4780,107470.0
+22605,25.64,5.048,Computer User Support Specialists,North Carolina,21700,53330.0
+22606,31.51,1.166,Computer Network Support Specialists,North Carolina,5010,65540.0
+22607,40.46,0.0,"Computer Occupations, All Other",North Carolina,0,84160.0
+22620,49.53,0.403,Computer Hardware Engineers,North Carolina,1730,103030.0
+22622,48.94,0.752,"Electronics Engineers, Except Computer",North Carolina,3230,101790.0
+22707,0.0,0.395,"Computer Science Teachers, Postsecondary",North Carolina,1700,73580.0
+23019,20.35,0.213,Computer Operators,North Carolina,910,42330.0
+23026,14.37,0.455,"Office Machine Operators, Except Computer",North Carolina,1960,29900.0
+23089,18.93,0.786,"Computer, Automated Teller, and Office Machine Repairers",North Carolina,3380,39370.0
+23152,18.16,1.118,"Computer-Controlled Machine Tool Operators, Metal and Plastic",North Carolina,4800,37760.0
+23153,22.17,0.163,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",North Carolina,700,46100.0
+23284,57.58,1.195,Computer and Information Systems Managers,North Dakota,500,119770.0
+23335,34.84,1.612,Computer Systems Analysts,North Dakota,670,72470.0
+23337,32.25,1.609,Computer Programmers,North Dakota,670,67080.0
+23338,35.73,2.285,"Software Developers, Applications",North Dakota,950,74310.0
+23339,32.45,1.405,"Software Developers, Systems Software",North Dakota,590,67500.0
+23340,29.37,0.613,Web Developers,North Dakota,260,61090.0
+23342,32.57,1.486,Network and Computer Systems Administrators,North Dakota,620,67750.0
+23343,41.87,0.431,Computer Network Architects,North Dakota,180,87100.0
+23344,26.28,3.717,Computer User Support Specialists,North Dakota,1550,54660.0
+23345,28.47,1.483,Computer Network Support Specialists,North Dakota,620,59220.0
+23346,33.76,1.935,"Computer Occupations, All Other",North Dakota,810,70220.0
+23355,46.94,0.072,Computer Hardware Engineers,North Dakota,30,97630.0
+23357,36.49,0.308,"Electronics Engineers, Except Computer",North Dakota,130,75890.0
+23427,0.0,0.306,"Computer Science Teachers, Postsecondary",North Dakota,130,90460.0
+23686,22.57,0.204,Computer Operators,North Dakota,80,46940.0
+23692,14.58,0.374,"Office Machine Operators, Except Computer",North Dakota,160,30320.0
+23745,21.02,0.749,"Computer, Automated Teller, and Office Machine Repairers",North Dakota,310,43710.0
+23798,23.84,0.278,"Computer-Controlled Machine Tool Operators, Metal and Plastic",North Dakota,120,49590.0
+23883,64.36,2.626,Computer and Information Systems Managers,Ohio,14110,133870.0
+23937,53.66,0.042,Computer and Information Research Scientists,Ohio,220,111610.0
+23938,43.3,5.395,Computer Systems Analysts,Ohio,28970,90070.0
+23940,33.86,0.879,Computer Programmers,Ohio,4720,70430.0
+23941,44.83,6.704,"Software Developers, Applications",Ohio,36000,93250.0
+23942,46.37,0.974,"Software Developers, Systems Software",Ohio,5230,96450.0
+23943,29.31,0.667,Web Developers,Ohio,3580,60960.0
+23945,37.73,2.484,Network and Computer Systems Administrators,Ohio,13340,78470.0
+23946,45.8,1.077,Computer Network Architects,Ohio,5780,95260.0
+23947,23.13,3.734,Computer User Support Specialists,Ohio,20050,48100.0
+23948,29.37,1.631,Computer Network Support Specialists,Ohio,8760,61100.0
+23949,37.71,1.472,"Computer Occupations, All Other",Ohio,7900,78430.0
+23964,48.37,0.17,Computer Hardware Engineers,Ohio,910,100610.0
+23966,44.39,0.651,"Electronics Engineers, Except Computer",Ohio,3490,92340.0
+24055,0.0,0.257,"Computer Science Teachers, Postsecondary",Ohio,1380,111090.0
+24376,19.62,0.221,Computer Operators,Ohio,1190,40800.0
+24383,14.23,0.57,"Office Machine Operators, Except Computer",Ohio,3060,29590.0
+24450,17.81,0.627,"Computer, Automated Teller, and Office Machine Repairers",Ohio,3370,37050.0
+24514,19.76,2.455,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Ohio,13190,41110.0
+24515,24.88,0.343,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",Ohio,1840,51750.0
+24653,52.26,2.128,Computer and Information Systems Managers,Oklahoma,3350,108700.0
+24708,41.13,0.318,Computer and Information Research Scientists,Oklahoma,500,85550.0
+24709,38.18,1.826,Computer Systems Analysts,Oklahoma,2870,79410.0
+24711,38.08,1.208,Computer Programmers,Oklahoma,1900,79200.0
+24712,42.29,2.575,"Software Developers, Applications",Oklahoma,4050,87960.0
+24713,38.02,1.538,"Software Developers, Systems Software",Oklahoma,2420,79070.0
+24714,27.86,0.459,Web Developers,Oklahoma,720,57950.0
+24716,34.81,1.808,Network and Computer Systems Administrators,Oklahoma,2840,72410.0
+24717,40.21,0.543,Computer Network Architects,Oklahoma,850,83630.0
+24718,22.1,4.656,Computer User Support Specialists,Oklahoma,7320,45960.0
+24719,30.73,1.735,Computer Network Support Specialists,Oklahoma,2730,63930.0
+24720,37.02,1.502,"Computer Occupations, All Other",Oklahoma,2360,77000.0
+24731,47.22,0.148,Computer Hardware Engineers,Oklahoma,230,98210.0
+24733,42.47,1.273,"Electronics Engineers, Except Computer",Oklahoma,2000,88330.0
+24811,0.0,0.183,"Computer Science Teachers, Postsecondary",Oklahoma,290,67790.0
+25113,18.81,0.213,Computer Operators,Oklahoma,340,39120.0
+25120,13.84,0.472,"Office Machine Operators, Except Computer",Oklahoma,740,28790.0
+25184,17.26,0.609,"Computer, Automated Teller, and Office Machine Repairers",Oklahoma,960,35900.0
+25243,18.77,1.528,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Oklahoma,2400,39050.0
+25244,25.33,0.149,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",Oklahoma,230,52680.0
+25362,62.97,2.93,Computer and Information Systems Managers,Oregon,5360,130980.0
+25416,0.0,0.152,Computer and Information Research Scientists,Oregon,280,0.0
+25417,43.55,2.767,Computer Systems Analysts,Oregon,5070,90590.0
+25419,38.89,1.685,Computer Programmers,Oregon,3080,80900.0
+25420,49.43,8.499,"Software Developers, Applications",Oregon,15560,102820.0
+25421,51.81,1.276,"Software Developers, Systems Software",Oregon,2340,107770.0
+25422,33.15,1.222,Web Developers,Oregon,2240,68960.0
+25424,39.12,1.88,Network and Computer Systems Administrators,Oregon,3440,81370.0
+25425,58.66,0.587,Computer Network Architects,Oregon,1080,122020.0
+25426,25.3,4.194,Computer User Support Specialists,Oregon,7680,52620.0
+25427,29.47,0.938,Computer Network Support Specialists,Oregon,1720,61300.0
+25428,38.31,3.683,"Computer Occupations, All Other",Oregon,6740,79690.0
+25442,49.81,1.344,"Electronics Engineers, Except Computer",Oregon,2460,103610.0
+25524,0.0,0.152,"Computer Science Teachers, Postsecondary",Oregon,280,94300.0
+25836,21.43,0.067,Computer Operators,Oregon,120,44580.0
+25843,16.61,0.622,"Office Machine Operators, Except Computer",Oregon,1140,34540.0
+25908,17.13,0.562,"Computer, Automated Teller, and Office Machine Repairers",Oregon,1030,35630.0
+25969,19.64,1.113,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Oregon,2040,40860.0
+25970,28.83,0.336,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",Oregon,620,59960.0
+26101,69.99,2.215,Computer and Information Systems Managers,Pennsylvania,12810,145590.0
+26156,52.95,0.065,Computer and Information Research Scientists,Pennsylvania,370,110140.0
+26157,44.96,3.863,Computer Systems Analysts,Pennsylvania,22330,93520.0
+26159,38.86,1.853,Computer Programmers,Pennsylvania,10710,80830.0
+26160,45.99,4.743,"Software Developers, Applications",Pennsylvania,27420,95660.0
+26161,49.08,1.838,"Software Developers, Systems Software",Pennsylvania,10630,102080.0
+26162,33.46,0.831,Web Developers,Pennsylvania,4800,69600.0
+26164,36.73,2.369,Network and Computer Systems Administrators,Pennsylvania,13700,76400.0
+26165,51.07,1.149,Computer Network Architects,Pennsylvania,6650,106240.0
+26166,24.51,4.079,Computer User Support Specialists,Pennsylvania,23590,50990.0
+26167,30.79,1.227,Computer Network Support Specialists,Pennsylvania,7090,64050.0
+26168,41.78,2.47,"Computer Occupations, All Other",Pennsylvania,14280,86910.0
+26181,46.25,0.215,Computer Hardware Engineers,Pennsylvania,1250,96200.0
+26183,45.69,0.636,"Electronics Engineers, Except Computer",Pennsylvania,3680,95040.0
+26275,0.0,0.251,"Computer Science Teachers, Postsecondary",Pennsylvania,1450,86110.0
+26594,21.0,0.261,Computer Operators,Pennsylvania,1510,43670.0
+26601,14.71,0.375,"Office Machine Operators, Except Computer",Pennsylvania,2170,30600.0
+26672,18.62,0.686,"Computer, Automated Teller, and Office Machine Repairers",Pennsylvania,3960,38730.0
+26734,18.5,2.026,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Pennsylvania,11710,38480.0
+26735,25.71,0.175,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",Pennsylvania,1010,53470.0
+26877,69.83,2.52,Computer and Information Systems Managers,Rhode Island,1200,145240.0
+26928,52.83,0.859,Computer and Information Research Scientists,Rhode Island,410,109880.0
+26929,46.99,3.664,Computer Systems Analysts,Rhode Island,1740,97750.0
+26931,36.2,2.147,Computer Programmers,Rhode Island,1020,75300.0
+26932,44.53,4.478,"Software Developers, Applications",Rhode Island,2130,92620.0
+26933,52.97,1.906,"Software Developers, Systems Software",Rhode Island,910,110170.0
+26934,36.12,0.997,Web Developers,Rhode Island,470,75130.0
+26936,43.55,4.122,Network and Computer Systems Administrators,Rhode Island,1960,90590.0
+26937,55.31,0.797,Computer Network Architects,Rhode Island,380,115050.0
+26938,27.2,3.038,Computer User Support Specialists,Rhode Island,1450,56570.0
+26939,25.69,2.897,Computer Network Support Specialists,Rhode Island,1380,53430.0
+26940,39.94,2.548,"Computer Occupations, All Other",Rhode Island,1210,83070.0
+26950,48.83,0.0,Computer Hardware Engineers,Rhode Island,0,101560.0
+26952,56.25,2.38,"Electronics Engineers, Except Computer",Rhode Island,1130,117000.0
+27007,0.0,0.206,"Computer Science Teachers, Postsecondary",Rhode Island,100,134360.0
+27254,25.67,0.615,Computer Operators,Rhode Island,290,53390.0
+27294,21.58,1.02,"Computer, Automated Teller, and Office Machine Repairers",Rhode Island,490,44890.0
+27331,20.34,0.711,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Rhode Island,340,42300.0
+27332,0.0,0.125,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",Rhode Island,60,0.0
+27421,57.64,1.461,Computer and Information Systems Managers,South Carolina,2940,119900.0
+27475,37.3,3.186,Computer Systems Analysts,South Carolina,6400,77580.0
+27477,39.12,1.749,Computer Programmers,South Carolina,3510,81380.0
+27478,43.85,2.301,"Software Developers, Applications",South Carolina,4620,91200.0
+27479,38.84,1.308,"Software Developers, Systems Software",South Carolina,2630,80780.0
+27480,35.19,0.559,Web Developers,South Carolina,1120,73200.0
+27482,34.79,2.89,Network and Computer Systems Administrators,South Carolina,5810,72360.0
+27483,40.18,0.56,Computer Network Architects,South Carolina,1130,83580.0
+27484,22.78,3.193,Computer User Support Specialists,South Carolina,6420,47390.0
+27485,25.51,1.373,Computer Network Support Specialists,South Carolina,2760,53060.0
+27486,42.51,0.73,"Computer Occupations, All Other",South Carolina,1470,88410.0
+27496,41.85,0.189,Computer Hardware Engineers,South Carolina,380,87060.0
+27498,46.55,0.584,"Electronics Engineers, Except Computer",South Carolina,1170,96820.0
+27573,0.0,0.291,"Computer Science Teachers, Postsecondary",South Carolina,590,77830.0
+27862,21.28,0.237,Computer Operators,South Carolina,480,44260.0
+27869,12.79,0.07,"Office Machine Operators, Except Computer",South Carolina,140,26600.0
+27927,18.95,0.606,"Computer, Automated Teller, and Office Machine Repairers",South Carolina,1220,39410.0
+27984,20.1,1.387,"Computer-Controlled Machine Tool Operators, Metal and Plastic",South Carolina,2790,41800.0
+27985,25.83,0.143,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",South Carolina,290,53730.0
+28105,61.53,0.512,Computer and Information Systems Managers,South Dakota,210,127970.0
+28151,35.79,1.742,Computer Systems Analysts,South Dakota,730,74440.0
+28153,26.42,1.535,Computer Programmers,South Dakota,640,54950.0
+28154,36.56,2.34,"Software Developers, Applications",South Dakota,980,76050.0
+28155,42.97,1.548,"Software Developers, Systems Software",South Dakota,650,89370.0
+28156,26.79,0.818,Web Developers,South Dakota,340,55720.0
+28158,29.73,3.916,Network and Computer Systems Administrators,South Dakota,1640,61840.0
+28159,47.62,0.77,Computer Network Architects,South Dakota,320,99050.0
+28160,18.55,3.204,Computer User Support Specialists,South Dakota,1340,38590.0
+28161,23.13,1.793,Computer Network Support Specialists,South Dakota,750,48110.0
+28162,38.1,0.431,"Computer Occupations, All Other",South Dakota,180,79250.0
+28171,38.04,0.25,"Electronics Engineers, Except Computer",South Dakota,100,79120.0
+28229,0.0,0.354,"Computer Science Teachers, Postsecondary",South Dakota,150,70700.0
+28479,12.01,0.225,"Office Machine Operators, Except Computer",South Dakota,90,24970.0
+28529,18.57,0.778,"Computer, Automated Teller, and Office Machine Repairers",South Dakota,330,38620.0
+28577,18.52,0.925,"Computer-Controlled Machine Tool Operators, Metal and Plastic",South Dakota,390,38510.0
+28578,24.16,0.189,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",South Dakota,80,50250.0
+28665,56.59,1.776,Computer and Information Systems Managers,Tennessee,5180,117710.0
+28719,52.62,0.071,Computer and Information Research Scientists,Tennessee,210,109450.0
+28720,36.07,2.87,Computer Systems Analysts,Tennessee,8370,75030.0
+28722,36.89,1.404,Computer Programmers,Tennessee,4090,76740.0
+28723,42.11,2.164,"Software Developers, Applications",Tennessee,6310,87580.0
+28724,42.75,1.55,"Software Developers, Systems Software",Tennessee,4520,88910.0
+28725,29.5,0.517,Web Developers,Tennessee,1510,61370.0
+28727,38.95,1.884,Network and Computer Systems Administrators,Tennessee,5490,81020.0
+28728,47.7,0.753,Computer Network Architects,Tennessee,2200,99210.0
+28729,23.56,3.252,Computer User Support Specialists,Tennessee,9480,49010.0
+28730,28.42,1.226,Computer Network Support Specialists,Tennessee,3570,59110.0
+28731,36.65,1.242,"Computer Occupations, All Other",Tennessee,3620,76240.0
+28742,41.8,0.248,Computer Hardware Engineers,Tennessee,720,86950.0
+28744,47.19,0.378,"Electronics Engineers, Except Computer",Tennessee,1100,98160.0
+28828,0.0,0.137,"Computer Science Teachers, Postsecondary",Tennessee,400,78850.0
+29140,20.68,0.656,Computer Operators,Tennessee,1910,43020.0
+29147,13.28,0.3,"Office Machine Operators, Except Computer",Tennessee,880,27620.0
+29215,18.35,0.506,"Computer, Automated Teller, and Office Machine Repairers",Tennessee,1470,38180.0
+29274,18.24,0.793,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Tennessee,2310,37930.0
+29275,25.89,0.132,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",Tennessee,380,53850.0
+29412,77.18,1.634,Computer and Information Systems Managers,Texas,19420,160530.0
+29466,50.87,0.182,Computer and Information Research Scientists,Texas,2170,105800.0
+29467,46.24,4.728,Computer Systems Analysts,Texas,56220,96190.0
+29469,41.44,1.753,Computer Programmers,Texas,20850,86200.0
+29470,51.58,5.706,"Software Developers, Applications",Texas,67850,107280.0
+29471,53.38,2.13,"Software Developers, Systems Software",Texas,25330,111040.0
+29472,34.3,0.666,Web Developers,Texas,7920,71340.0
+29474,43.91,2.747,Network and Computer Systems Administrators,Texas,32660,91340.0
+29475,55.99,1.037,Computer Network Architects,Texas,12330,116470.0
+29476,25.71,4.851,Computer User Support Specialists,Texas,57680,53480.0
+29477,34.58,1.421,Computer Network Support Specialists,Texas,16890,71940.0
+29478,43.54,1.652,"Computer Occupations, All Other",Texas,19640,90570.0
+29493,54.54,0.166,Computer Hardware Engineers,Texas,1980,113440.0
+29495,55.82,1.132,"Electronics Engineers, Except Computer",Texas,13460,116090.0
+29588,0.0,0.191,"Computer Science Teachers, Postsecondary",Texas,2270,91060.0
+29913,21.67,0.309,Computer Operators,Texas,3670,45080.0
+29920,15.25,0.45,"Office Machine Operators, Except Computer",Texas,5350,31720.0
+29996,18.15,1.025,"Computer, Automated Teller, and Office Machine Repairers",Texas,12190,37760.0
+30060,20.13,0.869,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Texas,10340,41870.0
+30061,28.0,0.105,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",Texas,1250,58230.0
+30202,56.82,3.539,Computer and Information Systems Managers,Utah,4990,118190.0
+30254,46.37,0.501,Computer and Information Research Scientists,Utah,710,96440.0
+30255,39.86,2.662,Computer Systems Analysts,Utah,3750,82900.0
+30257,38.91,2.682,Computer Programmers,Utah,3780,80930.0
+30258,46.53,7.039,"Software Developers, Applications",Utah,9930,96790.0
+30259,50.58,3.635,"Software Developers, Systems Software",Utah,5130,105220.0
+30260,31.97,1.323,Web Developers,Utah,1870,66490.0
+30262,38.82,2.447,Network and Computer Systems Administrators,Utah,3450,80740.0
+30263,52.74,0.663,Computer Network Architects,Utah,940,109700.0
+30264,24.35,6.173,Computer User Support Specialists,Utah,8710,50650.0
+30265,28.2,1.411,Computer Network Support Specialists,Utah,1990,58660.0
+30266,37.74,3.664,"Computer Occupations, All Other",Utah,5170,78500.0
+30281,43.35,0.987,"Electronics Engineers, Except Computer",Utah,1390,90180.0
+30361,0.0,0.309,"Computer Science Teachers, Postsecondary",Utah,440,89220.0
+30656,20.52,0.244,Computer Operators,Utah,340,42690.0
+30663,14.34,0.312,"Office Machine Operators, Except Computer",Utah,440,29830.0
+30724,19.84,0.842,"Computer, Automated Teller, and Office Machine Repairers",Utah,1190,41260.0
+30781,16.23,1.112,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Utah,1570,33750.0
+30782,22.08,0.15,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",Utah,210,45930.0
+30900,61.87,1.684,Computer and Information Systems Managers,Vermont,510,128700.0
+30949,38.3,1.848,Computer Systems Analysts,Vermont,560,79670.0
+30951,33.24,1.586,Computer Programmers,Vermont,480,69140.0
+30952,45.65,2.827,"Software Developers, Applications",Vermont,860,94940.0
+30953,0.0,2.627,"Software Developers, Systems Software",Vermont,800,0.0
+30954,31.36,1.391,Web Developers,Vermont,420,65230.0
+30956,34.88,4.877,Network and Computer Systems Administrators,Vermont,1490,72560.0
+30957,40.51,0.404,Computer Network Architects,Vermont,120,84260.0
+30958,25.42,4.016,Computer User Support Specialists,Vermont,1230,52870.0
+30959,24.45,1.238,Computer Network Support Specialists,Vermont,380,50860.0
+30960,34.13,1.241,"Computer Occupations, All Other",Vermont,380,71000.0
+30970,49.49,0.364,"Electronics Engineers, Except Computer",Vermont,110,102940.0
+31263,19.32,0.279,Computer Operators,Vermont,90,40190.0
+31269,13.41,0.203,"Office Machine Operators, Except Computer",Vermont,60,27880.0
+31311,17.28,0.302,"Computer, Automated Teller, and Office Machine Repairers",Vermont,90,35950.0
+31356,0.0,3.279,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Vermont,1000,0.0
+31357,24.83,0.333,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",Vermont,100,51650.0
+31437,81.57,3.551,Computer and Information Systems Managers,Virginia,13460,169660.0
+31490,62.0,0.705,Computer and Information Research Scientists,Virginia,2670,128950.0
+31491,48.12,7.324,Computer Systems Analysts,Virginia,27760,100090.0
+31493,45.92,0.0,Computer Programmers,Virginia,0,95520.0
+31494,53.37,9.49,"Software Developers, Applications",Virginia,35960,111010.0
+31495,58.44,6.505,"Software Developers, Systems Software",Virginia,24650,121560.0
+31496,41.29,0.983,Web Developers,Virginia,3720,85870.0
+31498,45.37,5.149,Network and Computer Systems Administrators,Virginia,19510,94380.0
+31499,56.58,2.686,Computer Network Architects,Virginia,10180,117700.0
+31500,26.9,5.212,Computer User Support Specialists,Virginia,19750,55960.0
+31501,36.65,1.933,Computer Network Support Specialists,Virginia,7330,76240.0
+31502,50.33,3.441,"Computer Occupations, All Other",Virginia,13040,104680.0
+31516,60.72,0.334,Computer Hardware Engineers,Virginia,1270,126300.0
+31518,53.94,1.32,"Electronics Engineers, Except Computer",Virginia,5000,112190.0
+31607,0.0,0.405,"Computer Science Teachers, Postsecondary",Virginia,1540,90880.0
+31909,22.67,0.24,Computer Operators,Virginia,910,47160.0
+31916,16.68,0.349,"Office Machine Operators, Except Computer",Virginia,1320,34700.0
+31983,22.1,0.0,"Computer, Automated Teller, and Office Machine Repairers",Virginia,0,45970.0
+32042,19.49,0.374,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Virginia,1420,40540.0
+32043,24.46,0.065,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",Virginia,250,50870.0
+32167,74.42,3.95,Computer and Information Systems Managers,Washington,12590,154790.0
+32222,65.02,0.422,Computer and Information Research Scientists,Washington,1340,135240.0
+32223,45.42,5.542,Computer Systems Analysts,Washington,17660,94470.0
+32225,58.17,3.294,Computer Programmers,Washington,10500,121000.0
+32226,63.19,16.173,"Software Developers, Applications",Washington,51540,131430.0
+32227,56.64,4.595,"Software Developers, Systems Software",Washington,14640,117810.0
+32228,44.35,1.77,Web Developers,Washington,5640,92260.0
+32230,43.41,2.887,Network and Computer Systems Administrators,Washington,9200,90290.0
+32231,50.43,2.061,Computer Network Architects,Washington,6570,104890.0
+32232,29.62,5.254,Computer User Support Specialists,Washington,16740,61610.0
+32233,37.0,1.158,Computer Network Support Specialists,Washington,3690,76970.0
+32234,43.55,3.433,"Computer Occupations, All Other",Washington,10940,90590.0
+32246,57.12,0.46,Computer Hardware Engineers,Washington,1460,118810.0
+32248,51.47,1.188,"Electronics Engineers, Except Computer",Washington,3780,107060.0
+32334,0.0,0.222,"Computer Science Teachers, Postsecondary",Washington,710,77130.0
+32649,25.46,0.173,Computer Operators,Washington,550,52960.0
+32656,16.54,0.324,"Office Machine Operators, Except Computer",Washington,1030,34410.0
+32723,23.36,0.762,"Computer, Automated Teller, and Office Machine Repairers",Washington,2430,48590.0
+32785,30.26,0.55,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Washington,1750,62940.0
+32786,0.0,0.109,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",Washington,350,0.0
+32918,56.76,1.108,Computer and Information Systems Managers,West Virginia,760,118060.0
+32969,34.82,1.669,Computer Systems Analysts,West Virginia,1150,72420.0
+32971,38.66,0.972,Computer Programmers,West Virginia,670,80420.0
+32972,41.53,1.742,"Software Developers, Applications",West Virginia,1200,86390.0
+32973,44.57,0.704,"Software Developers, Systems Software",West Virginia,490,92710.0
+32974,26.16,0.374,Web Developers,West Virginia,260,54410.0
+32976,31.82,1.785,Network and Computer Systems Administrators,West Virginia,1230,66190.0
+32977,0.0,0.381,Computer Network Architects,West Virginia,260,0.0
+32978,21.17,2.921,Computer User Support Specialists,West Virginia,2010,44030.0
+32979,24.08,0.938,Computer Network Support Specialists,West Virginia,650,50090.0
+32980,41.65,2.761,"Computer Occupations, All Other",West Virginia,1900,86630.0
+32991,46.68,0.323,Computer Hardware Engineers,West Virginia,220,97090.0
+32993,43.71,0.296,"Electronics Engineers, Except Computer",West Virginia,200,90930.0
+33064,0.0,0.492,"Computer Science Teachers, Postsecondary",West Virginia,340,57620.0
+33335,18.18,0.221,Computer Operators,West Virginia,150,37820.0
+33341,13.86,0.302,"Office Machine Operators, Except Computer",West Virginia,210,28820.0
+33401,17.67,0.826,"Computer, Automated Teller, and Office Machine Repairers",West Virginia,570,36750.0
+33450,19.94,0.292,"Computer-Controlled Machine Tool Operators, Metal and Plastic",West Virginia,200,41470.0
+33557,58.19,2.224,Computer and Information Systems Managers,Wisconsin,6280,121040.0
+33612,36.18,0.072,Computer and Information Research Scientists,Wisconsin,200,75260.0
+33613,38.77,5.053,Computer Systems Analysts,Wisconsin,14270,80640.0
+33615,36.63,1.931,Computer Programmers,Wisconsin,5450,76190.0
+33616,41.14,5.607,"Software Developers, Applications",Wisconsin,15840,85580.0
+33617,41.97,1.414,"Software Developers, Systems Software",Wisconsin,4000,87300.0
+33618,25.39,1.024,Web Developers,Wisconsin,2890,52810.0
+33620,35.44,2.393,Network and Computer Systems Administrators,Wisconsin,6760,73710.0
+33621,44.95,0.731,Computer Network Architects,Wisconsin,2060,93490.0
+33622,24.51,4.088,Computer User Support Specialists,Wisconsin,11550,50980.0
+33623,30.76,1.354,Computer Network Support Specialists,Wisconsin,3820,63980.0
+33624,34.58,1.327,"Computer Occupations, All Other",Wisconsin,3750,71920.0
+33636,42.3,0.222,Computer Hardware Engineers,Wisconsin,630,87990.0
+33638,41.68,0.239,"Electronics Engineers, Except Computer",Wisconsin,680,86700.0
+33719,0.0,0.233,"Computer Science Teachers, Postsecondary",Wisconsin,660,85710.0
+34031,23.2,0.192,Computer Operators,Wisconsin,540,48260.0
+34038,15.19,0.389,"Office Machine Operators, Except Computer",Wisconsin,1100,31590.0
+34101,18.62,0.803,"Computer, Automated Teller, and Office Machine Repairers",Wisconsin,2270,38730.0
+34158,20.84,3.918,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Wisconsin,11070,43340.0
+34159,25.89,0.502,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",Wisconsin,1420,53860.0
+34279,47.47,0.736,Computer and Information Systems Managers,Wyoming,200,98750.0
+34326,37.23,0.573,Computer Systems Analysts,Wyoming,150,77430.0
+34328,31.48,0.81,Computer Programmers,Wyoming,220,65480.0
+34329,33.36,0.947,"Software Developers, Applications",Wyoming,250,69380.0
+34330,42.99,0.36,"Software Developers, Systems Software",Wyoming,100,89420.0
+34331,33.85,0.428,Web Developers,Wyoming,110,70400.0
+34333,31.98,1.961,Network and Computer Systems Administrators,Wyoming,530,66520.0
+34334,0.0,0.15,Computer Network Architects,Wyoming,40,0.0
+34335,23.38,2.19,Computer User Support Specialists,Wyoming,590,48630.0
+34336,28.0,0.902,Computer Network Support Specialists,Wyoming,240,58250.0
+34337,35.57,0.513,"Computer Occupations, All Other",Wyoming,140,73990.0
+34345,42.0,0.322,"Electronics Engineers, Except Computer",Wyoming,90,87350.0
+34398,0.0,0.154,"Computer Science Teachers, Postsecondary",Wyoming,40,70270.0
+34631,19.1,0.234,Computer Operators,Wyoming,60,39720.0
+34636,12.01,0.262,"Office Machine Operators, Except Computer",Wyoming,70,24990.0
+34687,19.47,0.319,"Computer, Automated Teller, and Office Machine Repairers",Wyoming,90,40490.0
+34733,14.02,0.0,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Wyoming,0,29150.0
+34802,40.38,1.133,Computer and Information Systems Managers,Guam,70,84000.0
+34833,22.78,1.107,Computer Systems Analysts,Guam,70,47390.0
+34834,27.19,1.307,Network and Computer Systems Administrators,Guam,80,56560.0
+34835,16.94,2.168,Computer User Support Specialists,Guam,130,35230.0
+34836,19.67,1.253,Computer Network Support Specialists,Guam,80,40920.0
+34837,37.46,1.616,"Computer Occupations, All Other",Guam,100,77910.0
+34965,16.64,1.421,Computer Operators,Guam,90,34610.0
+35034,38.3,1.608,Computer and Information Systems Managers,Puerto Rico,1410,79670.0
+35083,21.83,1.34,Computer Systems Analysts,Puerto Rico,1170,45400.0
+35085,23.2,1.51,Computer Programmers,Puerto Rico,1320,48260.0
+35086,27.61,0.301,"Software Developers, Applications",Puerto Rico,260,57430.0
+35087,29.87,0.986,"Software Developers, Systems Software",Puerto Rico,860,62120.0
+35088,18.16,0.248,Web Developers,Puerto Rico,220,37770.0
+35090,22.62,1.074,Network and Computer Systems Administrators,Puerto Rico,940,47040.0
+35091,24.84,0.705,Computer Network Architects,Puerto Rico,620,51660.0
+35092,15.11,3.789,Computer User Support Specialists,Puerto Rico,3320,31440.0
+35093,18.78,0.567,Computer Network Support Specialists,Puerto Rico,500,39050.0
+35094,30.03,0.419,"Computer Occupations, All Other",Puerto Rico,370,62450.0
+35103,32.02,0.284,Computer Hardware Engineers,Puerto Rico,250,66600.0
+35105,39.92,0.617,"Electronics Engineers, Except Computer",Puerto Rico,540,83040.0
+35167,0.0,0.301,"Computer Science Teachers, Postsecondary",Puerto Rico,260,44100.0
+35428,10.65,0.945,Computer Operators,Puerto Rico,830,22140.0
+35434,11.04,0.16,"Office Machine Operators, Except Computer",Puerto Rico,140,22970.0
+35468,14.05,0.612,"Computer, Automated Teller, and Office Machine Repairers",Puerto Rico,540,29230.0
+35596,0.0,1.563,Computer and Information Systems Managers,Virgin Islands,60,0.0
+35616,24.86,1.344,Computer Systems Analysts,Virgin Islands,50,51710.0
+35617,36.42,1.128,Network and Computer Systems Administrators,Virgin Islands,40,75750.0
+35618,20.84,2.67,Computer User Support Specialists,Virgin Islands,100,43340.0
+35619,20.71,1.203,Computer Network Support Specialists,Virgin Islands,50,43070.0
