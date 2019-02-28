@@ -53,7 +53,7 @@ class Parser():
                 file_dict["state"] = self.clean_data(address[1])
             else:
                 file_dict["state"] = " "
-            file_dict["created_date"] = dt.datetime.today().strftime("%m/%d/%Y")
+            file_dict["created_date"] = pd.datetime.now().strftime("%m-%d-%Y %I:%M:%S") 
             file_dict["created_by"] = self.current_user
 
             # Append dictionary record to list
@@ -110,7 +110,7 @@ class Parser():
             else:
                 file_dict["state"] = " "
                 file_dict["zipcode"] = " "       
-            file_dict["created_date"] = dt.datetime.today().strftime("%m/%d/%Y")
+            file_dict["created_date"] = pd.datetime.now().strftime("%m-%d-%Y %I:%M:%S") 
             file_dict["created_by"] = self.current_user
 
             # Append dictionary record to list
