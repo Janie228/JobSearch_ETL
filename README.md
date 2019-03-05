@@ -1,4 +1,4 @@
-# Project_II_ETL                                                                                                    Jane Wallace
+# Project ETL                                                                                                    Jane Wallace
 Mongo &amp; Web Scraping                                                                                             2/21/2019
 
 ## Janie's Data Science Job Data Munging & Analysis for Tennessee 2017
