@@ -5,8 +5,17 @@ Scrape current jobs in a specific location on two websites, itsmycareer.com and/
 Development still in progress.
  
 # Technologies Used
-Visual Studio Code, Python 3.6+, Jupyter Notebook, MongoDB, chrome driver, pandas, Beautiful Soup, Browser (splinter) 
+Visual Studio Code, Python, Jupyter Notebook, MongoDB, chrome driver, pandas, Beautiful Soup, Browser (splinter) 
 
+# Installation/Setup
+* Clone this repo to your computer
+* Make sure all the technologies are installed and use Python 3 (see above)
+* Open these 2 files in jupyter notebook:
+  1) Job_Cleaning_Loading_MongDB.ipynb
+  2) Job_Analysis_MongoDB.ipynb
+* Make sure the search changes are updated in Job_Cleaning_Loading_MongDB.ipynb before running the file
+![Setup.JPG](Images/Setup.JPG)
+* Update the appropriate codes in Job_Analysis_MongoDB.ipynb if a lot of changes are made in the above file
 
 # Process Flow
 Data Science jobs analysis for Tennessee 2019: 
@@ -25,7 +34,6 @@ Data Science jobs analysis for Tennessee 2019:
 
 ![Population.JPG](Images/Population.JPG)
 
-# Code Files
-* JLFileMgr.py, JLScraper.py, & JLParser.py - reusable codes classes
-* Job_Cleaning_Loading_MongDB.ipynb and Job_Analysis_MongoDB.ipynb - run in jupyter notebook
+
+
 
