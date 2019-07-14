@@ -1,4 +1,4 @@
-# Job Search ETL                                                                   ![jobsearch.JPG](Images/jobsearch.JPG)
+# Job Search ETL                                                                 
 -----
 Scrape itsmycareer.com and/or indeed.com websites for current jobs in a specific location, and analyze job market by comparing to government employment data by occupation, state, and year to get an overview on the job market and payscale. 
 
