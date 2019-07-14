@@ -7,9 +7,8 @@ Scrape current jobs in a specific location on two websites, itsmycareer.com and/
 Visual Studio Code, Python 3.6+, Jupyter Notebook, MongoDB, chrome driver, pandas, Beautiful Soup, Browser (splinter), 
 
 
-# Janie's Data Science Job Data Munging & Analysis for Tennessee 2017.  
-
-Steps in the snippet as followed:
+# Snippet Process
+Janie's Data Science job data munging and analysis for Tennessee 2019.  
 
 * Scrape websites, "https://www.indeed.com" and "https://www.itsmycareer.com", for current jobs and save each webpage as html file
 * Read each html file, format, and store data into MongoDB job database
@@ -19,9 +18,10 @@ Steps in the snippet as followed:
 * Select the desired columns from MongoDB and read back to dataframe for analysis
 * Save result dataset into excel sheet in Output directory
 
-## Job_Cleaning_Loading_MongDB.ipynb and Job_Analysis_MongoDB.ipynb Files display the process with reusable code classes JLFileMgr.py, JLScraper.py, & JLParser.py 
-------
-#MongoDB Job_DB
+# Files
+Job_Cleaning_Loading_MongDB.ipynb and Job_Analysis_MongoDB.ipynb Files display the coding process with reusable classes JLFileMgr.py, JLScraper.py, & JLParser.py 
+
+# MongoDB Job_DB
 
 ![Jobs.JPG](Images/Jobs.JPG)
 
