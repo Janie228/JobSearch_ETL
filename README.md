@@ -1,6 +1,8 @@
 # Job Search ETL
 -----
-Scrape current jobs in a specific location on two websites, itsmycareer.com and/or indeed.com, and analyze job market by  comparing to government's data on employment by occupation, state, and year to get an overview on the job market and payscale. Development still in progress.
+Scrape current jobs in a specific location on two websites, itsmycareer.com and/or indeed.com, and analyze job market by comparing to government employment data by occupation, state, and year to get an overview on the job market and payscale. 
+
+Development still in progress.
  
 # Technologies Used
 Visual Studio Code, Python 3.6+, Jupyter Notebook, MongoDB, chrome driver, pandas, Beautiful Soup, Browser (splinter) 
@@ -23,8 +25,7 @@ Data Science jobs analysis for Tennessee 2019:
 
 ![Population.JPG](Images/Population.JPG)
 
-# Files
-These three files are reusable code that is importedJLFileMgr.py, JLScraper.py, & JLParser.py
-
-Job_Cleaning_Loading_MongDB.ipynb and Job_Analysis_MongoDB.ipynb Files display the coding process with reusable classes JLFileMgr.py, JLScraper.py, & JLParser.py 
+# Code Files
+* JLFileMgr.py, JLScraper.py, & JLParser.py - reusable codes classes
+* Job_Cleaning_Loading_MongDB.ipynb and Job_Analysis_MongoDB.ipynb - run in jupyter notebook
 
