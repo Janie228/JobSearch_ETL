@@ -4,7 +4,7 @@ Scrape current jobs in a specific location on two websites, itsmycareer.com and/
  
 # Technologies Used
 
-Visual Studio Code, Python 3.6+, Jupyter Notebook, MongoDB, chrome driver, pandas, Beautiful Soup, Browser (splinter), 
+Visual Studio Code, Python 3.6+, Jupyter Notebook, MongoDB, chrome driver, pandas, Beautiful Soup, Browser (splinter) 
 
 
 # Snippet Process
