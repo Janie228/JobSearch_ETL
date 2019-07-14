@@ -60,7 +60,6 @@ class Scraper():
                     html = browser.html
                     soup = bs(html, 'html.parser')
 
-
                     # Concatenate file path
                     output_path = os.path.join(".", self.dir_path, str(x) + "_" + dt.datetime.today().strftime("%m-%d-%Y_%H%M%S")  + "_" + self.file_name + ".html")
 
