@@ -1,6 +1,6 @@
 # Job Search ETL
 -----
-Scrape current jobs in a specific location on two websites, itsmycareer.com and/or indeed.com, and analyze job market by comparing to government employment data by occupation, state, and year to get an overview on the job market and payscale. 
+Scrape itsmycareer.com and/or indeed.com websites for current jobs in a specific location, and analyze job market by comparing to government employment data by occupation, state, and year to get an overview on the job market and payscale. 
 
 Development still in progress.
  
