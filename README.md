@@ -34,6 +34,8 @@ Data Science jobs analysis for Tennessee 2019:
 
 ![Population.JPG](Images/Population.JPG)
 
+## Copyright
+Janie (C) 2019. All Rights Reserved.
 
 
 
