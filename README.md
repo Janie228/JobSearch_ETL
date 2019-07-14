@@ -10,11 +10,10 @@ Visual Studio Code, Python, Jupyter Notebook, MongoDB, chrome driver, pandas, Be
 # Installation/Setup
 * Clone this repo to your computer
 * Make sure all the technologies are installed and use Python 3 (see above)
-* Make sure the path to the chrome driver is correct
 * Open these 2 files in jupyter notebook:
   1) Job_Cleaning_Loading_MongDB.ipynb
   2) Job_Analysis_MongoDB.ipynb
-* Make sure the search changes are updated in Job_Cleaning_Loading_MongDB.ipynb before running the file
+* Make sure the search changes and chrome driver path are updated in Job_Cleaning_Loading_MongDB.ipynb before running the file
 ![Setup.JPG](Images/Setup.JPG)
 * Update the appropriate codes in Job_Analysis_MongoDB.ipynb if a lot of changes are made in the above file
 
