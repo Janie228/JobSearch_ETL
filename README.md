@@ -18,9 +18,6 @@ Janie's Data Science job data munging and analysis for Tennessee 2019.
 * Select the desired columns from MongoDB and read back to dataframe for analysis
 * Save result dataset into excel sheet in Output directory
 
-# Files
-Job_Cleaning_Loading_MongDB.ipynb and Job_Analysis_MongoDB.ipynb Files display the coding process with reusable classes JLFileMgr.py, JLScraper.py, & JLParser.py 
-
 # MongoDB Job_DB
 
 ![Jobs.JPG](Images/Jobs.JPG)
@@ -28,3 +25,7 @@ Job_Cleaning_Loading_MongDB.ipynb and Job_Analysis_MongoDB.ipynb Files display t
 ![Employment.JPG](Images/Employment.JPG)
 
 ![Population.JPG](Images/Population.JPG)
+
+# Files
+Job_Cleaning_Loading_MongDB.ipynb and Job_Analysis_MongoDB.ipynb Files display the coding process with reusable classes JLFileMgr.py, JLScraper.py, & JLParser.py 
+
