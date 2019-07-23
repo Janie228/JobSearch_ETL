@@ -1,7 +1,7 @@
 # Job Search ETL                                                                 
 -----
 # Purpose:
-To meet the project requirements stated in Instruction folder and to help job seekers have a glimpse of the job market, I choose to do web scraping on itsmycareer.com and indeed.com websites for a specific jobs in a specific location, and analyze the job market by comparing to government employment data by occupation, state, and year to get an overview on the job market and payscale. 
+To meet the project requirements stated in Instruction folder and to help job seekers have a glimpse of the job market and payscale, I choose to do web scraping on itsmycareer.com and indeed.com websites for specific job(s) in specific location(s), and analyzing these data in relation to government employment dataset by occupation, state, and year. 
  
 # Technologies Used
 Visual Studio Code, Python, Jupyter Notebook, MongoDB, chrome driver, pandas, Beautiful Soup, Browser (splinter) 
