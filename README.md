@@ -39,6 +39,7 @@ Visual Studio Code, Python, Jupyter Notebook, MongoDB, chrome driver, pandas, Be
 # :warning: Important Notes
 * If the scraping web urls (itsmycareer & indeed) changed, code in the three .py scripts need to be updated.
 
+
 ## Copyright
 Janie ©️ 2019. All Rights Reserved.
 
