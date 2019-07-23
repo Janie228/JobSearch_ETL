@@ -36,8 +36,8 @@ Visual Studio Code, Python, Jupyter Notebook, MongoDB, chrome driver, pandas, Be
 * Output folder excel files
 * Datatable results in script file: Job_Analysis_MongoDB.ipynb
 
-# Important Notes
-* ![important.ico](Images/important.ico) If the scraping web urls (itsmycareer & indeed) changed, code in the three .py scripts need to be updated.
+# :warning: Important Notes
+* If the scraping web urls (itsmycareer & indeed) changed, code in the three .py scripts need to be updated.
 
 ## Copyright
 Janie (C) 2019. All Rights Reserved.
