@@ -26,6 +26,7 @@ Visual Studio Code, Python, Jupyter Notebook, MongoDB, chrome driver, pandas, Be
 
 # Results of Data Science jobs analysis for NJ & TN  
 * MongoDB Job_DB Snapshots
+
 ![Jobs.JPG](Images/Jobs.JPG)
 
 ![Employment.JPG](Images/Employment.JPG)
