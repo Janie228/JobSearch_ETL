@@ -24,7 +24,7 @@ Visual Studio Code, Python, Jupyter Notebook, MongoDB, chrome driver, pandas, Be
 * Select the desired columns from MongoDB and read back to dataframe for analysis
 * Save result dataset into excel sheet in Output directory
 
-## Results of Data Science jobs analysis for NJ & TN  
+## Results of Data Science Jobs Analysis for NJ & TN  
 * MongoDB Job_DB Snapshots
 
 ![Jobs.JPG](Images/Jobs.JPG)
@@ -41,6 +41,6 @@ Visual Studio Code, Python, Jupyter Notebook, MongoDB, chrome driver, pandas, Be
 -----
 
 #### Copyright
-Janie ©? 2019. All Rights Reserved.
+Janie © 2019. All Rights Reserved.
 
 
