@@ -41,9 +41,6 @@ Visual Studio Code, Python, Jupyter Notebook, MongoDB, chrome driver, pandas, Be
 -----
 
 #### Copyright
-Janie ©️ 2019. All Rights Reserved.
-
-
-
+Janie �? 2019. All Rights Reserved.
 
 
