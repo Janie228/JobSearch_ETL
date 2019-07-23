@@ -1,7 +1,7 @@
 # Job Search ETL                                                                 
 -----
 # Purpose:
-To meet the project requirements stated in Instruction folder and to help job seekers have a glimpse of the job market and payscale, I choose to do web scraping on itsmycareer.com and indeed.com websites for specific job(s) in specific location(s), and analyzing these data in relation to government employment dataset by occupation, state, and year. 
+To meet the project requirements stated in Instruction folder and to help job seekers have a glimpse of the job market and payscale, I choose to do web scraping on two websites for specific job(s) in specific location(s), and analyzing these data in relation to government employment dataset by occupation, state, and year. 
  
 # Technologies Used
 Visual Studio Code, Python, Jupyter Notebook, MongoDB, chrome driver, pandas, Beautiful Soup, Browser (splinter) 
@@ -35,6 +35,8 @@ Visual Studio Code, Python, Jupyter Notebook, MongoDB, chrome driver, pandas, Be
 * Output folder excel files
 * Datatable results in script file: Job_Analysis_MongoDB.ipynb
 
+# ![important.ico](Images/important.ico) Important Notes
+* If the scraping web urls (itsmycareer & indeed) changed, code in the three .py scripts need to be updated.
 
 ## Copyright
 Janie (C) 2019. All Rights Reserved.
