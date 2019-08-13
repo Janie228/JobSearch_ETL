@@ -16,7 +16,7 @@ Visual Studio Code, Python, Jupyter Notebook, MongoDB, chrome driver, pandas, Be
 ![Setup.JPG](Images/Setup.JPG)
 * Update the appropriate codes in Job_Analysis_MongoDB.ipynb if a lot of changes are made in the above file
 
-## Process Flow
+## Workflow Process
 * Scrape websites, "https://www.indeed.com" and "https://www.itsmycareer.com", for current jobs and save each webpage as html file
 * Read each html file, format, and store data into MongoDB job database
 * Download excel file from "https://www.bls.gov" for employment by occupation and state
@@ -41,6 +41,6 @@ Visual Studio Code, Python, Jupyter Notebook, MongoDB, chrome driver, pandas, Be
 -----
 
 #### Copyright
-Janie © 2019. All Rights Reserved.
+Janie Â© 2019. All Rights Reserved.
 
 
