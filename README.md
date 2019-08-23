@@ -4,7 +4,7 @@
 To meet the project requirements stated in Instruction folder and to help job seekers have a glimpse of the job market and payscale, I choose to do web scraping on two websites for specific job(s) in specific location(s), and analyzing these data in relation to government employment dataset by occupation, state, and year. 
 
 ---
-## Results of Jobs Analysis for NJ & TN  
+## Project Results 
 * MongoDB Job_DB Snapshots
 
 ![Jobs.JPG](Images/Jobs.JPG)
