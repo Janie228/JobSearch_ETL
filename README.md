@@ -15,10 +15,17 @@ To meet the project requirements stated in Instruction folder and to help job se
 
 * Output folder excel files
 * Datatable results in script file: Job_Analysis_MongoDB.ipynb
+* Data processing snapshots
+  1) web-scraping 
+    ![Scraping.JPG](Images/Scraping.JPG)
+  2) upsert to mongoDB
+    ![Mongo_Upsert.JPG](Images/Mongo_Upsert.JPG)
+  3) reading & cleaning excel data
+    ![Read_Format_ExcelData.JPG](Images/Read_Format_ExcelData.JPG) 
 
 ---
 ## Technologies Used
-Visual Studio Code, Python, Jupyter Notebook, MongoDB, chrome driver, pandas, Beautiful Soup, Splinter
+Visual Studio Code, Python, Jupyter Notebook, MongoDB, chrome driver, pandas, Beautiful Soup, Splinter, html dataset, excel dataset
 
 ---
 ## Installation/Setup
