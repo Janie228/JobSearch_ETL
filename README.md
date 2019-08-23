@@ -4,8 +4,6 @@
 To meet the project requirements stated in Instruction folder and to help job seekers have a glimpse of the job market and payscale, I choose to do web scraping on two websites for specific job(s) in specific location(s), and analyzing these data in relation to government employment dataset by occupation, state, and year. 
 
 ---
----
-
 ## Results of Data Science Jobs Analysis for NJ & TN  
 * MongoDB Job_DB Snapshots
 
@@ -19,12 +17,10 @@ To meet the project requirements stated in Instruction folder and to help job se
 * Datatable results in script file: Job_Analysis_MongoDB.ipynb
 
 ---
-
 ## Technologies Used
 Visual Studio Code, Python, Jupyter Notebook, MongoDB, chrome driver, pandas, Beautiful Soup, Browser (Splinter) 
 
 ---
-
 ## Installation/Setup
 * Clone this repo to your computer
 * Make sure all the technologies above are installed and use Python 3+ 
@@ -36,7 +32,6 @@ Visual Studio Code, Python, Jupyter Notebook, MongoDB, chrome driver, pandas, Be
 * Update the appropriate codes in Job_Analysis_MongoDB.ipynb if a lot of changes are made in the above file
 
 ---
-
 ## Workflow Process
 * Scrape websites, "https://www.indeed.com" and "https://www.itsmycareer.com", for current jobs and save each webpage as html file
 * Read each html file, format, and store data into MongoDB job database
@@ -46,12 +41,10 @@ Visual Studio Code, Python, Jupyter Notebook, MongoDB, chrome driver, pandas, Be
 * Save result dataset into excel sheet in Output directory
 
 ---
-
 ## :warning: Important Notes
 * If the scraping web urls (itsmycareer & indeed) changed, code in the three .py scripts need to be updated.
 
 -----
-
 #### Copyright
 © 2019 Janie. All Rights Reserved.
 
