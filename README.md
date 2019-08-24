@@ -1,4 +1,4 @@
-# Job Search Analysis                                                                 
+# Job Market Analysis                                                                 
 -----
 ## Purpose:
 To meet the project requirements stated in Instruction folder and to help job seekers have a glimpse of the job market and payscale, I choose to do web scraping on two websites for specific job(s) in specific location(s), and analyzing these data in relation to government employment dataset by occupation, state, and year. 
@@ -40,12 +40,12 @@ Visual Studio Code, Python, Jupyter Notebook, MongoDB, chrome driver, pandas, Be
 
 ---
 ## Project Workflow Process
-* Scrape websites, "https://www.indeed.com" and "https://www.itsmycareer.com", for current jobs and save each webpage as html file
-* Read each html file, format, and store data into MongoDB job database
-* Download excel file from "https://www.bls.gov" for employment by occupation and state
-* Read the excel files into dataframe, clean, format and merge with US population by state, and load to job database
-* Select the desired columns from MongoDB and read back to dataframe for analysis
-* Save result dataset into excel sheet in Output directory
+* Scrape specific jobs dataset from two websites, "https://www.indeed.com" and "https://www.itsmycareer.com", for current jobs and save each webpage as html file
+* Read each html file, extract, transform, and load data into Job Mongo database
+* Download excel files from government website, "https://www.bls.gov", for employment by occupation, state, and year dataset
+* Read each excel file into dataframe, extract, transform, and load data to Job Mongo database
+* Read selected data from MongoDB back into dataframe for further transformation
+* Save result dataset into excel sheet in Output directory for analysis
 
 ---
 ## :warning: Important Notes
